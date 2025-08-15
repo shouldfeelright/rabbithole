@@ -6,11 +6,16 @@ from nltk.corpus import wordnet as wn
 from nltk import pos_tag, word_tokenize
 from pathlib import Path
 from datetime import datetime, timezone
+import spacy
+import pyinflect
 
 nltk.download('punkt_tab', quiet=True)
 nltk.download('averaged_perceptron_tagger_eng', quiet=True)
 nltk.download('wordnet', quiet=True)
 nltk.download('omw-1.4', quiet=True)
+
+# For checking verb inflection
+nlp = spacy.load("en_core_web_sm")
 
 README_FILE = Path("README.md")
 HISTORY_FILE = Path(".history.json")
@@ -51,6 +56,15 @@ def get_wordnet_pos(treebank_tag):
         return wn.ADV
     else:
         return None
+
+def match_tense(original_word, replacement_word, pos_tag):
+    """Inflect replacement word to match original word tense if verb"""
+    if pos_tag.startswith("V"):
+        doc = nlp(replacement_word)
+        token = doc[0]
+        inflected = token._.inflect(pos_tag)
+        return inflected if inflected else replacement_word
+    return replacement_word
 
 # Build a flat list of (word, pos) for eligible_indices
 flat_tagged = []
@@ -122,8 +136,19 @@ for idx in eligible_indices:
         weights = [score / total_score for _, score in scored_syns]
         replacement, chosen_score = random.choices(scored_syns, weights=weights, k=1)[0]
 
-    # Replace token in flattened list
-    flat_tokens[idx] = replacement
+    # Preserve tense for verbs
+    # Inflect first word if verb; leave other words as-is
+    replacement_words = replacement.split()
+    replacement_words[0] = match_tense(word, replacement_words[0], pos)
+
+    # Replace token in flattened list (support multi-word)
+    flat_tokens = flat_tokens[:idx] + replacement_words + flat_tokens[idx+1:]
+    # Adjust token_map for new tokens
+    original_line_idx, _ = token_map[idx]
+    new_map_entries = [(original_line_idx, None)] * len(replacement_words)
+    token_map = token_map[:idx] + new_map_entries + token_map[idx+1:]
+    flat_tagged = flat_tagged[:idx] + [(w, pos) for w in replacement_words] + flat_tagged[idx+1:]
+
     history["used_synonyms"].setdefault(word.lower(), []).append(replacement)
 
     # Log change
