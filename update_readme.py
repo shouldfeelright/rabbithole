@@ -53,9 +53,16 @@ def get_wordnet_pos(treebank_tag):
     else:
         return None
 
+
+# Build a flat list of (word, pos) for eligible_indices
+flat_tagged = []
+for line_tags in tagged_lines:
+    for word, pos in line_tags:
+        flat_tagged.append((word, pos))
+
 # Skip all proper nouns except "Alice"
 eligible_indices = [
-    i for i, (word, pos) in enumerate(tagged_lines)
+    i for i, (word, pos) in enumerate(flat_tagged)
     if (pos not in ('NNP', 'NNPS') or word == "Alice") and word.isalpha()
 ]
 
