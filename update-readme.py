@@ -9,10 +9,10 @@ from datetime import datetime, timezone
 import spacy
 import pyinflect
 
-nltk.download('punkt_tab', quiet=True)
-nltk.download('averaged_perceptron_tagger_eng', quiet=True)
-nltk.download('wordnet', quiet=True)
-nltk.download('omw-1.4', quiet=True)
+nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')
+nltk.download('wordnet')
+nltk.download('omw-1.4')
 
 # For checking verb inflection
 nlp = spacy.load("en_core_web_sm")
