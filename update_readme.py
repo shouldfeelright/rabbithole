@@ -8,8 +8,8 @@ from pathlib import Path
 from datetime import datetime
 
 # Download NLTK data (first run only)
-nltk.download('punkt_tab', quiet=True)
-nltk.download('averaged_perceptron_tagger_eng', quiet=True)
+nltk.download('punkt', quiet=True)
+nltk.download('averaged_perceptron_tagger', quiet=True)
 nltk.download('wordnet', quiet=True)
 nltk.download('omw-1.4', quiet=True)
 
