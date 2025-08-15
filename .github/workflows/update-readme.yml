@@ -24,6 +24,7 @@ jobs:
              pip install nltk
              pip install spacy
              pip install pyinflect
+             python -m spacy download en_core_web_sm
 
       - name: Run update script
         run: python update-readme.py
