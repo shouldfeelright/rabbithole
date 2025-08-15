@@ -5,8 +5,9 @@ import nltk
 from nltk.corpus import wordnet as wn
 from nltk import pos_tag, word_tokenize
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timezone
 
+# Fix resource names
 nltk.download('punkt_tab', quiet=True)
 nltk.download('averaged_perceptron_tagger_eng', quiet=True)
 nltk.download('wordnet', quiet=True)
@@ -134,20 +135,19 @@ for idx in eligible_indices:
 
 if replacement_made:
     # Rebuild text with original line breaks
-    updated_text = " ".join(tokens)
-    updated_text = re.sub(r'\s+([?.!,;:])', r'\1', updated_text)
-
-    # Preserve original empty lines by combining with the original line structure
     final_text_lines = []
     token_idx = 0
     for line in lines:
         line_tokens = word_tokenize(line)
         reconstructed = []
         for _ in line_tokens:
-            if token_idx < len(tokens):
-                reconstructed.append(tokens[token_idx])
+            if token_idx < len(flat_tokens):
+                reconstructed.append(flat_tokens[token_idx])
                 token_idx += 1
-        final_text_lines.append(" ".join(reconstructed) + ("\n" if line.endswith("\n") else ""))
+        # Remove space before punctuation for each line
+        line_text = " ".join(reconstructed)
+        line_text = re.sub(r'\s+([?.!,;:])', r'\1', line_text)
+        final_text_lines.append(line_text + ("\n" if line.endswith("\n") else ""))
 
     # Save updates to README and history log
     README_FILE.write_text("".join(final_text_lines), encoding="utf-8")
