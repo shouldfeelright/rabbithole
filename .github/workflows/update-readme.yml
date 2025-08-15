@@ -23,6 +23,7 @@ jobs:
         run: |
              pip install nltk
              pip install spacy
+             pip install pyinflect
 
       - name: Run update script
         run: python update-readme.py
