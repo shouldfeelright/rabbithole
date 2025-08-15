@@ -7,7 +7,6 @@ from nltk import pos_tag, word_tokenize
 from pathlib import Path
 from datetime import datetime, timezone
 
-# Fix resource names
 nltk.download('punkt_tab', quiet=True)
 nltk.download('averaged_perceptron_tagger_eng', quiet=True)
 nltk.download('wordnet', quiet=True)
@@ -53,10 +52,16 @@ def get_wordnet_pos(treebank_tag):
     else:
         return None
 
-# Skip all proper nouns except "Alice"
+# Build a flat list of (word, pos) for eligible_indices
+flat_tagged = []
+for line_tags in tagged_lines:
+    for word, pos in line_tags:
+        flat_tagged.append((word, pos))
+
+# Eligible indices; skip only Alice
 eligible_indices = [
-    i for i, (word, pos) in enumerate(tagged_lines)
-    if (pos not in ('NNP', 'NNPS') or word == "Alice") and word.isalpha()
+    i for i, (word, pos) in enumerate(flat_tagged)
+    if word.isalpha() and word != "Alice"
 ]
 
 if not eligible_indices:
