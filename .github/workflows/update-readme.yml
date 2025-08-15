@@ -20,7 +20,9 @@ jobs:
           python-version: "3.x"
 
       - name: Install dependencies
-        run: pip install nltk
+        run: |
+             pip install nltk
+             pip install spacy
 
       - name: Run update script
         run: python update-readme.py
