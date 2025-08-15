@@ -2,6 +2,9 @@
   "used_synonyms": {
     "is": [
       "be"
+    ],
+    "there": [
+      "thither"
     ]
   },
   "changes": [
@@ -11,6 +14,13 @@
       "original_word": "is",
       "replacement_word": "be",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2025-08-15T04:37:45.651886Z",
+      "index": 2319,
+      "original_word": "there",
+      "replacement_word": "thither",
+      "similarity": 0.5
     }
   ]
 }
