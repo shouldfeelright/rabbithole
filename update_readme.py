@@ -7,15 +7,16 @@ from nltk import pos_tag, word_tokenize
 from pathlib import Path
 from datetime import datetime
 
-# Download NLTK data (first run only)
-nltk.download('punkt', quiet=True)
-nltk.download('averaged_perceptron_tagger', quiet=True)
+nltk.download('punkt_tab', quiet=True)
+nltk.download('averaged_perceptron_tagger_eng', quiet=True)
 nltk.download('wordnet', quiet=True)
 nltk.download('omw-1.4', quiet=True)
 
-# Files
 README_FILE = Path("README.md")
 HISTORY_FILE = Path(".history.json")
+
+# Load text as lines
+lines = README_FILE.read_text(encoding="utf-8").splitlines()
 
 # Load history
 if HISTORY_FILE.exists():
@@ -27,12 +28,17 @@ else:
         "changes": []         # ordered change log
     }
 
-# Read README
-text = README_FILE.read_text(encoding="utf-8")
+# Tokenize all lines separately to preserve empty lines
+tokenized_lines = [word_tokenize(line) for line in lines]
+tagged_lines = [pos_tag(tokens) for tokens in tokenized_lines]
 
-# Tokenize & POS tag
-tokens = word_tokenize(text)
-tagged = pos_tag(tokens)
+# Flatten tokens and keep mapping to line/word index
+flat_tokens = []
+token_map = []
+for line_idx, tokens in enumerate(tokenized_lines):
+    for word_idx, token in enumerate(tokens):
+        flat_tokens.append(token)
+        token_map.append((line_idx, word_idx))
 
 def get_wordnet_pos(treebank_tag):
     if treebank_tag.startswith('J'):
@@ -46,10 +52,10 @@ def get_wordnet_pos(treebank_tag):
     else:
         return None
 
-# Eligible indices (no proper nouns)
+# Skip all proper nouns except "Alice"
 eligible_indices = [
     i for i, (word, pos) in enumerate(tagged)
-    if pos not in ('NNP', 'NNPS') and word.isalpha()
+    if (pos not in ('NNP', 'NNPS') or word == "Alice") and word.isalpha()
 ]
 
 if not eligible_indices:
@@ -60,7 +66,8 @@ random.shuffle(eligible_indices)
 replacement_made = False
 
 for idx in eligible_indices:
-    word, pos = tagged[idx]
+    word = flat_tokens[idx]
+    pos = pos_tag([word])[0][1]
     wn_pos = get_wordnet_pos(pos)
     if not wn_pos:
         continue
@@ -71,7 +78,7 @@ for idx in eligible_indices:
 
     # Gather synonyms
     synonyms = set()
-    for syn in wn.synsets(word, pos=wn_pos):
+    for syn in original_synsets:
         for lemma in syn.lemmas():
             candidate = lemma.name().replace('_', ' ')
             if candidate.lower() != word.lower():
@@ -80,7 +87,7 @@ for idx in eligible_indices:
     if not synonyms:
         continue
 
-    # Remove previously used synonyms
+    # Don't reuse previous synonyms
     used_syns = set(history["used_synonyms"].get(word.lower(), []))
     available_syns = list(synonyms - used_syns)
     if not available_syns:
@@ -99,7 +106,7 @@ for idx in eligible_indices:
 
     if not scored_syns:
         continue
-
+        
     # Weighted choice by similarity
     total_score = sum(score for _, score in scored_syns)
     if total_score == 0:
@@ -109,13 +116,13 @@ for idx in eligible_indices:
         weights = [score / total_score for _, score in scored_syns]
         replacement, chosen_score = random.choices(scored_syns, weights=weights, k=1)[0]
 
-    # Replace token
-    tokens[idx] = replacement
+    # Replace token in flattened list
+    flat_tokens[idx] = replacement
     history["used_synonyms"].setdefault(word.lower(), []).append(replacement)
 
     # Log change
     history["changes"].append({
-        "timestamp": datetime.utcnow().isoformat() + "Z",
+        "timestamp": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
         "index": idx,
         "original_word": word,
         "replacement_word": replacement,
@@ -126,9 +133,23 @@ for idx in eligible_indices:
     break
 
 if replacement_made:
+    # Rebuild text with original line breaks
     updated_text = " ".join(tokens)
     updated_text = re.sub(r'\s+([?.!,;:])', r'\1', updated_text)
 
-    README_FILE.write_text(updated_text, encoding="utf-8")
+    # Preserve original empty lines by combining with the original line structure
+    final_text_lines = []
+    token_idx = 0
+    for line in lines:
+        line_tokens = word_tokenize(line)
+        reconstructed = []
+        for _ in line_tokens:
+            if token_idx < len(tokens):
+                reconstructed.append(tokens[token_idx])
+                token_idx += 1
+        final_text_lines.append(" ".join(reconstructed) + ("\n" if line.endswith("\n") else ""))
+
+    # Save updates to README and history log
+    README_FILE.write_text("".join(final_text_lines), encoding="utf-8")
     with open(HISTORY_FILE, "w", encoding="utf-8") as f:
         json.dump(history, f, indent=2, ensure_ascii=False)
