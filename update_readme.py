@@ -134,22 +134,25 @@ for idx in eligible_indices:
     break
 
 if replacement_made:
-    # Rebuild text with original line breaks
+    # Rebuild text with original line breaks, preserving empty lines
     final_text_lines = []
     token_idx = 0
     for line in lines:
-        line_tokens = word_tokenize(line)
-        reconstructed = []
-        for _ in line_tokens:
-            if token_idx < len(flat_tokens):
-                reconstructed.append(flat_tokens[token_idx])
-                token_idx += 1
-        # Remove space before punctuation for each line
-        line_text = " ".join(reconstructed)
-        line_text = re.sub(r'\s+([?.!,;:])', r'\1', line_text)
-        final_text_lines.append(line_text + ("\n" if line.endswith("\n") else ""))
+        if line.strip() == "":
+            final_text_lines.append("")  # preserve empty line
+        else:
+            line_tokens = word_tokenize(line)
+            reconstructed = []
+            for _ in line_tokens:
+                if token_idx < len(flat_tokens):
+                    reconstructed.append(flat_tokens[token_idx])
+                    token_idx += 1
+            # Remove space before punctuation for each line
+            line_text = " ".join(reconstructed)
+            line_text = re.sub(r'\s+([?.!,;:])', r'\1', line_text)
+            final_text_lines.append(line_text + ("\n" if line.endswith("\n") else ""))
 
     # Save updates to README and history log
-    README_FILE.write_text("".join(final_text_lines), encoding="utf-8")
+    README_FILE.write_text("\n".join(final_text_lines), encoding="utf-8")
     with open(HISTORY_FILE, "w", encoding="utf-8") as f:
         json.dump(history, f, indent=2, ensure_ascii=False)
