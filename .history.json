@@ -1,0 +1,16 @@
+{
+  "used_synonyms": {
+    "is": [
+      "be"
+    ]
+  },
+  "changes": [
+    {
+      "timestamp": "2025-08-15T04:31:49.290553Z",
+      "index": 49,
+      "original_word": "is",
+      "replacement_word": "be",
+      "similarity": 1.0
+    }
+  ]
+}
