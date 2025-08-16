@@ -5,6 +5,9 @@
     ],
     "there": [
       "thither"
+    ],
+    "somebody": [
+      "soul"
     ]
   },
   "changes": [
@@ -21,6 +24,13 @@
       "original_word": "there",
       "replacement_word": "thither",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-08-16T04:19:33.319243Z",
+      "index": 490,
+      "original_word": "somebody",
+      "replacement_word": "soul",
+      "similarity": 0.6
     }
   ]
 }
