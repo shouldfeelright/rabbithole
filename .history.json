@@ -8,6 +8,9 @@
     ],
     "somebody": [
       "soul"
+    ],
+    "sort": [
+      "form"
     ]
   },
   "changes": [
@@ -31,6 +34,13 @@
       "original_word": "somebody",
       "replacement_word": "soul",
       "similarity": 0.6
+    },
+    {
+      "timestamp": "2025-08-17T04:28:29.103788Z",
+      "index": 1024,
+      "original_word": "sort",
+      "replacement_word": "form",
+      "similarity": 0.25
     }
   ]
 }
