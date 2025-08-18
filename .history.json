@@ -11,6 +11,9 @@
     ],
     "sort": [
       "form"
+    ],
+    "not": [
+      "non"
     ]
   },
   "changes": [
@@ -41,6 +44,13 @@
       "original_word": "sort",
       "replacement_word": "form",
       "similarity": 0.25
+    },
+    {
+      "timestamp": "2025-08-18T04:34:16.908263Z",
+      "index": 1790,
+      "original_word": "not",
+      "replacement_word": "non",
+      "similarity": 1.0
     }
   ]
 }
