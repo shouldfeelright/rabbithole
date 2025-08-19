@@ -14,6 +14,9 @@
     ],
     "not": [
       "non"
+    ],
+    "somewhere": [
+      "someplace"
     ]
   },
   "changes": [
@@ -50,6 +53,13 @@
       "index": 1790,
       "original_word": "not",
       "replacement_word": "non",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2025-08-19T04:17:35.250669Z",
+      "index": 610,
+      "original_word": "somewhere",
+      "replacement_word": "someplace",
       "similarity": 1.0
     }
   ]
