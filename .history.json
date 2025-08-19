@@ -17,6 +17,9 @@
     ],
     "somewhere": [
       "someplace"
+    ],
+    "began": [
+      "begin"
     ]
   },
   "changes": [
@@ -60,6 +63,13 @@
       "index": 610,
       "original_word": "somewhere",
       "replacement_word": "someplace",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2025-08-19T05:34:12.141159Z",
+      "index": 915,
+      "original_word": "began",
+      "replacement_word": "begin",
       "similarity": 1.0
     }
   ]
