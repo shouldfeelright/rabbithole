@@ -20,6 +20,9 @@
     ],
     "began": [
       "begin"
+    ],
+    "suddenly": [
+      "abruptly"
     ]
   },
   "changes": [
@@ -71,6 +74,13 @@
       "original_word": "began",
       "replacement_word": "begin",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2025-08-20T04:18:03.774532Z",
+      "index": 1121,
+      "original_word": "suddenly",
+      "replacement_word": "abruptly",
+      "similarity": 0.5
     }
   ]
 }
