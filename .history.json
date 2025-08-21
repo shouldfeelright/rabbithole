@@ -23,6 +23,9 @@
     ],
     "suddenly": [
       "abruptly"
+    ],
+    "large": [
+      "prominent"
     ]
   },
   "changes": [
@@ -80,6 +83,13 @@
       "index": 1121,
       "original_word": "suddenly",
       "replacement_word": "abruptly",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-08-21T04:17:36.934155Z",
+      "index": 1707,
+      "original_word": "large",
+      "replacement_word": "prominent",
       "similarity": 0.5
     }
   ]
