@@ -26,6 +26,9 @@
     ],
     "large": [
       "prominent"
+    ],
+    "way": [
+      "agency"
     ]
   },
   "changes": [
@@ -91,6 +94,13 @@
       "original_word": "large",
       "replacement_word": "prominent",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-08-22T04:16:34.875896Z",
+      "index": 2530,
+      "original_word": "way",
+      "replacement_word": "agency",
+      "similarity": 0.3077
     }
   ]
 }
