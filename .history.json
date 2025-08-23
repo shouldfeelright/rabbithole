@@ -29,6 +29,9 @@
     ],
     "way": [
       "agency"
+    ],
+    "moment": [
+      "minute"
     ]
   },
   "changes": [
@@ -101,6 +104,13 @@
       "original_word": "way",
       "replacement_word": "agency",
       "similarity": 0.3077
+    },
+    {
+      "timestamp": "2025-08-23T04:16:07.386561Z",
+      "index": 1199,
+      "original_word": "moment",
+      "replacement_word": "minute",
+      "similarity": 0.6
     }
   ]
 }
