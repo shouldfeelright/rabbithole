@@ -32,6 +32,9 @@
     ],
     "moment": [
       "minute"
+    ],
+    "little": [
+      "petty"
     ]
   },
   "changes": [
@@ -111,6 +114,13 @@
       "original_word": "moment",
       "replacement_word": "minute",
       "similarity": 0.6
+    },
+    {
+      "timestamp": "2025-08-24T04:20:48.946448Z",
+      "index": 2010,
+      "original_word": "little",
+      "replacement_word": "petty",
+      "similarity": 0.5
     }
   ]
 }
