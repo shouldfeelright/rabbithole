@@ -28,7 +28,8 @@
       "prominent"
     ],
     "way": [
-      "agency"
+      "agency",
+      "fashion"
     ],
     "moment": [
       "minute"
@@ -121,6 +122,13 @@
       "original_word": "little",
       "replacement_word": "petty",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-08-25T04:21:34.986807Z",
+      "index": 2417,
+      "original_word": "way",
+      "replacement_word": "fashion",
+      "similarity": 1.0
     }
   ]
 }
