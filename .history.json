@@ -36,6 +36,9 @@
     ],
     "little": [
       "petty"
+    ],
+    "tried": [
+      "examine"
     ]
   },
   "changes": [
@@ -129,6 +132,13 @@
       "original_word": "way",
       "replacement_word": "fashion",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2025-08-26T04:17:33.251968Z",
+      "index": 2051,
+      "original_word": "tried",
+      "replacement_word": "examine",
+      "similarity": 0.4
     }
   ]
 }
