@@ -45,6 +45,9 @@
     ],
     "key": [
       "winder"
+    ],
+    "filled": [
+      "fulfill"
     ]
   },
   "changes": [
@@ -159,6 +162,13 @@
       "original_word": "key",
       "replacement_word": "winder",
       "similarity": 0.4706
+    },
+    {
+      "timestamp": "2025-08-29T04:17:04.464699Z",
+      "index": 430,
+      "original_word": "filled",
+      "replacement_word": "fulfill",
+      "similarity": 0.25
     }
   ]
 }
