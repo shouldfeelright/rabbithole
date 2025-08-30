@@ -48,6 +48,9 @@
     ],
     "filled": [
       "fulfill"
+    ],
+    "poor": [
+      "misfortunate"
     ]
   },
   "changes": [
@@ -169,6 +172,13 @@
       "original_word": "filled",
       "replacement_word": "fulfill",
       "similarity": 0.25
+    },
+    {
+      "timestamp": "2025-08-30T04:15:35.536087Z",
+      "index": 2307,
+      "original_word": "poor",
+      "replacement_word": "misfortunate",
+      "similarity": 1.0
     }
   ]
 }
