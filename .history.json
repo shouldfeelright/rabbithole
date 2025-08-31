@@ -51,6 +51,9 @@
     ],
     "poor": [
       "misfortunate"
+    ],
+    "other": [
+      "early"
     ]
   },
   "changes": [
@@ -179,6 +182,13 @@
       "original_word": "poor",
       "replacement_word": "misfortunate",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2025-08-31T04:15:51.701296Z",
+      "index": 1313,
+      "original_word": "other",
+      "replacement_word": "early",
+      "similarity": 0.5
     }
   ]
 }

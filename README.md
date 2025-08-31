@@ -20,7 +20,7 @@ Down, down, down. There was nothing else to do, so Alice soon began talking agai
 
 Alice was not a bit hurt, and she jumped up on to her feet in a moment: she looked up, but it was all dark overhead; before her was another long passage, and the White Rabbit was still in sight, hurrying down it. There was not a minute to be lost: away went Alice like the wind, and was just in time to hear it say, as it turned a corner, 'Oh my ears and whiskers, how late it 's getting! ' She was close behind it when she turned the corner, but the Rabbit was no longer to be seen: she found herself in a long, low hall, which was lit up by a row of lamps hanging from the roof.
 
-There were doors all round the hall, but they were all locked; and when Alice had been all the way down one side and up the other, trying every door, she walked sadly down the middle, wondering how she was ever to get out again.
+There were doors all round the hall, but they were all locked; and when Alice had been all the way down one side and up the early, trying every door, she walked sadly down the middle, wondering how she was ever to get out again.
 
 Suddenly she came upon a little three-legged table, all made of solid glass; there was nothing on it except a tiny golden key, and Alice 's first thought was that it might belong to one of the doors of the hall; but, alas! either the locks were too large, or the winder was too small, but at any rate it would not open any of them. However, on the second time round, she came upon a low curtain she had not noticed before, and behind it was a little door about fifteen inches high: she tried the little golden key in the lock, and to her great delight it fitted!
 
