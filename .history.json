@@ -57,6 +57,9 @@
     ],
     "words": [
       "countersign"
+    ],
+    "down": [
+      "downward"
     ]
   },
   "changes": [
@@ -199,6 +202,13 @@
       "original_word": "words",
       "replacement_word": "countersign",
       "similarity": 0.4615
+    },
+    {
+      "timestamp": "2025-09-02T04:16:50.311234Z",
+      "index": 291,
+      "original_word": "down",
+      "replacement_word": "downward",
+      "similarity": 1.0
     }
   ]
 }
