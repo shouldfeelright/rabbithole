@@ -60,6 +60,9 @@
     ],
     "down": [
       "downward"
+    ],
+    "up": [
+      "upwards"
     ]
   },
   "changes": [
@@ -208,6 +211,13 @@
       "index": 291,
       "original_word": "down",
       "replacement_word": "downward",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2025-09-03T04:16:36.200048Z",
+      "index": 1657,
+      "original_word": "up",
+      "replacement_word": "upwards",
       "similarity": 1.0
     }
   ]
