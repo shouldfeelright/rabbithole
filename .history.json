@@ -63,6 +63,9 @@
     ],
     "up": [
       "upwards"
+    ],
+    "said": [
+      "state"
     ]
   },
   "changes": [
@@ -218,6 +221,13 @@
       "index": 1657,
       "original_word": "up",
       "replacement_word": "upwards",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2025-09-04T04:16:06.745561Z",
+      "index": 1745,
+      "original_word": "said",
+      "replacement_word": "state",
       "similarity": 1.0
     }
   ]
