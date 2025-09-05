@@ -66,6 +66,9 @@
     ],
     "said": [
       "state"
+    ],
+    "shutting": [
+      "shut"
     ]
   },
   "changes": [
@@ -228,6 +231,13 @@
       "index": 1745,
       "original_word": "said",
       "replacement_word": "state",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2025-09-05T04:16:44.337581Z",
+      "index": 1655,
+      "original_word": "shutting",
+      "replacement_word": "shut",
       "similarity": 1.0
     }
   ]
