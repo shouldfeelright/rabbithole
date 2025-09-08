@@ -75,6 +75,9 @@
     ],
     "lost": [
       "suffer"
+    ],
+    "right": [
+      "rightfield"
     ]
   },
   "changes": [
@@ -259,6 +262,13 @@
       "original_word": "lost",
       "replacement_word": "suffer",
       "similarity": 0.2857
+    },
+    {
+      "timestamp": "2025-09-08T04:17:07.352337Z",
+      "index": 751,
+      "original_word": "right",
+      "replacement_word": "rightfield",
+      "similarity": 0.1176
     }
   ]
 }
