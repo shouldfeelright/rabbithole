@@ -41,7 +41,8 @@
       "examine"
     ],
     "was": [
-      "follow"
+      "follow",
+      "cost"
     ],
     "key": [
       "winder"
@@ -269,6 +270,13 @@
       "original_word": "right",
       "replacement_word": "rightfield",
       "similarity": 0.1176
+    },
+    {
+      "timestamp": "2025-09-09T04:16:48.961266Z",
+      "index": 1,
+      "original_word": "was",
+      "replacement_word": "cost",
+      "similarity": 0.6667
     }
   ]
 }
