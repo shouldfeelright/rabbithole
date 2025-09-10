@@ -79,6 +79,9 @@
     ],
     "right": [
       "rightfield"
+    ],
+    "curtsey": [
+      "curtsy"
     ]
   },
   "changes": [
@@ -277,6 +280,13 @@
       "original_word": "was",
       "replacement_word": "cost",
       "similarity": 0.6667
+    },
+    {
+      "timestamp": "2025-09-10T04:15:47.233399Z",
+      "index": 843,
+      "original_word": "curtsey",
+      "replacement_word": "curtsy",
+      "similarity": 0.875
     }
   ]
 }
