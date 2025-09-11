@@ -82,6 +82,9 @@
     ],
     "curtsey": [
       "curtsy"
+    ],
+    "say": [
+      "articulate"
     ]
   },
   "changes": [
@@ -287,6 +290,13 @@
       "original_word": "curtsey",
       "replacement_word": "curtsy",
       "similarity": 0.875
+    },
+    {
+      "timestamp": "2025-09-11T04:16:31.411077Z",
+      "index": 736,
+      "original_word": "say",
+      "replacement_word": "articulate",
+      "similarity": 0.25
     }
   ]
 }
