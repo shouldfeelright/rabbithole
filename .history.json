@@ -85,6 +85,9 @@
     ],
     "say": [
       "articulate"
+    ],
+    "time": [
+      "sentence"
     ]
   },
   "changes": [
@@ -297,6 +300,13 @@
       "original_word": "say",
       "replacement_word": "articulate",
       "similarity": 0.25
+    },
+    {
+      "timestamp": "2025-09-12T04:15:36.173043Z",
+      "index": 371,
+      "original_word": "time",
+      "replacement_word": "sentence",
+      "similarity": 0.3077
     }
   ]
 }
