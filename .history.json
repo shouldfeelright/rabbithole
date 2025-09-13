@@ -88,6 +88,9 @@
     ],
     "time": [
       "sentence"
+    ],
+    "rate": [
+      "pace"
     ]
   },
   "changes": [
@@ -307,6 +310,13 @@
       "original_word": "time",
       "replacement_word": "sentence",
       "similarity": 0.3077
+    },
+    {
+      "timestamp": "2025-09-13T04:15:24.290502Z",
+      "index": 1402,
+      "original_word": "rate",
+      "replacement_word": "pace",
+      "similarity": 0.9091
     }
   ]
 }
