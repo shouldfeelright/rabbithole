@@ -91,6 +91,9 @@
     ],
     "rate": [
       "pace"
+    ],
+    "inches": [
+      "inch"
     ]
   },
   "changes": [
@@ -317,6 +320,13 @@
       "original_word": "rate",
       "replacement_word": "pace",
       "similarity": 0.9091
+    },
+    {
+      "timestamp": "2025-09-14T04:15:41.336012Z",
+      "index": 1440,
+      "original_word": "inches",
+      "replacement_word": "inch",
+      "similarity": 1.0
     }
   ]
 }
