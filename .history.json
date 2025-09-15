@@ -35,7 +35,8 @@
       "minute"
     ],
     "little": [
-      "petty"
+      "petty",
+      "slight"
     ],
     "tried": [
       "examine"
@@ -327,6 +328,13 @@
       "original_word": "inches",
       "replacement_word": "inch",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2025-09-15T04:17:06.075614Z",
+      "index": 1979,
+      "original_word": "little",
+      "replacement_word": "slight",
+      "similarity": 0.5
     }
   ]
 }
