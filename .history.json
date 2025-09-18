@@ -101,6 +101,9 @@
     ],
     "indeed": [
       "so"
+    ],
+    "nice": [
+      "gracious"
     ]
   },
   "changes": [
@@ -354,6 +357,13 @@
       "index": 1950,
       "original_word": "indeed",
       "replacement_word": "so",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-09-18T04:16:11.624820Z",
+      "index": 1887,
+      "original_word": "nice",
+      "replacement_word": "gracious",
       "similarity": 0.5
     }
   ]
