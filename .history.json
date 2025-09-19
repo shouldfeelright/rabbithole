@@ -104,6 +104,9 @@
     ],
     "nice": [
       "gracious"
+    ],
+    "same": [
+      "like"
     ]
   },
   "changes": [
@@ -364,6 +367,13 @@
       "index": 1887,
       "original_word": "nice",
       "replacement_word": "gracious",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-09-19T04:16:40.853587Z",
+      "index": 2482,
+      "original_word": "same",
+      "replacement_word": "like",
       "similarity": 0.5
     }
   ]
