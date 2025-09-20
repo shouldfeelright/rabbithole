@@ -107,6 +107,9 @@
     ],
     "same": [
       "like"
+    ],
+    "world": [
+      "earth"
     ]
   },
   "changes": [
@@ -375,6 +378,13 @@
       "original_word": "same",
       "replacement_word": "like",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-09-20T04:16:03.739054Z",
+      "index": 303,
+      "original_word": "world",
+      "replacement_word": "earth",
+      "similarity": 0.6667
     }
   ]
 }
