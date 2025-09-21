@@ -110,6 +110,9 @@
     ],
     "world": [
       "earth"
+    ],
+    "get": [
+      "acquire"
     ]
   },
   "changes": [
@@ -385,6 +388,13 @@
       "original_word": "world",
       "replacement_word": "earth",
       "similarity": 0.6667
+    },
+    {
+      "timestamp": "2025-09-21T04:16:04.239842Z",
+      "index": 2420,
+      "original_word": "get",
+      "replacement_word": "acquire",
+      "similarity": 1.0
     }
   ]
 }
