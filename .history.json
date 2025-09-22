@@ -43,7 +43,8 @@
     ],
     "was": [
       "follow",
-      "cost"
+      "cost",
+      "be"
     ],
     "key": [
       "winder"
@@ -394,6 +395,13 @@
       "index": 2420,
       "original_word": "get",
       "replacement_word": "acquire",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2025-09-22T04:16:57.018095Z",
+      "index": 783,
+      "original_word": "was",
+      "replacement_word": "be",
       "similarity": 1.0
     }
   ]
