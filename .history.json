@@ -114,6 +114,9 @@
     ],
     "get": [
       "acquire"
+    ],
+    "thought": [
+      "thinking"
     ]
   },
   "changes": [
@@ -403,6 +406,13 @@
       "original_word": "was",
       "replacement_word": "be",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2025-09-23T04:16:18.933605Z",
+      "index": 729,
+      "original_word": "thought",
+      "replacement_word": "thinking",
+      "similarity": 0.6154
     }
   ]
 }
