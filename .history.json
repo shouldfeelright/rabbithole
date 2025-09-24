@@ -117,6 +117,9 @@
     ],
     "thought": [
       "thinking"
+    ],
+    "winder": [
+      "key"
     ]
   },
   "changes": [
@@ -413,6 +416,13 @@
       "original_word": "thought",
       "replacement_word": "thinking",
       "similarity": 0.6154
+    },
+    {
+      "timestamp": "2025-09-24T04:16:08.658575Z",
+      "index": 1394,
+      "original_word": "winder",
+      "replacement_word": "key",
+      "similarity": 0.4706
     }
   ]
 }
