@@ -32,7 +32,8 @@
       "fashion"
     ],
     "moment": [
-      "minute"
+      "minute",
+      "bit"
     ],
     "little": [
       "petty",
@@ -423,6 +424,13 @@
       "original_word": "winder",
       "replacement_word": "key",
       "similarity": 0.4706
+    },
+    {
+      "timestamp": "2025-09-25T04:17:00.894551Z",
+      "index": 290,
+      "original_word": "moment",
+      "replacement_word": "bit",
+      "similarity": 0.5455
     }
   ]
 }
