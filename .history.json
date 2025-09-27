@@ -124,6 +124,9 @@
     ],
     "tears": [
       "snag"
+    ],
+    "golden": [
+      "aureate"
     ]
   },
   "changes": [
@@ -441,6 +444,13 @@
       "original_word": "tears",
       "replacement_word": "snag",
       "similarity": 0.1333
+    },
+    {
+      "timestamp": "2025-09-27T04:16:05.423590Z",
+      "index": 1447,
+      "original_word": "golden",
+      "replacement_word": "aureate",
+      "similarity": 0.5
     }
   ]
 }
