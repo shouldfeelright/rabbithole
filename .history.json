@@ -37,7 +37,8 @@
     ],
     "little": [
       "petty",
-      "slight"
+      "slight",
+      "fiddling"
     ],
     "tried": [
       "examine"
@@ -450,6 +451,13 @@
       "index": 1447,
       "original_word": "golden",
       "replacement_word": "aureate",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-09-28T04:16:01.098141Z",
+      "index": 2339,
+      "original_word": "little",
+      "replacement_word": "fiddling",
       "similarity": 0.5
     }
   ]
