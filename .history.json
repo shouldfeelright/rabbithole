@@ -129,6 +129,9 @@
     ],
     "golden": [
       "aureate"
+    ],
+    "rather": [
+      "preferably"
     ]
   },
   "changes": [
@@ -467,6 +470,13 @@
       "original_word": "tried",
       "replacement_word": "render",
       "similarity": 0.2857
+    },
+    {
+      "timestamp": "2025-09-30T04:16:46.016986Z",
+      "index": 784,
+      "original_word": "rather",
+      "replacement_word": "preferably",
+      "similarity": 0.5
     }
   ]
 }
