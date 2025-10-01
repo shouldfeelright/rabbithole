@@ -132,6 +132,9 @@
     ],
     "rather": [
       "preferably"
+    ],
+    "cats": [
+      "CAT"
     ]
   },
   "changes": [
@@ -477,6 +480,13 @@
       "original_word": "rather",
       "replacement_word": "preferably",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-10-01T04:16:15.959097Z",
+      "index": 997,
+      "original_word": "cats",
+      "replacement_word": "CAT",
+      "similarity": 1.0
     }
   ]
 }
