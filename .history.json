@@ -101,7 +101,8 @@
       "inch"
     ],
     "had": [
-      "have"
+      "have",
+      "consume"
     ],
     "indeed": [
       "so"
@@ -487,6 +488,13 @@
       "original_word": "cats",
       "replacement_word": "CAT",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2025-10-02T04:16:18.675992Z",
+      "index": 1837,
+      "original_word": "had",
+      "replacement_word": "consume",
+      "similarity": 0.3333
     }
   ]
 }
