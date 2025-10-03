@@ -136,6 +136,9 @@
     ],
     "cats": [
       "CAT"
+    ],
+    "sentence": [
+      "condemnation"
     ]
   },
   "changes": [
@@ -495,6 +498,13 @@
       "original_word": "had",
       "replacement_word": "consume",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2025-10-03T04:16:16.189926Z",
+      "index": 371,
+      "original_word": "sentence",
+      "replacement_word": "condemnation",
+      "similarity": 0.5
     }
   ]
 }
