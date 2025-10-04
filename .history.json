@@ -139,6 +139,9 @@
     ],
     "sentence": [
       "condemnation"
+    ],
+    "common": [
+      "unwashed"
     ]
   },
   "changes": [
@@ -504,6 +507,13 @@
       "index": 371,
       "original_word": "sentence",
       "replacement_word": "condemnation",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-10-04T04:15:21.759390Z",
+      "index": 2529,
+      "original_word": "common",
+      "replacement_word": "unwashed",
       "similarity": 0.5
     }
   ]
