@@ -142,6 +142,9 @@
     ],
     "common": [
       "unwashed"
+    ],
+    "brightened": [
+      "brighten"
     ]
   },
   "changes": [
@@ -515,6 +518,13 @@
       "original_word": "common",
       "replacement_word": "unwashed",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-10-05T04:15:41.352645Z",
+      "index": 1963,
+      "original_word": "brightened",
+      "replacement_word": "brighten",
+      "similarity": 1.0
     }
   ]
 }
