@@ -29,7 +29,8 @@
     ],
     "way": [
       "agency",
-      "fashion"
+      "fashion",
+      "manner"
     ],
     "moment": [
       "minute",
@@ -524,6 +525,13 @@
       "index": 1963,
       "original_word": "brightened",
       "replacement_word": "brighten",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2025-10-06T04:16:32.715801Z",
+      "index": 1026,
+      "original_word": "way",
+      "replacement_word": "manner",
       "similarity": 1.0
     }
   ]
