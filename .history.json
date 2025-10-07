@@ -146,6 +146,9 @@
     ],
     "brightened": [
       "brighten"
+    ],
+    "well": [
+      "comfortably"
     ]
   },
   "changes": [
@@ -533,6 +536,13 @@
       "original_word": "way",
       "replacement_word": "manner",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2025-10-07T04:17:07.249020Z",
+      "index": 351,
+      "original_word": "well",
+      "replacement_word": "comfortably",
+      "similarity": 0.5
     }
   ]
 }
