@@ -149,6 +149,9 @@
     ],
     "well": [
       "comfortably"
+    ],
+    "written": [
+      "save"
     ]
   },
   "changes": [
@@ -543,6 +546,13 @@
       "original_word": "well",
       "replacement_word": "comfortably",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-10-08T04:16:47.376413Z",
+      "index": 894,
+      "original_word": "written",
+      "replacement_word": "save",
+      "similarity": 0.25
     }
   ]
 }
