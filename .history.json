@@ -152,6 +152,9 @@
     ],
     "written": [
       "save"
+    ],
+    "do": [
+      "behave"
     ]
   },
   "changes": [
@@ -553,6 +556,13 @@
       "original_word": "written",
       "replacement_word": "save",
       "similarity": 0.25
+    },
+    {
+      "timestamp": "2025-10-09T04:16:59.458252Z",
+      "index": 996,
+      "original_word": "do",
+      "replacement_word": "behave",
+      "similarity": 0.5
     }
   ]
 }
