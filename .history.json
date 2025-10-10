@@ -155,6 +155,9 @@
     ],
     "do": [
       "behave"
+    ],
+    "did": [
+      "behave"
     ]
   },
   "changes": [
@@ -561,6 +564,13 @@
       "timestamp": "2025-10-09T04:16:59.458252Z",
       "index": 996,
       "original_word": "do",
+      "replacement_word": "behave",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-10-10T04:16:33.205743Z",
+      "index": 136,
+      "original_word": "did",
       "replacement_word": "behave",
       "similarity": 0.5
     }
