@@ -158,6 +158,9 @@
     ],
     "did": [
       "behave"
+    ],
+    "half": [
+      "one-half"
     ]
   },
   "changes": [
@@ -573,6 +576,13 @@
       "original_word": "did",
       "replacement_word": "behave",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-10-11T04:15:37.960885Z",
+      "index": 1636,
+      "original_word": "half",
+      "replacement_word": "one-half",
+      "similarity": 1.0
     }
   ]
 }
