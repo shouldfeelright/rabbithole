@@ -161,6 +161,9 @@
     ],
     "half": [
       "one-half"
+    ],
+    "holding": [
+      "sustain"
     ]
   },
   "changes": [
@@ -583,6 +586,13 @@
       "original_word": "half",
       "replacement_word": "one-half",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2025-10-12T04:16:02.684117Z",
+      "index": 2454,
+      "original_word": "holding",
+      "replacement_word": "sustain",
+      "similarity": 0.5
     }
   ]
 }
