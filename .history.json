@@ -164,6 +164,9 @@
     ],
     "holding": [
       "sustain"
+    ],
+    "dear": [
+      "dearest"
     ]
   },
   "changes": [
@@ -593,6 +596,13 @@
       "original_word": "holding",
       "replacement_word": "sustain",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-10-13T04:17:18.558770Z",
+      "index": 954,
+      "original_word": "dear",
+      "replacement_word": "dearest",
+      "similarity": 1.0
     }
   ]
 }
