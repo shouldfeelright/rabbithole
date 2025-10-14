@@ -26,13 +26,16 @@ jobs:
              pip install pyinflect
              python -m spacy download en_core_web_sm
 
-      - name: Run update script
-        run: python update-readme.py
-
-      - name: Commit and push changes
+      - name: Run update script multiple times
         run: |
-          git config user.name "shouldfeelright"
-          git config user.email "shouldfeelright@proton.me"
-          git add README.md .history.json
-          git commit -m "Update README.md" || echo "No changes to commit"
-          git push
+          RUNS=$((RANDOM % 5 + 1))
+          echo "Will run script $RUNS times"
+          for i in $(seq 1 $RUNS); do
+            echo "Running iteration $i of $RUNS"
+            python update-readme.py
+            git config user.name "shouldfeelright"
+            git config user.email "shouldfeelright@proton.me"
+            git add README.md .history.json
+            git commit -m "Update README.md (run $i of $RUNS)" || echo "No changes to commit"
+            git push
+          done
