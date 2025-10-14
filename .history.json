@@ -157,7 +157,8 @@
       "behave"
     ],
     "did": [
-      "behave"
+      "behave",
+      "perform"
     ],
     "half": [
       "one-half"
@@ -613,6 +614,13 @@
       "original_word": "begun",
       "replacement_word": "begin",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2025-10-14T22:12:03.126008Z",
+      "index": 479,
+      "original_word": "did",
+      "replacement_word": "perform",
+      "similarity": 0.5
     }
   ]
 }
