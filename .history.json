@@ -167,6 +167,9 @@
     ],
     "dear": [
       "dearest"
+    ],
+    "begun": [
+      "begin"
     ]
   },
   "changes": [
@@ -602,6 +605,13 @@
       "index": 954,
       "original_word": "dear",
       "replacement_word": "dearest",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2025-10-14T04:16:58.169608Z",
+      "index": 1083,
+      "original_word": "begun",
+      "replacement_word": "begin",
       "similarity": 1.0
     }
   ]
