@@ -171,6 +171,9 @@
     ],
     "begun": [
       "begin"
+    ],
+    "fancy": [
+      "fantasy"
     ]
   },
   "changes": [
@@ -620,6 +623,13 @@
       "index": 479,
       "original_word": "did",
       "replacement_word": "perform",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-10-14T22:12:07.805245Z",
+      "index": 2053,
+      "original_word": "fancy",
+      "replacement_word": "fantasy",
       "similarity": 0.5
     }
   ]
