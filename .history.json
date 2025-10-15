@@ -48,7 +48,8 @@
     "was": [
       "follow",
       "cost",
-      "be"
+      "be",
+      "equal"
     ],
     "key": [
       "winder"
@@ -650,6 +651,13 @@
       "index": 2085,
       "original_word": "finding",
       "replacement_word": "encounter",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-10-15T04:16:56.235473Z",
+      "index": 1212,
+      "original_word": "was",
+      "replacement_word": "equal",
       "similarity": 0.5
     }
   ]
