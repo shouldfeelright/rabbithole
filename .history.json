@@ -49,7 +49,8 @@
       "follow",
       "cost",
       "be",
-      "equal"
+      "equal",
+      "live"
     ],
     "key": [
       "winder"
@@ -669,6 +670,13 @@
       "original_word": "true",
       "replacement_word": "truthful",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-10-15T04:17:05.383636Z",
+      "index": 1186,
+      "original_word": "was",
+      "replacement_word": "live",
+      "similarity": 0.4
     }
   ]
 }
