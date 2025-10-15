@@ -181,6 +181,9 @@
     ],
     "finding": [
       "encounter"
+    ],
+    "true": [
+      "truthful"
     ]
   },
   "changes": [
@@ -658,6 +661,13 @@
       "index": 1212,
       "original_word": "was",
       "replacement_word": "equal",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-10-15T04:17:00.799062Z",
+      "index": 569,
+      "original_word": "true",
+      "replacement_word": "truthful",
       "similarity": 0.5
     }
   ]
