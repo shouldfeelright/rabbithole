@@ -59,7 +59,8 @@
       "fulfill"
     ],
     "poor": [
-      "misfortunate"
+      "misfortunate",
+      "hapless"
     ],
     "other": [
       "early"
@@ -677,6 +678,13 @@
       "original_word": "was",
       "replacement_word": "live",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2025-10-15T04:17:10.117985Z",
+      "index": 2105,
+      "original_word": "poor",
+      "replacement_word": "hapless",
+      "similarity": 1.0
     }
   ]
 }
