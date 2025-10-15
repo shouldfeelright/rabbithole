@@ -177,6 +177,9 @@
     ],
     "too": [
       "overly"
+    ],
+    "finding": [
+      "encounter"
     ]
   },
   "changes": [
@@ -641,6 +644,13 @@
       "original_word": "too",
       "replacement_word": "overly",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2025-10-15T04:16:51.518281Z",
+      "index": 2085,
+      "original_word": "finding",
+      "replacement_word": "encounter",
+      "similarity": 0.5
     }
   ]
 }
