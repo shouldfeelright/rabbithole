@@ -186,6 +186,9 @@
     ],
     "true": [
       "truthful"
+    ],
+    "presently": [
+      "shortly"
     ]
   },
   "changes": [
@@ -685,6 +688,13 @@
       "original_word": "poor",
       "replacement_word": "hapless",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2025-10-16T04:16:33.392045Z",
+      "index": 739,
+      "original_word": "Presently",
+      "replacement_word": "shortly",
+      "similarity": 0.5
     }
   ]
 }
