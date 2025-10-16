@@ -50,7 +50,8 @@
       "cost",
       "be",
       "equal",
-      "live"
+      "live",
+      "comprise"
     ],
     "key": [
       "winder"
@@ -695,6 +696,13 @@
       "original_word": "Presently",
       "replacement_word": "shortly",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-10-16T04:16:37.773819Z",
+      "index": 1272,
+      "original_word": "was",
+      "replacement_word": "comprise",
+      "similarity": 0.6667
     }
   ]
 }
