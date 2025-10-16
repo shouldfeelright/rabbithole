@@ -107,7 +107,8 @@
     ],
     "had": [
       "have",
-      "consume"
+      "consume",
+      "ingest"
     ],
     "indeed": [
       "so"
@@ -713,6 +714,13 @@
       "original_word": "coming",
       "replacement_word": "number",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2025-10-16T04:16:46.206079Z",
+      "index": 1602,
+      "original_word": "had",
+      "replacement_word": "ingest",
+      "similarity": 0.5
     }
   ]
 }
