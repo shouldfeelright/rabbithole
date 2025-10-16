@@ -108,7 +108,8 @@
     "had": [
       "have",
       "consume",
-      "ingest"
+      "ingest",
+      "cause"
     ],
     "indeed": [
       "so"
@@ -721,6 +722,13 @@
       "original_word": "had",
       "replacement_word": "ingest",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-10-16T04:16:50.443946Z",
+      "index": 1891,
+      "original_word": "had",
+      "replacement_word": "cause",
+      "similarity": 0.4
     }
   ]
 }
