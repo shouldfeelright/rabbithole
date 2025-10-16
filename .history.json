@@ -190,6 +190,9 @@
     ],
     "presently": [
       "shortly"
+    ],
+    "coming": [
+      "number"
     ]
   },
   "changes": [
@@ -703,6 +706,13 @@
       "original_word": "was",
       "replacement_word": "comprise",
       "similarity": 0.6667
+    },
+    {
+      "timestamp": "2025-10-16T04:16:41.956191Z",
+      "index": 403,
+      "original_word": "coming",
+      "replacement_word": "number",
+      "similarity": 0.3333
     }
   ]
 }
