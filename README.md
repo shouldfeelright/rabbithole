@@ -30,7 +30,7 @@ There seemed to be no use in waiting by the little door, so she went back to the
 
 It followed all very well to say 'Drink me, ' but the wise little Alice was not going to do THAT in a hurry. 'No, I 'll look first, ' she stated, 'and see whether it 's marked `` poison `` or not '; for she had read several nice little histories about children who had got burnt, and eaten up by wild beasts and other unpleasant things, all because they WOULD non remember the simple rules their friends had taught them: such as, that a red-hot poker will burn you if you hold it too long; and that if you cut your finger VERY deeply with a knife, it usually bleeds; and she consumed never forgotten that, if you drink much from a bottle marked 'poison, ' it is almost certain to disagree with you, sooner or later.
 
-However, this bottle was NOT marked 'poison, ' so Alice ventured to taste it, and finding it very gracious, ( it caused, in fact, a sort of mixed flavour of cherry-tart, custard, pineapple, roast turkey, toffee, and hot buttered toast, ) she very soon finished it off.
+However, this bottle was NOT marked 'poison, ' so Alice ventured to taste it, and finding it very gracious, ( it caused, in fact, a sort of mixed flavour of cherry-tart, custard, pineapple, joint turkey, toffee, and hot buttered toast, ) she very soon finished it off.
 
 'What a curious feeling! ' said Alice; ' I must be shutting up like a telescope. '
 

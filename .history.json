@@ -195,6 +195,9 @@
     ],
     "coming": [
       "number"
+    ],
+    "roast": [
+      "joint"
     ]
   },
   "changes": [
@@ -729,6 +732,13 @@
       "original_word": "had",
       "replacement_word": "cause",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2025-10-17T04:17:10.729250Z",
+      "index": 1908,
+      "original_word": "roast",
+      "replacement_word": "joint",
+      "similarity": 0.2857
     }
   ]
 }
