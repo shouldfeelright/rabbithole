@@ -199,6 +199,9 @@
     ],
     "roast": [
       "joint"
+    ],
+    "bottle": [
+      "bottleful"
     ]
   },
   "changes": [
@@ -747,6 +750,13 @@
       "original_word": "too",
       "replacement_word": "likewise",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-10-18T04:15:45.638924Z",
+      "index": 1667,
+      "original_word": "bottle",
+      "replacement_word": "bottleful",
+      "similarity": 0.1333
     }
   ]
 }
