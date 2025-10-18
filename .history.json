@@ -202,6 +202,9 @@
     ],
     "bottle": [
       "bottleful"
+    ],
+    "caused": [
+      "make"
     ]
   },
   "changes": [
@@ -757,6 +760,13 @@
       "original_word": "bottle",
       "replacement_word": "bottleful",
       "similarity": 0.1333
+    },
+    {
+      "timestamp": "2025-10-18T04:15:50.065696Z",
+      "index": 1891,
+      "original_word": "caused",
+      "replacement_word": "make",
+      "similarity": 0.4
     }
   ]
 }
