@@ -182,7 +182,8 @@
       "fantasy"
     ],
     "too": [
-      "overly"
+      "overly",
+      "likewise"
     ],
     "finding": [
       "encounter"
@@ -739,6 +740,13 @@
       "original_word": "roast",
       "replacement_word": "joint",
       "similarity": 0.2857
+    },
+    {
+      "timestamp": "2025-10-18T04:15:41.111201Z",
+      "index": 409,
+      "original_word": "too",
+      "replacement_word": "likewise",
+      "similarity": 0.5
     }
   ]
 }
