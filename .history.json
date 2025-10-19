@@ -205,6 +205,9 @@
     ],
     "caused": [
       "make"
+    ],
+    "lived": [
+      "exist"
     ]
   },
   "changes": [
@@ -766,6 +769,13 @@
       "index": 1891,
       "original_word": "caused",
       "replacement_word": "make",
+      "similarity": 0.4
+    },
+    {
+      "timestamp": "2025-10-19T04:17:31.661462Z",
+      "index": 1186,
+      "original_word": "lived",
+      "replacement_word": "exist",
       "similarity": 0.4
     }
   ]
