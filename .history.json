@@ -160,7 +160,8 @@
       "save"
     ],
     "do": [
-      "behave"
+      "behave",
+      "practise"
     ],
     "did": [
       "behave",
@@ -776,6 +777,13 @@
       "index": 1186,
       "original_word": "lived",
       "replacement_word": "exist",
+      "similarity": 0.4
+    },
+    {
+      "timestamp": "2025-10-19T04:17:36.022485Z",
+      "index": 858,
+      "original_word": "Do",
+      "replacement_word": "practise",
       "similarity": 0.4
     }
   ]
