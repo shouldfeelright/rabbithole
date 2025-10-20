@@ -215,6 +215,9 @@
     ],
     "latitude": [
       "parallel"
+    ],
+    "ears": [
+      "ear"
     ]
   },
   "changes": [
@@ -805,6 +808,13 @@
       "original_word": "Latitude",
       "replacement_word": "parallel",
       "similarity": 0.375
+    },
+    {
+      "timestamp": "2025-10-20T04:20:28.582975Z",
+      "index": 2268,
+      "original_word": "ears",
+      "replacement_word": "ear",
+      "similarity": 1.0
     }
   ]
 }
