@@ -212,6 +212,9 @@
     ],
     "things": [
       "thing"
+    ],
+    "latitude": [
+      "parallel"
     ]
   },
   "changes": [
@@ -795,6 +798,13 @@
       "original_word": "things",
       "replacement_word": "thing",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2025-10-20T04:20:23.919217Z",
+      "index": 721,
+      "original_word": "Latitude",
+      "replacement_word": "parallel",
+      "similarity": 0.375
     }
   ]
 }
