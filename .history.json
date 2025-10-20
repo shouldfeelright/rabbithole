@@ -175,7 +175,8 @@
       "sustain"
     ],
     "dear": [
-      "dearest"
+      "dearest",
+      "beloved"
     ],
     "begun": [
       "begin"
@@ -823,6 +824,13 @@
       "original_word": "said",
       "replacement_word": "pronounce",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2025-10-20T04:20:37.919180Z",
+      "index": 157,
+      "original_word": "dear",
+      "replacement_word": "beloved",
+      "similarity": 1.0
     }
   ]
 }
