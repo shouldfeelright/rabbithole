@@ -76,7 +76,8 @@
       "upwards"
     ],
     "said": [
-      "state"
+      "state",
+      "pronounce"
     ],
     "shutting": [
       "shut"
@@ -815,6 +816,13 @@
       "original_word": "ears",
       "replacement_word": "ear",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2025-10-20T04:20:33.269038Z",
+      "index": 2441,
+      "original_word": "said",
+      "replacement_word": "pronounce",
+      "similarity": 0.4
     }
   ]
 }
