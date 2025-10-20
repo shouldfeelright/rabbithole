@@ -209,6 +209,9 @@
     ],
     "lived": [
       "exist"
+    ],
+    "things": [
+      "thing"
     ]
   },
   "changes": [
@@ -785,6 +788,13 @@
       "original_word": "Do",
       "replacement_word": "practise",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2025-10-20T04:20:19.210784Z",
+      "index": 1595,
+      "original_word": "things",
+      "replacement_word": "thing",
+      "similarity": 0.3333
     }
   ]
 }
