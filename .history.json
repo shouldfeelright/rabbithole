@@ -221,6 +221,9 @@
     ],
     "ears": [
       "ear"
+    ],
+    "here": [
+      "hither"
     ]
   },
   "changes": [
@@ -839,6 +842,13 @@
       "original_word": "Do",
       "replacement_word": "coiffure",
       "similarity": 0.25
+    },
+    {
+      "timestamp": "2025-10-21T04:16:48.619192Z",
+      "index": 436,
+      "original_word": "here",
+      "replacement_word": "hither",
+      "similarity": 0.5
     }
   ]
 }
