@@ -162,7 +162,8 @@
     ],
     "do": [
       "behave",
-      "practise"
+      "practise",
+      "coiffure"
     ],
     "did": [
       "behave",
@@ -831,6 +832,13 @@
       "original_word": "dear",
       "replacement_word": "beloved",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2025-10-21T04:16:44.043824Z",
+      "index": 1033,
+      "original_word": "Do",
+      "replacement_word": "coiffure",
+      "similarity": 0.25
     }
   ]
 }
