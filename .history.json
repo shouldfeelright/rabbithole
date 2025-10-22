@@ -51,7 +51,8 @@
       "be",
       "equal",
       "live",
-      "comprise"
+      "comprise",
+      "embody"
     ],
     "key": [
       "winder"
@@ -859,6 +860,13 @@
       "original_word": "went",
       "replacement_word": "go",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2025-10-22T04:17:40.311409Z",
+      "index": 1142,
+      "original_word": "was",
+      "replacement_word": "embody",
+      "similarity": 0.6667
     }
   ]
 }
