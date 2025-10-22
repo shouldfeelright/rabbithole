@@ -52,7 +52,8 @@
       "equal",
       "live",
       "comprise",
-      "embody"
+      "embody",
+      "exist"
     ],
     "key": [
       "winder"
@@ -867,6 +868,13 @@
       "original_word": "was",
       "replacement_word": "embody",
       "similarity": 0.6667
+    },
+    {
+      "timestamp": "2025-10-22T04:17:44.847046Z",
+      "index": 2288,
+      "original_word": "was",
+      "replacement_word": "exist",
+      "similarity": 0.5
     }
   ]
 }
