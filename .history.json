@@ -224,6 +224,9 @@
     ],
     "here": [
       "hither"
+    ],
+    "went": [
+      "go"
     ]
   },
   "changes": [
@@ -849,6 +852,13 @@
       "original_word": "here",
       "replacement_word": "hither",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-10-22T04:17:35.713989Z",
+      "index": 1630,
+      "original_word": "went",
+      "replacement_word": "go",
+      "similarity": 1.0
     }
   ]
 }
