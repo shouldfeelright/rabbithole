@@ -79,7 +79,8 @@
     ],
     "said": [
       "state",
-      "pronounce"
+      "pronounce",
+      "allege"
     ],
     "shutting": [
       "shut"
@@ -885,6 +886,13 @@
       "original_word": "rules",
       "replacement_word": "principle",
       "similarity": 0.75
+    },
+    {
+      "timestamp": "2025-10-23T04:17:22.033877Z",
+      "index": 1932,
+      "original_word": "said",
+      "replacement_word": "allege",
+      "similarity": 0.2857
     }
   ]
 }
