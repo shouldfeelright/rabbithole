@@ -229,6 +229,9 @@
     ],
     "went": [
       "go"
+    ],
+    "rules": [
+      "principle"
     ]
   },
   "changes": [
@@ -875,6 +878,13 @@
       "original_word": "was",
       "replacement_word": "exist",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-10-23T04:17:17.241597Z",
+      "index": 1794,
+      "original_word": "rules",
+      "replacement_word": "principle",
+      "similarity": 0.75
     }
   ]
 }
