@@ -239,6 +239,9 @@
     ],
     "door": [
       "threshold"
+    ],
+    "see": [
+      "look"
     ]
   },
   "changes": [
@@ -913,6 +916,13 @@
       "original_word": "door",
       "replacement_word": "threshold",
       "similarity": 0.125
+    },
+    {
+      "timestamp": "2025-10-24T04:17:27.469184Z",
+      "index": 638,
+      "original_word": "see",
+      "replacement_word": "look",
+      "similarity": 0.4
     }
   ]
 }
