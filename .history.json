@@ -236,6 +236,9 @@
     ],
     "late": [
       "tardily"
+    ],
+    "door": [
+      "threshold"
     ]
   },
   "changes": [
@@ -903,6 +906,13 @@
       "original_word": "late",
       "replacement_word": "tardily",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-10-24T04:17:22.540056Z",
+      "index": 1626,
+      "original_word": "door",
+      "replacement_word": "threshold",
+      "similarity": 0.125
     }
   ]
 }
