@@ -86,7 +86,8 @@
       "shut"
     ],
     "very": [
-      "real"
+      "real",
+      "rattling"
     ],
     "lost": [
       "suffer"
@@ -923,6 +924,13 @@
       "original_word": "see",
       "replacement_word": "look",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2025-10-24T04:17:32.370717Z",
+      "index": 661,
+      "original_word": "VERY",
+      "replacement_word": "rattling",
+      "similarity": 1.0
     }
   ]
 }
