@@ -233,6 +233,9 @@
     ],
     "rules": [
       "principle"
+    ],
+    "late": [
+      "tardily"
     ]
   },
   "changes": [
@@ -893,6 +896,13 @@
       "original_word": "said",
       "replacement_word": "allege",
       "similarity": 0.2857
+    },
+    {
+      "timestamp": "2025-10-24T04:17:17.501650Z",
+      "index": 165,
+      "original_word": "late",
+      "replacement_word": "tardily",
+      "similarity": 0.5
     }
   ]
 }
