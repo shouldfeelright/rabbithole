@@ -244,6 +244,9 @@
     ],
     "see": [
       "look"
+    ],
+    "shortly": [
+      "presently"
     ]
   },
   "changes": [
@@ -939,6 +942,13 @@
       "original_word": "down",
       "replacement_word": "downwardly",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2025-10-25T04:16:17.546768Z",
+      "index": 739,
+      "original_word": "shortly",
+      "replacement_word": "presently",
+      "similarity": 0.5
     }
   ]
 }
