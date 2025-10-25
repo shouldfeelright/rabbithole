@@ -72,7 +72,8 @@
       "countersign"
     ],
     "down": [
-      "downward"
+      "downward",
+      "downwardly"
     ],
     "up": [
       "upwards"
@@ -930,6 +931,13 @@
       "index": 661,
       "original_word": "VERY",
       "replacement_word": "rattling",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2025-10-25T04:16:12.815795Z",
+      "index": 529,
+      "original_word": "down",
+      "replacement_word": "downwardly",
       "similarity": 1.0
     }
   ]
