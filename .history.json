@@ -247,6 +247,9 @@
     ],
     "shortly": [
       "presently"
+    ],
+    "rendered": [
+      "picture"
     ]
   },
   "changes": [
@@ -949,6 +952,13 @@
       "original_word": "shortly",
       "replacement_word": "presently",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-10-26T04:16:04.950294Z",
+      "index": 2157,
+      "original_word": "rendered",
+      "replacement_word": "picture",
+      "similarity": 0.2222
     }
   ]
 }
