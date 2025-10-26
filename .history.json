@@ -250,6 +250,9 @@
     ],
     "rendered": [
       "picture"
+    ],
+    "stairs": [
+      "stair"
     ]
   },
   "changes": [
@@ -959,6 +962,13 @@
       "original_word": "rendered",
       "replacement_word": "picture",
       "similarity": 0.2222
+    },
+    {
+      "timestamp": "2025-10-26T04:16:09.540949Z",
+      "index": 530,
+      "original_word": "stairs",
+      "replacement_word": "stair",
+      "similarity": 0.5882
     }
   ]
 }
