@@ -253,6 +253,9 @@
     ],
     "stairs": [
       "stair"
+    ],
+    "own": [
+      "ain"
     ]
   },
   "changes": [
@@ -969,6 +972,13 @@
       "original_word": "stairs",
       "replacement_word": "stair",
       "similarity": 0.5882
+    },
+    {
+      "timestamp": "2025-10-26T04:16:14.126380Z",
+      "index": 2267,
+      "original_word": "own",
+      "replacement_word": "ain",
+      "similarity": 1.0
     }
   ]
 }
