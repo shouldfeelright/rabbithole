@@ -257,6 +257,9 @@
     ],
     "own": [
       "ain"
+    ],
+    "slowly": [
+      "slow"
     ]
   },
   "changes": [
@@ -987,6 +990,13 @@
       "original_word": "was",
       "replacement_word": "constitute",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-10-27T04:24:49.607535Z",
+      "index": 364,
+      "original_word": "slowly",
+      "replacement_word": "slow",
+      "similarity": 1.0
     }
   ]
 }
