@@ -53,7 +53,8 @@
       "live",
       "comprise",
       "embody",
-      "exist"
+      "exist",
+      "constitute"
     ],
     "key": [
       "winder"
@@ -979,6 +980,13 @@
       "original_word": "own",
       "replacement_word": "ain",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2025-10-27T04:24:44.803821Z",
+      "index": 1088,
+      "original_word": "was",
+      "replacement_word": "constitute",
+      "similarity": 0.5
     }
   ]
 }
