@@ -260,6 +260,9 @@
     ],
     "slowly": [
       "slow"
+    ],
+    "grand": [
+      "princely"
     ]
   },
   "changes": [
@@ -997,6 +1000,13 @@
       "original_word": "slowly",
       "replacement_word": "slow",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2025-10-27T04:24:54.356367Z",
+      "index": 733,
+      "original_word": "grand",
+      "replacement_word": "princely",
+      "similarity": 0.5
     }
   ]
 }
