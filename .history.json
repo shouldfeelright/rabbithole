@@ -263,6 +263,9 @@
     ],
     "grand": [
       "princely"
+    ],
+    "walked": [
+      "walk"
     ]
   },
   "changes": [
@@ -1007,6 +1010,13 @@
       "original_word": "grand",
       "replacement_word": "princely",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-10-27T04:24:59.133814Z",
+      "index": 1320,
+      "original_word": "walked",
+      "replacement_word": "walk",
+      "similarity": 1.0
     }
   ]
 }
