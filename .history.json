@@ -39,7 +39,8 @@
     "little": [
       "petty",
       "slight",
-      "fiddling"
+      "fiddling",
+      "minuscule"
     ],
     "tried": [
       "examine",
@@ -1055,6 +1056,13 @@
       "original_word": "killing",
       "replacement_word": "down",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2025-10-29T04:21:19.206703Z",
+      "index": 1724,
+      "original_word": "little",
+      "replacement_word": "minuscule",
+      "similarity": 0.5
     }
   ]
 }
