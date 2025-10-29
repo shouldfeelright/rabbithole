@@ -273,6 +273,9 @@
     ],
     "hall": [
       "hallway"
+    ],
+    "killing": [
+      "down"
     ]
   },
   "changes": [
@@ -1045,6 +1048,13 @@
       "original_word": "key",
       "replacement_word": "headstone",
       "similarity": 0.625
+    },
+    {
+      "timestamp": "2025-10-29T04:21:14.451898Z",
+      "index": 489,
+      "original_word": "killing",
+      "replacement_word": "down",
+      "similarity": 0.3333
     }
   ]
 }
