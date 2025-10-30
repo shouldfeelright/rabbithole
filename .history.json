@@ -284,6 +284,9 @@
     ],
     "stupid": [
       "unintelligent"
+    ],
+    "next": [
+      "future"
     ]
   },
   "changes": [
@@ -1090,6 +1093,13 @@
       "index": 90,
       "original_word": "stupid",
       "replacement_word": "unintelligent",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-10-30T04:16:38.710725Z",
+      "index": 388,
+      "original_word": "next",
+      "replacement_word": "future",
       "similarity": 0.5
     }
   ]
