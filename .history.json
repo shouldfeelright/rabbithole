@@ -281,6 +281,9 @@
     ],
     "past": [
       "yesteryear"
+    ],
+    "stupid": [
+      "unintelligent"
     ]
   },
   "changes": [
@@ -1081,6 +1084,13 @@
       "original_word": "words",
       "replacement_word": "row",
       "similarity": 0.3077
+    },
+    {
+      "timestamp": "2025-10-30T04:16:34.307807Z",
+      "index": 90,
+      "original_word": "stupid",
+      "replacement_word": "unintelligent",
+      "similarity": 0.5
     }
   ]
 }
