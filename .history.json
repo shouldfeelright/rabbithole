@@ -287,6 +287,9 @@
     ],
     "next": [
       "future"
+    ],
+    "creep": [
+      "weirdie"
     ]
   },
   "changes": [
@@ -1101,6 +1104,13 @@
       "original_word": "next",
       "replacement_word": "future",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2025-10-30T04:16:43.158097Z",
+      "index": 2410,
+      "original_word": "creep",
+      "replacement_word": "weirdie",
+      "similarity": 1.0
     }
   ]
 }
