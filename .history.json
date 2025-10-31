@@ -290,6 +290,9 @@
     ],
     "creep": [
       "weirdie"
+    ],
+    "growing": [
+      "grow"
     ]
   },
   "changes": [
@@ -1110,6 +1113,13 @@
       "index": 2410,
       "original_word": "creep",
       "replacement_word": "weirdie",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2025-10-31T04:18:07.570759Z",
+      "index": 2469,
+      "original_word": "growing",
+      "replacement_word": "grow",
       "similarity": 1.0
     }
   ]
