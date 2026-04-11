@@ -238,7 +238,8 @@
       "hither"
     ],
     "went": [
-      "go"
+      "go",
+      "choke"
     ],
     "rules": [
       "principle"
@@ -1165,6 +1166,14 @@
       "original_word": "labelled",
       "replacement_word": "label",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-04-11T04:45:38.721087Z",
+      "index": 313,
+      "original_word": "went",
+      "replacement_word": "choke",
+      "display_replacement": "choked",
+      "similarity": 0.4
     }
   ]
 }
