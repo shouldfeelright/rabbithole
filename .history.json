@@ -299,6 +299,9 @@
     ],
     "candle": [
       "cd"
+    ],
+    "labelled": [
+      "label"
     ]
   },
   "changes": [
@@ -1155,6 +1158,13 @@
       "original_word": "candle",
       "replacement_word": "cd",
       "similarity": 0.2353
+    },
+    {
+      "timestamp": "2026-04-11T00:14:32.468505Z",
+      "index": 464,
+      "original_word": "labelled",
+      "replacement_word": "label",
+      "similarity": 1.0
     }
   ]
 }
