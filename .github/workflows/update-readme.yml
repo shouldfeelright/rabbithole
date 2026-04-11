@@ -39,3 +39,12 @@ jobs:
             git commit -m "Update README.md (run $i of $RUNS)" || echo "No changes to commit"
             git push
           done
+
+      - name: Rebuild timeline JSON
+        run: |
+          python build_timeline.py
+          git config user.name "shouldfeelright"
+          git config user.email "shouldfeelright@proton.me"
+          git add _data/timeline.json
+          git commit -m "Update timeline.json" || echo "No timeline changes to commit"
+          git push

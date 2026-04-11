@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/timeline.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip-link" href="#readme-viewport">Skip to text</a>
+  <main id="main" class="main">
+    {{ content }}
+    <article
+      id="readme-viewport"
+      class="readme-viewport"
+      aria-label="README text at selected revision"
+      tabindex="-1">
+    </article>
+  </main>
+
+  <div
+    class="timeline-dock"
+    role="region"
+    aria-label="README revision timeline">
+    <div class="timeline-dock__inner">
+      <div class="timeline-dock__labels" aria-hidden="true">
+        <span class="timeline-dock__label timeline-dock__label--left">Original</span>
+        <span class="timeline-dock__label timeline-dock__label--right">Current</span>
+      </div>
+      <input
+        type="range"
+        id="timeline-slider"
+        class="timeline-slider"
+        min="0"
+        max="0"
+        value="0"
+        step="1"
+        aria-valuemin="0"
+        aria-valuemax="0"
+        aria-valuenow="0"
+        aria-label="Revision step" />
+      <p id="timeline-change-label" class="timeline-change-label" aria-live="polite"></p>
+    </div>
+  </div>
+
+  <script id="timeline-data" type="application/json">
+{{ site.data.timeline | jsonify }}
+  </script>
+  <script src="{{ '/assets/timeline.js' | relative_url }}" defer></script>
+</body>
+</html>

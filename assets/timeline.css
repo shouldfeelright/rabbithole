@@ -1,0 +1,145 @@
+:root {
+  color-scheme: light dark;
+  --bg: #faf8f5;
+  --fg: #1a1a1a;
+  --muted: #5c5c5c;
+  --dock-bg: rgba(255, 255, 255, 0.92);
+  --dock-border: rgba(0, 0, 0, 0.08);
+  --highlight-bg: #fff3bf;
+  --highlight-fg: #1a1a1a;
+  --accent: #2b6cb0;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #141414;
+    --fg: #f0ebe3;
+    --muted: #a39e96;
+    --dock-bg: rgba(30, 30, 30, 0.94);
+    --dock-border: rgba(255, 255, 255, 0.1);
+    --highlight-bg: #5c4d1a;
+    --highlight-fg: #fff8e1;
+    --accent: #63b3ed;
+  }
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.05rem;
+  line-height: 1.55;
+  color: var(--fg);
+  background: var(--bg);
+}
+
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  z-index: 1000;
+  padding: 0.5rem 1rem;
+  background: var(--accent);
+  color: #fff;
+  text-decoration: none;
+}
+
+.skip-link:focus {
+  left: 0.5rem;
+  top: 0.5rem;
+}
+
+.main {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 1.25rem 1.25rem 8rem;
+}
+
+.main > p {
+  font-size: 0.95rem;
+  color: var(--muted);
+  margin: 0 0 1rem;
+}
+
+.readme-viewport {
+  outline: none;
+}
+
+.readme-viewport .readme-line {
+  margin: 0 0 0.35rem;
+}
+
+.readme-viewport .readme-line--empty {
+  min-height: 0.75rem;
+}
+
+.timeline-highlight {
+  background: var(--highlight-bg);
+  color: var(--highlight-fg);
+  padding: 0.05em 0.15em;
+  border-radius: 2px;
+  box-decoration-break: clone;
+}
+
+.timeline-dock {
+  position: fixed;
+  left: 50%;
+  bottom: max(1rem, env(safe-area-inset-bottom));
+  transform: translateX(-50%);
+  z-index: 100;
+  width: min(90vw, 36rem);
+  padding: 0.65rem 1rem 0.75rem;
+  background: var(--dock-bg);
+  border: 1px solid var(--dock-border);
+  border-radius: 12px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.12);
+  backdrop-filter: blur(8px);
+}
+
+.timeline-dock__inner {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.timeline-dock__labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+}
+
+.timeline-slider {
+  width: 100%;
+  height: 2.25rem;
+  margin: 0;
+  accent-color: var(--accent);
+  cursor: pointer;
+  touch-action: manipulation;
+}
+
+.timeline-change-label {
+  margin: 0;
+  min-height: 2.75rem;
+  font-size: 0.85rem;
+  font-family: system-ui, -apple-system, Segoe UI, sans-serif;
+  color: var(--muted);
+  text-align: center;
+  line-height: 1.35;
+}
+
+.timeline-change-label strong {
+  color: var(--fg);
+  font-weight: 600;
+}
+
+.timeline-ts {
+  font-size: 0.78rem;
+  opacity: 0.85;
+}

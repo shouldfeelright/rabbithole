@@ -1,0 +1,13 @@
+title: rabbithole
+description: Alice, one synonym at a time
+url: ""
+baseurl: ""
+
+exclude:
+  - baseline.md
+  - update-readme.py
+  - build_timeline.py
+  - .history.json
+  - Gemfile
+  - Gemfile.lock
+  - README.md

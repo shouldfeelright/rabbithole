@@ -157,6 +157,7 @@ for idx in eligible_indices:
         "index": idx,
         "original_word": word,
         "replacement_word": replacement,
+        "display_replacement": " ".join(replacement_words),
         "similarity": round(chosen_score, 4)
     })
 
