@@ -1,7 +1,8 @@
 {
   "used_synonyms": {
     "is": [
-      "be"
+      "be",
+      "comprise"
     ],
     "there": [
       "thither"
@@ -1137,6 +1138,13 @@
       "original_word": "down",
       "replacement_word": "downwards",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-04-11T00:14:22.875314Z",
+      "index": 830,
+      "original_word": "is",
+      "replacement_word": "comprise",
+      "similarity": 0.6667
     }
   ]
 }
