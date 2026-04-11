@@ -1,7 +1,7 @@
 title: rabbithole
 description: Alice, one synonym at a time
-url: ""
-baseurl: ""
+url: "https://shouldfeelright.github.io"
+baseurl: "/rabbithole"
 
 exclude:
   - baseline.md
