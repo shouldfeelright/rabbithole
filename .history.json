@@ -77,7 +77,8 @@
     ],
     "down": [
       "downward",
-      "downwardly"
+      "downwardly",
+      "downwards"
     ],
     "up": [
       "upwards"
@@ -1129,6 +1130,13 @@
       "original_word": "had",
       "replacement_word": "give",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-04-11T00:14:18.021169Z",
+      "index": 1322,
+      "original_word": "down",
+      "replacement_word": "downwards",
+      "similarity": 1.0
     }
   ]
 }
