@@ -306,6 +306,9 @@
     ],
     "burning": [
       "combustion"
+    ],
+    "wind": [
+      "hint"
     ]
   },
   "changes": [
@@ -1185,6 +1188,14 @@
       "replacement_word": "combustion",
       "display_replacement": "combustion",
       "similarity": 0.1176
+    },
+    {
+      "timestamp": "2026-04-12T05:04:50.405153Z",
+      "index": 1209,
+      "original_word": "wind",
+      "replacement_word": "hint",
+      "display_replacement": "hint",
+      "similarity": 0.125
     }
   ]
 }
