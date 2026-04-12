@@ -303,6 +303,9 @@
     ],
     "labelled": [
       "label"
+    ],
+    "burning": [
+      "combustion"
     ]
   },
   "changes": [
@@ -1174,6 +1177,14 @@
       "replacement_word": "choke",
       "display_replacement": "choked",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-04-12T05:04:45.348136Z",
+      "index": 258,
+      "original_word": "burning",
+      "replacement_word": "combustion",
+      "display_replacement": "combustion",
+      "similarity": 0.1176
     }
   ]
 }
