@@ -248,7 +248,8 @@
       "tardily"
     ],
     "door": [
-      "threshold"
+      "threshold",
+      "doorway"
     ],
     "see": [
       "look"
@@ -1229,6 +1230,14 @@
       "replacement_word": "execration",
       "display_replacement": "execration",
       "similarity": 0.2857
+    },
+    {
+      "timestamp": "2026-04-13T05:12:07.878043Z",
+      "index": 1464,
+      "original_word": "door",
+      "replacement_word": "doorway",
+      "display_replacement": "doorway",
+      "similarity": 0.5263
     }
   ]
 }
