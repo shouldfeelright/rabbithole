@@ -315,6 +315,9 @@
     ],
     "anxiously": [
       "uneasily"
+    ],
+    "condemnation": [
+      "execration"
     ]
   },
   "changes": [
@@ -1218,6 +1221,14 @@
       "replacement_word": "uneasily",
       "display_replacement": "uneasily",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-04-13T05:12:03.258078Z",
+      "index": 371,
+      "original_word": "condemnation",
+      "replacement_word": "execration",
+      "display_replacement": "execration",
+      "similarity": 0.2857
     }
   ]
 }
