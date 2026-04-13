@@ -309,6 +309,9 @@
     ],
     "wind": [
       "hint"
+    ],
+    "made": [
+      "nominate"
     ]
   },
   "changes": [
@@ -1196,6 +1199,14 @@
       "replacement_word": "hint",
       "display_replacement": "hint",
       "similarity": 0.125
+    },
+    {
+      "timestamp": "2026-04-13T05:11:54.105092Z",
+      "index": 1346,
+      "original_word": "made",
+      "replacement_word": "nominate",
+      "display_replacement": "nominated",
+      "similarity": 0.2857
     }
   ]
 }
