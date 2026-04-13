@@ -312,6 +312,9 @@
     ],
     "made": [
       "nominate"
+    ],
+    "anxiously": [
+      "uneasily"
     ]
   },
   "changes": [
@@ -1207,6 +1210,14 @@
       "replacement_word": "nominate",
       "display_replacement": "nominated",
       "similarity": 0.2857
+    },
+    {
+      "timestamp": "2026-04-13T05:11:58.681829Z",
+      "index": 2442,
+      "original_word": "anxiously",
+      "replacement_word": "uneasily",
+      "display_replacement": "uneasily",
+      "similarity": 1.0
     }
   ]
 }
