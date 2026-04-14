@@ -322,6 +322,9 @@
     ],
     "decided": [
       "determine"
+    ],
+    "dream": [
+      "aspiration"
     ]
   },
   "changes": [
@@ -1249,6 +1252,14 @@
       "replacement_word": "determine",
       "display_replacement": "determined",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-04-14T05:04:50.931168Z",
+      "index": 1085,
+      "original_word": "dream",
+      "replacement_word": "aspiration",
+      "display_replacement": "aspiration",
+      "similarity": 0.25
     }
   ]
 }
