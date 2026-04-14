@@ -328,6 +328,9 @@
     ],
     "glass": [
       "meth"
+    ],
+    "jar": [
+      "jounce"
     ]
   },
   "changes": [
@@ -1271,6 +1274,14 @@
       "replacement_word": "meth",
       "display_replacement": "meth",
       "similarity": 0.4615
+    },
+    {
+      "timestamp": "2026-04-14T05:05:00.829685Z",
+      "index": 485,
+      "original_word": "jar",
+      "replacement_word": "jounce",
+      "display_replacement": "jounce",
+      "similarity": 0.1111
     }
   ]
 }
