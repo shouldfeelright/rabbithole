@@ -325,6 +325,9 @@
     ],
     "dream": [
       "aspiration"
+    ],
+    "glass": [
+      "meth"
     ]
   },
   "changes": [
@@ -1260,6 +1263,14 @@
       "replacement_word": "aspiration",
       "display_replacement": "aspiration",
       "similarity": 0.25
+    },
+    {
+      "timestamp": "2026-04-14T05:04:55.848575Z",
+      "index": 2340,
+      "original_word": "glass",
+      "replacement_word": "meth",
+      "display_replacement": "meth",
+      "similarity": 0.4615
     }
   ]
 }
