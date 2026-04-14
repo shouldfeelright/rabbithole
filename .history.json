@@ -319,6 +319,9 @@
     ],
     "condemnation": [
       "execration"
+    ],
+    "decided": [
+      "determine"
     ]
   },
   "changes": [
@@ -1238,6 +1241,14 @@
       "replacement_word": "doorway",
       "display_replacement": "doorway",
       "similarity": 0.5263
+    },
+    {
+      "timestamp": "2026-04-14T05:04:45.980024Z",
+      "index": 2092,
+      "original_word": "decided",
+      "replacement_word": "determine",
+      "display_replacement": "determined",
+      "similarity": 0.5
     }
   ]
 }
