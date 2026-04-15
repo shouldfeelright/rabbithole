@@ -331,6 +331,9 @@
     ],
     "jar": [
       "jounce"
+    ],
+    "spoke": [
+      "radius"
     ]
   },
   "changes": [
@@ -1282,6 +1285,14 @@
       "replacement_word": "jounce",
       "display_replacement": "jounce",
       "similarity": 0.1111
+    },
+    {
+      "timestamp": "2026-04-15T05:05:04.283020Z",
+      "index": 846,
+      "original_word": "spoke",
+      "replacement_word": "radius",
+      "display_replacement": "radius",
+      "similarity": 0.1333
     }
   ]
 }
