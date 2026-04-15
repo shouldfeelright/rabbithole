@@ -334,6 +334,9 @@
     ],
     "spoke": [
       "radius"
+    ],
+    "drink": [
+      "beverage"
     ]
   },
   "changes": [
@@ -1293,6 +1296,14 @@
       "replacement_word": "radius",
       "display_replacement": "radius",
       "similarity": 0.1333
+    },
+    {
+      "timestamp": "2026-04-15T05:05:09.012917Z",
+      "index": 1844,
+      "original_word": "drink",
+      "replacement_word": "beverage",
+      "display_replacement": "beverage",
+      "similarity": 0.2667
     }
   ]
 }
