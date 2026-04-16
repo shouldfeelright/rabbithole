@@ -56,7 +56,8 @@
       "comprise",
       "embody",
       "exist",
-      "constitute"
+      "constitute",
+      "represent"
     ],
     "key": [
       "winder",
@@ -1315,6 +1316,14 @@
       "replacement_word": "zippo",
       "display_replacement": "zippo",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-04-16T05:08:56.616063Z",
+      "index": 1177,
+      "original_word": "was",
+      "replacement_word": "represent",
+      "display_replacement": "represented",
+      "similarity": 0.4
     }
   ]
 }
