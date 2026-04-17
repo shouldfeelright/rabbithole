@@ -344,6 +344,9 @@
     ],
     "fell": [
       "devolve"
+    ],
+    "fifteen": [
+      "XV"
     ]
   },
   "changes": [
@@ -1335,6 +1338,14 @@
       "replacement_word": "devolve",
       "display_replacement": "devolved",
       "similarity": 0.2222
+    },
+    {
+      "timestamp": "2026-04-17T05:07:52.820995Z",
+      "index": 1439,
+      "original_word": "fifteen",
+      "replacement_word": "XV",
+      "display_replacement": "XV",
+      "similarity": 1.0
     }
   ]
 }
