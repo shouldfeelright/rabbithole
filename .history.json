@@ -341,6 +341,9 @@
     ],
     "nothing": [
       "zippo"
+    ],
+    "fell": [
+      "devolve"
     ]
   },
   "changes": [
@@ -1324,6 +1327,14 @@
       "replacement_word": "represent",
       "display_replacement": "represented",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-04-17T05:07:48.161821Z",
+      "index": 555,
+      "original_word": "fell",
+      "replacement_word": "devolve",
+      "display_replacement": "devolved",
+      "similarity": 0.2222
     }
   ]
 }
