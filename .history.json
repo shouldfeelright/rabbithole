@@ -352,6 +352,9 @@
     ],
     "cried": [
       "scream"
+    ],
+    "tired": [
+      "tire"
     ]
   },
   "changes": [
@@ -1374,6 +1377,14 @@
       "original_word": "up",
       "replacement_word": "upwardly",
       "display_replacement": "upwardly",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-04-18T04:53:46.496386Z",
+      "index": 2181,
+      "original_word": "tired",
+      "replacement_word": "tire",
+      "display_replacement": "tired",
       "similarity": 1.0
     }
   ]
