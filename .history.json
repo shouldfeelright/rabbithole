@@ -83,7 +83,8 @@
       "downwards"
     ],
     "up": [
-      "upwards"
+      "upwards",
+      "upward"
     ],
     "said": [
       "state",
@@ -1345,6 +1346,14 @@
       "original_word": "fifteen",
       "replacement_word": "XV",
       "display_replacement": "XV",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-04-18T04:53:33.238948Z",
+      "index": 1274,
+      "original_word": "up",
+      "replacement_word": "upward",
+      "display_replacement": "upward",
       "similarity": 1.0
     }
   ]
