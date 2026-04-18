@@ -84,7 +84,8 @@
     ],
     "up": [
       "upwards",
-      "upward"
+      "upward",
+      "upwardly"
     ],
     "said": [
       "state",
@@ -1365,6 +1366,14 @@
       "original_word": "cried",
       "replacement_word": "scream",
       "display_replacement": "screamed",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-04-18T04:53:42.093235Z",
+      "index": 1155,
+      "original_word": "up",
+      "replacement_word": "upwardly",
+      "display_replacement": "upwardly",
       "similarity": 1.0
     }
   ]
