@@ -348,6 +348,9 @@
     ],
     "fifteen": [
       "XV"
+    ],
+    "cried": [
+      "scream"
     ]
   },
   "changes": [
@@ -1354,6 +1357,14 @@
       "original_word": "up",
       "replacement_word": "upward",
       "display_replacement": "upward",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-04-18T04:53:37.694388Z",
+      "index": 2194,
+      "original_word": "cried",
+      "replacement_word": "scream",
+      "display_replacement": "screamed",
       "similarity": 1.0
     }
   ]
