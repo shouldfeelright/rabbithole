@@ -362,6 +362,9 @@
     ],
     "box": [
       "boxful"
+    ],
+    "scolded": [
+      "grumble"
     ]
   },
   "changes": [
@@ -1417,6 +1420,14 @@
       "replacement_word": "suffer",
       "display_replacement": "suffered",
       "similarity": 0.2857
+    },
+    {
+      "timestamp": "2026-04-19T05:08:01.354236Z",
+      "index": 2247,
+      "original_word": "scolded",
+      "replacement_word": "grumble",
+      "display_replacement": "grumbled",
+      "similarity": 0.2
     }
   ]
 }
