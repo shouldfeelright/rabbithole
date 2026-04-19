@@ -125,7 +125,8 @@
       "consume",
       "ingest",
       "cause",
-      "give"
+      "give",
+      "suffer"
     ],
     "indeed": [
       "so"
@@ -1408,6 +1409,14 @@
       "replacement_word": "boxful",
       "display_replacement": "boxful",
       "similarity": 0.1429
+    },
+    {
+      "timestamp": "2026-04-19T05:07:56.709387Z",
+      "index": 2180,
+      "original_word": "had",
+      "replacement_word": "suffer",
+      "display_replacement": "suffered",
+      "similarity": 0.2857
     }
   ]
 }
