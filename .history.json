@@ -365,6 +365,9 @@
     ],
     "scolded": [
       "grumble"
+    ],
+    "ventured": [
+      "venture"
     ]
   },
   "changes": [
@@ -1428,6 +1431,14 @@
       "replacement_word": "grumble",
       "display_replacement": "grumbled",
       "similarity": 0.2
+    },
+    {
+      "timestamp": "2026-04-19T05:08:05.981437Z",
+      "index": 1878,
+      "original_word": "ventured",
+      "replacement_word": "venture",
+      "display_replacement": "ventured",
+      "similarity": 1.0
     }
   ]
 }
