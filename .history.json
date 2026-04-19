@@ -358,6 +358,9 @@
     ],
     "make": [
       "prepare"
+    ],
+    "box": [
+      "boxful"
     ]
   },
   "changes": [
@@ -1397,6 +1400,14 @@
       "replacement_word": "prepare",
       "display_replacement": "prepare",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-04-19T05:07:52.094045Z",
+      "index": 2265,
+      "original_word": "box",
+      "replacement_word": "boxful",
+      "display_replacement": "boxful",
+      "similarity": 0.1429
     }
   ]
 }
