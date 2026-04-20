@@ -368,6 +368,9 @@
     ],
     "ventured": [
       "venture"
+    ],
+    "hand": [
+      "paw"
     ]
   },
   "changes": [
@@ -1439,6 +1442,14 @@
       "replacement_word": "venture",
       "display_replacement": "ventured",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-04-20T05:11:06.867643Z",
+      "index": 1092,
+      "original_word": "hand",
+      "replacement_word": "paw",
+      "display_replacement": "paw",
+      "similarity": 0.7778
     }
   ]
 }
