@@ -371,6 +371,9 @@
     ],
     "hand": [
       "paw"
+    ],
+    "noticed": [
+      "discover"
     ]
   },
   "changes": [
@@ -1450,6 +1453,14 @@
       "replacement_word": "paw",
       "display_replacement": "paw",
       "similarity": 0.7778
+    },
+    {
+      "timestamp": "2026-04-20T05:11:11.399516Z",
+      "index": 426,
+      "original_word": "noticed",
+      "replacement_word": "discover",
+      "display_replacement": "discovered",
+      "similarity": 1.0
     }
   ]
 }
