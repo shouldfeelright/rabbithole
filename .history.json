@@ -384,6 +384,9 @@
     ],
     "glad": [
       "gladiola"
+    ],
+    "book": [
+      "al-Qur'an"
     ]
   },
   "changes": [
@@ -1503,6 +1506,14 @@
       "replacement_word": "gladiola",
       "display_replacement": "gladiola",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-04-21T05:07:04.636891Z",
+      "index": 1651,
+      "original_word": "book",
+      "replacement_word": "al-Qur'an",
+      "display_replacement": "al-Qur'an",
+      "similarity": 0.1176
     }
   ]
 }
