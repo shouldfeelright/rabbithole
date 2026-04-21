@@ -377,6 +377,9 @@
     ],
     "examined": [
       "analyse"
+    ],
+    "go": [
+      "function"
     ]
   },
   "changes": [
@@ -1472,6 +1475,14 @@
       "replacement_word": "analyse",
       "display_replacement": "analysed",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-04-21T05:06:50.541744Z",
+      "index": 1541,
+      "original_word": "go",
+      "replacement_word": "function",
+      "display_replacement": "function",
+      "similarity": 0.5
     }
   ]
 }
