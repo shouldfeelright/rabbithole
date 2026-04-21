@@ -203,7 +203,8 @@
     ],
     "too": [
       "overly",
-      "likewise"
+      "likewise",
+      "besides"
     ],
     "finding": [
       "encounter"
@@ -1482,6 +1483,14 @@
       "original_word": "go",
       "replacement_word": "function",
       "display_replacement": "function",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-04-21T05:06:55.244797Z",
+      "index": 1815,
+      "original_word": "too",
+      "replacement_word": "besides",
+      "display_replacement": "besides",
       "similarity": 0.5
     }
   ]
