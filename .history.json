@@ -381,6 +381,9 @@
     ],
     "go": [
       "function"
+    ],
+    "glad": [
+      "gladiola"
     ]
   },
   "changes": [
@@ -1492,6 +1495,14 @@
       "replacement_word": "besides",
       "display_replacement": "besides",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-04-21T05:06:59.918200Z",
+      "index": 785,
+      "original_word": "glad",
+      "replacement_word": "gladiola",
+      "display_replacement": "gladiola",
+      "similarity": 1.0
     }
   ]
 }
