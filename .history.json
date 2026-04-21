@@ -374,6 +374,9 @@
     ],
     "noticed": [
       "discover"
+    ],
+    "examined": [
+      "analyse"
     ]
   },
   "changes": [
@@ -1460,6 +1463,14 @@
       "original_word": "noticed",
       "replacement_word": "discover",
       "display_replacement": "discovered",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-04-21T05:06:45.837377Z",
+      "index": 2051,
+      "original_word": "examined",
+      "replacement_word": "analyse",
+      "display_replacement": "analysed",
       "similarity": 1.0
     }
   ]
