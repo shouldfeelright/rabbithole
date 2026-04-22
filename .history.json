@@ -391,6 +391,9 @@
     ],
     "upwardly": [
       "upward"
+    ],
+    "sticks": [
+      "pin"
     ]
   },
   "changes": [
@@ -1534,6 +1537,14 @@
       "replacement_word": "upward",
       "display_replacement": "upward",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-04-22T05:05:42.537497Z",
+      "index": 1134,
+      "original_word": "sticks",
+      "replacement_word": "pin",
+      "display_replacement": "pin",
+      "similarity": 0.5882
     }
   ]
 }
