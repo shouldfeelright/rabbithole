@@ -388,6 +388,9 @@
     ],
     "book": [
       "al-Qur'an"
+    ],
+    "upwardly": [
+      "upward"
     ]
   },
   "changes": [
@@ -1522,6 +1525,14 @@
       "original_word": "began",
       "replacement_word": "start",
       "display_replacement": "started",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-04-22T05:05:37.649048Z",
+      "index": 1155,
+      "original_word": "upwardly",
+      "replacement_word": "upward",
+      "display_replacement": "upward",
       "similarity": 1.0
     }
   ]
