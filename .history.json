@@ -20,7 +20,8 @@
       "someplace"
     ],
     "began": [
-      "begin"
+      "begin",
+      "start"
     ],
     "suddenly": [
       "abruptly"
@@ -1514,6 +1515,14 @@
       "replacement_word": "al-Qur'an",
       "display_replacement": "al-Qur'an",
       "similarity": 0.1176
+    },
+    {
+      "timestamp": "2026-04-22T05:05:32.630789Z",
+      "index": 915,
+      "original_word": "began",
+      "replacement_word": "start",
+      "display_replacement": "started",
+      "similarity": 1.0
     }
   ]
 }
