@@ -394,6 +394,9 @@
     ],
     "sticks": [
       "pin"
+    ],
+    "going": [
+      "choke"
     ]
   },
   "changes": [
@@ -1545,6 +1548,14 @@
       "replacement_word": "pin",
       "display_replacement": "pin",
       "similarity": 0.5882
+    },
+    {
+      "timestamp": "2026-04-23T05:08:20.229563Z",
+      "index": 2031,
+      "original_word": "going",
+      "replacement_word": "choke",
+      "display_replacement": "choking",
+      "similarity": 0.4
     }
   ]
 }
