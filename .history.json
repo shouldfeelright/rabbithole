@@ -142,7 +142,8 @@
       "earth"
     ],
     "get": [
-      "acquire"
+      "acquire",
+      "obtain"
     ],
     "thought": [
       "thinking"
@@ -1575,6 +1576,14 @@
       "original_word": "be",
       "replacement_word": "comprise",
       "display_replacement": "comprise",
+      "similarity": 0.6667
+    },
+    {
+      "timestamp": "2026-04-23T05:08:35.207561Z",
+      "index": 1332,
+      "original_word": "get",
+      "replacement_word": "obtain",
+      "display_replacement": "obtain",
       "similarity": 0.6667
     }
   ]
