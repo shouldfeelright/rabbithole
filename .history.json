@@ -320,7 +320,8 @@
       "hint"
     ],
     "made": [
-      "nominate"
+      "nominate",
+      "construct"
     ],
     "anxiously": [
       "uneasily"
@@ -1585,6 +1586,14 @@
       "replacement_word": "obtain",
       "display_replacement": "obtain",
       "similarity": 0.6667
+    },
+    {
+      "timestamp": "2026-04-23T05:08:40.108634Z",
+      "index": 1891,
+      "original_word": "made",
+      "replacement_word": "construct",
+      "display_replacement": "constructed",
+      "similarity": 0.4
     }
   ]
 }
