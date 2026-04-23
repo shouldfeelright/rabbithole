@@ -398,6 +398,9 @@
     ],
     "going": [
       "choke"
+    ],
+    "be": [
+      "comprise"
     ]
   },
   "changes": [
@@ -1565,6 +1568,14 @@
       "replacement_word": "formula",
       "display_replacement": "formula",
       "similarity": 0.2667
+    },
+    {
+      "timestamp": "2026-04-23T05:08:30.208746Z",
+      "index": 164,
+      "original_word": "be",
+      "replacement_word": "comprise",
+      "display_replacement": "comprise",
+      "similarity": 0.6667
     }
   ]
 }
