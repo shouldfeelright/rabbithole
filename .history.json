@@ -248,7 +248,8 @@
       "choke"
     ],
     "rules": [
-      "principle"
+      "principle",
+      "formula"
     ],
     "late": [
       "tardily"
@@ -1556,6 +1557,14 @@
       "replacement_word": "choke",
       "display_replacement": "choking",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-04-23T05:08:25.285219Z",
+      "index": 1653,
+      "original_word": "rules",
+      "replacement_word": "formula",
+      "display_replacement": "formula",
+      "similarity": 0.2667
     }
   ]
 }
