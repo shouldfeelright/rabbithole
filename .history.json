@@ -407,6 +407,9 @@
     ],
     "pleasure": [
       "joy"
+    ],
+    "dark": [
+      "darkness"
     ]
   },
   "changes": [
@@ -1614,6 +1617,14 @@
       "replacement_word": "trivial",
       "display_replacement": "trivial",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-04-24T05:09:55.745769Z",
+      "index": 410,
+      "original_word": "dark",
+      "replacement_word": "darkness",
+      "display_replacement": "darkness",
+      "similarity": 1.0
     }
   ]
 }
