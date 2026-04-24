@@ -73,7 +73,8 @@
       "hapless"
     ],
     "other": [
-      "early"
+      "early",
+      "former"
     ],
     "words": [
       "countersign",
@@ -1636,6 +1637,14 @@
       "replacement_word": "glad",
       "display_replacement": "glad",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-04-24T05:10:06.110921Z",
+      "index": 1782,
+      "original_word": "other",
+      "replacement_word": "former",
+      "display_replacement": "former",
+      "similarity": 0.5
     }
   ]
 }
