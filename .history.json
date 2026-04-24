@@ -42,7 +42,8 @@
       "petty",
       "slight",
       "fiddling",
-      "minuscule"
+      "minuscule",
+      "trivial"
     ],
     "tried": [
       "examine",
@@ -1605,6 +1606,14 @@
       "replacement_word": "joy",
       "display_replacement": "joy",
       "similarity": 0.7692
+    },
+    {
+      "timestamp": "2026-04-24T05:09:50.584897Z",
+      "index": 1436,
+      "original_word": "little",
+      "replacement_word": "trivial",
+      "display_replacement": "trivial",
+      "similarity": 0.5
     }
   ]
 }
