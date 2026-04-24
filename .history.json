@@ -410,6 +410,9 @@
     ],
     "dark": [
       "darkness"
+    ],
+    "gladiola": [
+      "glad"
     ]
   },
   "changes": [
@@ -1624,6 +1627,14 @@
       "original_word": "dark",
       "replacement_word": "darkness",
       "display_replacement": "darkness",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-04-24T05:10:00.932139Z",
+      "index": 785,
+      "original_word": "gladiola",
+      "replacement_word": "glad",
+      "display_replacement": "glad",
       "similarity": 1.0
     }
   ]
