@@ -403,6 +403,9 @@
     ],
     "be": [
       "comprise"
+    ],
+    "pleasure": [
+      "joy"
     ]
   },
   "changes": [
@@ -1594,6 +1597,14 @@
       "replacement_word": "construct",
       "display_replacement": "constructed",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-04-24T05:09:45.428610Z",
+      "index": 95,
+      "original_word": "pleasure",
+      "replacement_word": "joy",
+      "display_replacement": "joy",
+      "similarity": 0.7692
     }
   ]
 }
