@@ -420,6 +420,9 @@
     ],
     "now": [
       "immediately"
+    ],
+    "curiosity": [
+      "rarity"
     ]
   },
   "changes": [
@@ -1667,6 +1670,14 @@
       "replacement_word": "immediately",
       "display_replacement": "immediately",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-04-25T04:56:49.412494Z",
+      "index": 260,
+      "original_word": "curiosity",
+      "replacement_word": "rarity",
+      "display_replacement": "rarity",
+      "similarity": 0.3529
     }
   ]
 }
