@@ -414,6 +414,9 @@
     ],
     "gladiola": [
       "glad"
+    ],
+    "radius": [
+      "spoke"
     ]
   },
   "changes": [
@@ -1645,6 +1648,14 @@
       "replacement_word": "former",
       "display_replacement": "former",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-04-25T04:56:39.186652Z",
+      "index": 846,
+      "original_word": "radius",
+      "replacement_word": "spoke",
+      "display_replacement": "spoke",
+      "similarity": 0.1333
     }
   ]
 }
