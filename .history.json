@@ -423,6 +423,9 @@
     ],
     "curiosity": [
       "rarity"
+    ],
+    "size": [
+      "sizing"
     ]
   },
   "changes": [
@@ -1678,6 +1681,14 @@
       "replacement_word": "rarity",
       "display_replacement": "rarity",
       "similarity": 0.3529
+    },
+    {
+      "timestamp": "2026-04-25T04:56:54.476490Z",
+      "index": 1974,
+      "original_word": "size",
+      "replacement_word": "sizing",
+      "display_replacement": "sizing",
+      "similarity": 0.2667
     }
   ]
 }
