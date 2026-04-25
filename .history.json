@@ -417,6 +417,9 @@
     ],
     "radius": [
       "spoke"
+    ],
+    "now": [
+      "immediately"
     ]
   },
   "changes": [
@@ -1656,6 +1659,14 @@
       "replacement_word": "spoke",
       "display_replacement": "spoke",
       "similarity": 0.1333
+    },
+    {
+      "timestamp": "2026-04-25T04:56:44.327744Z",
+      "index": 1971,
+      "original_word": "now",
+      "replacement_word": "immediately",
+      "display_replacement": "immediately",
+      "similarity": 0.5
     }
   ]
 }
