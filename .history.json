@@ -129,7 +129,8 @@
       "ingest",
       "cause",
       "give",
-      "suffer"
+      "suffer",
+      "bear"
     ],
     "indeed": [
       "so"
@@ -1689,6 +1690,14 @@
       "replacement_word": "sizing",
       "display_replacement": "sizing",
       "similarity": 0.2667
+    },
+    {
+      "timestamp": "2026-04-25T04:56:59.597987Z",
+      "index": 333,
+      "original_word": "had",
+      "replacement_word": "bear",
+      "display_replacement": "bore",
+      "similarity": 0.4
     }
   ]
 }
