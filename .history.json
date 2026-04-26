@@ -430,6 +430,9 @@
     ],
     "generally": [
       "broadly"
+    ],
+    "cake": [
+      "bar"
     ]
   },
   "changes": [
@@ -1709,6 +1712,14 @@
       "replacement_word": "broadly",
       "display_replacement": "broadly",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-04-26T05:09:42.462589Z",
+      "index": 2495,
+      "original_word": "cake",
+      "replacement_word": "bar",
+      "display_replacement": "bar",
+      "similarity": 0.625
     }
   ]
 }
