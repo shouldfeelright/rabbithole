@@ -427,6 +427,9 @@
     ],
     "size": [
       "sizing"
+    ],
+    "generally": [
+      "broadly"
     ]
   },
   "changes": [
@@ -1698,6 +1701,14 @@
       "replacement_word": "bear",
       "display_replacement": "bore",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-04-26T05:09:37.219007Z",
+      "index": 2490,
+      "original_word": "generally",
+      "replacement_word": "broadly",
+      "display_replacement": "broadly",
+      "similarity": 0.5
     }
   ]
 }
