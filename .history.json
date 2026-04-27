@@ -440,6 +440,9 @@
     ],
     "hot": [
       "raging"
+    ],
+    "having": [
+      "have"
     ]
   },
   "changes": [
@@ -1751,6 +1754,14 @@
       "replacement_word": "raging",
       "display_replacement": "raging",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-04-27T05:13:31.340015Z",
+      "index": 18,
+      "original_word": "having",
+      "replacement_word": "have",
+      "display_replacement": "having",
+      "similarity": 1.0
     }
   ]
 }
