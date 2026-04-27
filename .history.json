@@ -437,6 +437,9 @@
     ],
     "so": [
       "thusly"
+    ],
+    "hot": [
+      "raging"
     ]
   },
   "changes": [
@@ -1739,6 +1742,14 @@
       "original_word": "so",
       "replacement_word": "thusly",
       "display_replacement": "thusly",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-04-27T05:13:26.236433Z",
+      "index": 1914,
+      "original_word": "hot",
+      "replacement_word": "raging",
+      "display_replacement": "raging",
       "similarity": 0.5
     }
   ]
