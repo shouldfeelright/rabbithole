@@ -434,6 +434,9 @@
     ],
     "cake": [
       "bar"
+    ],
+    "so": [
+      "thusly"
     ]
   },
   "changes": [
@@ -1729,6 +1732,14 @@
       "replacement_word": "personify",
       "display_replacement": "personified",
       "similarity": 0.1429
+    },
+    {
+      "timestamp": "2026-04-27T05:13:21.143129Z",
+      "index": 2501,
+      "original_word": "so",
+      "replacement_word": "thusly",
+      "display_replacement": "thusly",
+      "similarity": 0.5
     }
   ]
 }
