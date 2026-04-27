@@ -59,7 +59,8 @@
       "embody",
       "exist",
       "constitute",
-      "represent"
+      "represent",
+      "personify"
     ],
     "key": [
       "winder",
@@ -1720,6 +1721,14 @@
       "replacement_word": "bar",
       "display_replacement": "bar",
       "similarity": 0.625
+    },
+    {
+      "timestamp": "2026-04-27T05:13:15.949146Z",
+      "index": 906,
+      "original_word": "was",
+      "replacement_word": "personify",
+      "display_replacement": "personified",
+      "similarity": 0.1429
     }
   ]
 }
