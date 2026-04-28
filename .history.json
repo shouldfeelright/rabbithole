@@ -443,6 +443,9 @@
     ],
     "having": [
       "have"
+    ],
+    "fiddling": [
+      "diddle"
     ]
   },
   "changes": [
@@ -1762,6 +1765,14 @@
       "replacement_word": "have",
       "display_replacement": "having",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-04-28T05:16:07.926989Z",
+      "index": 2339,
+      "original_word": "fiddling",
+      "replacement_word": "diddle",
+      "display_replacement": "diddling",
+      "similarity": 0.1818
     }
   ]
 }
