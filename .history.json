@@ -446,6 +446,9 @@
     ],
     "fiddling": [
       "diddle"
+    ],
+    "downwardly": [
+      "downwards"
     ]
   },
   "changes": [
@@ -1773,6 +1776,14 @@
       "replacement_word": "diddle",
       "display_replacement": "diddling",
       "similarity": 0.1818
+    },
+    {
+      "timestamp": "2026-04-28T05:16:12.894211Z",
+      "index": 529,
+      "original_word": "downwardly",
+      "replacement_word": "downwards",
+      "display_replacement": "downwards",
+      "similarity": 1.0
     }
   ]
 }
