@@ -449,6 +449,9 @@
     ],
     "downwardly": [
       "downwards"
+    ],
+    "know": [
+      "jazz"
     ]
   },
   "changes": [
@@ -1784,6 +1787,14 @@
       "replacement_word": "downwards",
       "display_replacement": "downwards",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-04-28T05:16:17.786165Z",
+      "index": 2021,
+      "original_word": "know",
+      "replacement_word": "jazz",
+      "display_replacement": "jazz",
+      "similarity": 0.2857
     }
   ]
 }
