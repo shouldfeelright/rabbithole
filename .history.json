@@ -452,6 +452,9 @@
     ],
     "know": [
       "jazz"
+    ],
+    "fall": [
+      "autumn"
     ]
   },
   "changes": [
@@ -1795,6 +1798,14 @@
       "replacement_word": "jazz",
       "display_replacement": "jazz",
       "similarity": 0.2857
+    },
+    {
+      "timestamp": "2026-04-29T05:13:42.172903Z",
+      "index": 1141,
+      "original_word": "fall",
+      "replacement_word": "autumn",
+      "display_replacement": "autumn",
+      "similarity": 1.0
     }
   ]
 }
