@@ -456,6 +456,9 @@
     ],
     "fall": [
       "autumn"
+    ],
+    "looked": [
+      "appear"
     ]
   },
   "changes": [
@@ -1815,6 +1818,14 @@
       "replacement_word": "experience",
       "display_replacement": "experiencing",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-04-30T05:15:41.658299Z",
+      "index": 214,
+      "original_word": "looked",
+      "replacement_word": "appear",
+      "display_replacement": "appeared",
+      "similarity": 0.4
     }
   ]
 }
