@@ -442,7 +442,8 @@
       "raging"
     ],
     "having": [
-      "have"
+      "have",
+      "experience"
     ],
     "fiddling": [
       "diddle"
@@ -1806,6 +1807,14 @@
       "replacement_word": "autumn",
       "display_replacement": "autumn",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-04-30T05:15:36.501317Z",
+      "index": 2075,
+      "original_word": "having",
+      "replacement_word": "experience",
+      "display_replacement": "experiencing",
+      "similarity": 0.3333
     }
   ]
 }
