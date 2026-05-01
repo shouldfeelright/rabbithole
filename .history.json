@@ -462,6 +462,9 @@
     ],
     "larger": [
       "gravid"
+    ],
+    "table": [
+      "board"
     ]
   },
   "changes": [
@@ -1837,6 +1840,14 @@
       "replacement_word": "gravid",
       "display_replacement": "gravid",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-05-01T05:24:30.116229Z",
+      "index": 2169,
+      "original_word": "table",
+      "replacement_word": "board",
+      "display_replacement": "board",
+      "similarity": 0.4
     }
   ]
 }
