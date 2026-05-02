@@ -346,7 +346,8 @@
       "jounce"
     ],
     "spoke": [
-      "radius"
+      "radius",
+      "rundle"
     ],
     "drink": [
       "beverage"
@@ -1848,6 +1849,14 @@
       "replacement_word": "board",
       "display_replacement": "board",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-05-02T05:09:49.517486Z",
+      "index": 846,
+      "original_word": "spoke",
+      "replacement_word": "rundle",
+      "display_replacement": "rundle",
+      "similarity": 0.7619
     }
   ]
 }
