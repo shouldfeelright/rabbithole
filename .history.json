@@ -469,6 +469,9 @@
     ],
     "ingested": [
       "ingest"
+    ],
+    "plenty": [
+      "spate"
     ]
   },
   "changes": [
@@ -1868,6 +1871,14 @@
       "replacement_word": "ingest",
       "display_replacement": "ingested",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-05-02T05:09:59.851464Z",
+      "index": 369,
+      "original_word": "plenty",
+      "replacement_word": "spate",
+      "display_replacement": "spate",
+      "similarity": 0.2667
     }
   ]
 }
