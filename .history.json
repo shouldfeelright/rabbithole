@@ -466,6 +466,9 @@
     ],
     "table": [
       "board"
+    ],
+    "ingested": [
+      "ingest"
     ]
   },
   "changes": [
@@ -1857,6 +1860,14 @@
       "replacement_word": "rundle",
       "display_replacement": "rundle",
       "similarity": 0.7619
+    },
+    {
+      "timestamp": "2026-05-02T05:09:54.682281Z",
+      "index": 1602,
+      "original_word": "ingested",
+      "replacement_word": "ingest",
+      "display_replacement": "ingested",
+      "similarity": 1.0
     }
   ]
 }
