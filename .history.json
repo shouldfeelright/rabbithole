@@ -472,6 +472,9 @@
     ],
     "plenty": [
       "spate"
+    ],
+    "cd": [
+      "cadmium"
     ]
   },
   "changes": [
@@ -1879,6 +1882,14 @@
       "replacement_word": "spate",
       "display_replacement": "spate",
       "similarity": 0.2667
+    },
+    {
+      "timestamp": "2026-05-02T05:10:05.226585Z",
+      "index": 2064,
+      "original_word": "cd",
+      "replacement_word": "cadmium",
+      "display_replacement": "cadmium",
+      "similarity": 1.0
     }
   ]
 }
