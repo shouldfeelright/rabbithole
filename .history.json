@@ -440,7 +440,8 @@
       "thusly"
     ],
     "hot": [
-      "raging"
+      "raging",
+      "red-hot"
     ],
     "having": [
       "have",
@@ -1890,6 +1891,14 @@
       "replacement_word": "cadmium",
       "display_replacement": "cadmium",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-05-02T05:10:10.240622Z",
+      "index": 82,
+      "original_word": "hot",
+      "replacement_word": "red-hot",
+      "display_replacement": "red-hot",
+      "similarity": 0.5
     }
   ]
 }
