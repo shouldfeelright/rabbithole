@@ -101,7 +101,8 @@
     ],
     "very": [
       "real",
-      "rattling"
+      "rattling",
+      "really"
     ],
     "lost": [
       "suffer"
@@ -1910,6 +1911,14 @@
       "replacement_word": "total",
       "display_replacement": "totaling",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-05-04T05:18:06.176652Z",
+      "index": 1713,
+      "original_word": "very",
+      "replacement_word": "really",
+      "display_replacement": "really",
+      "similarity": 0.5
     }
   ]
 }
