@@ -455,7 +455,8 @@
       "downwards"
     ],
     "know": [
-      "jazz"
+      "jazz",
+      "cognize"
     ],
     "fall": [
       "autumn"
@@ -1919,6 +1920,14 @@
       "replacement_word": "really",
       "display_replacement": "really",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-05-04T05:18:11.171636Z",
+      "index": 1581,
+      "original_word": "know",
+      "replacement_word": "cognize",
+      "display_replacement": "cognize",
+      "similarity": 1.0
     }
   ]
 }
