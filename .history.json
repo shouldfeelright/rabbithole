@@ -178,7 +178,8 @@
       "brighten"
     ],
     "well": [
-      "comfortably"
+      "comfortably",
+      "easily"
     ],
     "written": [
       "save"
@@ -1928,6 +1929,14 @@
       "replacement_word": "cognize",
       "display_replacement": "cognize",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-05-05T05:11:32.209240Z",
+      "index": 355,
+      "original_word": "well",
+      "replacement_word": "easily",
+      "display_replacement": "easily",
+      "similarity": 0.5
     }
   ]
 }
