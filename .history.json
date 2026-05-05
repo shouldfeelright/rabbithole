@@ -457,7 +457,8 @@
     ],
     "know": [
       "jazz",
-      "cognize"
+      "cognize",
+      "love"
     ],
     "fall": [
       "autumn"
@@ -1947,6 +1948,14 @@
       "original_word": "considering",
       "replacement_word": "believe",
       "display_replacement": "believing",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-05-05T05:11:42.268686Z",
+      "index": 824,
+      "original_word": "know",
+      "replacement_word": "love",
+      "display_replacement": "love",
       "similarity": 0.5
     }
   ]
