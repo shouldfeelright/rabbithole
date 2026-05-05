@@ -464,7 +464,8 @@
       "autumn"
     ],
     "looked": [
-      "appear"
+      "appear",
+      "depend"
     ],
     "larger": [
       "gravid"
@@ -1957,6 +1958,14 @@
       "replacement_word": "love",
       "display_replacement": "love",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-05-05T05:11:47.346408Z",
+      "index": 417,
+      "original_word": "looked",
+      "replacement_word": "depend",
+      "display_replacement": "depended",
+      "similarity": 0.4
     }
   ]
 }
