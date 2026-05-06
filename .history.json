@@ -487,6 +487,9 @@
     ],
     "considering": [
       "believe"
+    ],
+    "meth": [
+      "deoxyephedrine"
     ]
   },
   "changes": [
@@ -1966,6 +1969,14 @@
       "replacement_word": "depend",
       "display_replacement": "depended",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-05-06T05:14:03.953259Z",
+      "index": 2340,
+      "original_word": "meth",
+      "replacement_word": "deoxyephedrine",
+      "display_replacement": "deoxyephedrine",
+      "similarity": 1.0
     }
   ]
 }
