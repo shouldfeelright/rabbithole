@@ -496,6 +496,9 @@
     ],
     "were": [
       "cost"
+    ],
+    "discovered": [
+      "strike"
     ]
   },
   "changes": [
@@ -1999,6 +2002,14 @@
       "replacement_word": "cost",
       "display_replacement": "cost",
       "similarity": 0.6667
+    },
+    {
+      "timestamp": "2026-05-07T05:16:19.254337Z",
+      "index": 426,
+      "original_word": "discovered",
+      "replacement_word": "strike",
+      "display_replacement": "struck",
+      "similarity": 0.2857
     }
   ]
 }
