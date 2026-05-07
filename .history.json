@@ -499,6 +499,9 @@
     ],
     "discovered": [
       "strike"
+    ],
+    "asking": [
+      "take"
     ]
   },
   "changes": [
@@ -2010,6 +2013,14 @@
       "replacement_word": "strike",
       "display_replacement": "struck",
       "similarity": 0.2857
+    },
+    {
+      "timestamp": "2026-05-07T05:16:24.374134Z",
+      "index": 878,
+      "original_word": "asking",
+      "replacement_word": "take",
+      "display_replacement": "taking",
+      "similarity": 0.25
     }
   ]
 }
