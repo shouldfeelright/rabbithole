@@ -490,6 +490,9 @@
     ],
     "meth": [
       "deoxyephedrine"
+    ],
+    "jazz": [
+      "malarkey"
     ]
   },
   "changes": [
@@ -1976,6 +1979,14 @@
       "original_word": "meth",
       "replacement_word": "deoxyephedrine",
       "display_replacement": "deoxyephedrine",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-05-07T05:16:09.271374Z",
+      "index": 2021,
+      "original_word": "jazz",
+      "replacement_word": "malarkey",
+      "display_replacement": "malarkey",
       "similarity": 1.0
     }
   ]
