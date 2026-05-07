@@ -493,6 +493,9 @@
     ],
     "jazz": [
       "malarkey"
+    ],
+    "were": [
+      "cost"
     ]
   },
   "changes": [
@@ -1988,6 +1991,14 @@
       "replacement_word": "malarkey",
       "display_replacement": "malarkey",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-05-07T05:16:14.305004Z",
+      "index": 429,
+      "original_word": "were",
+      "replacement_word": "cost",
+      "display_replacement": "cost",
+      "similarity": 0.6667
     }
   ]
 }
