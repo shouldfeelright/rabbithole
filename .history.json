@@ -327,7 +327,8 @@
     ],
     "made": [
       "nominate",
-      "construct"
+      "construct",
+      "give"
     ],
     "anxiously": [
       "uneasily"
@@ -2021,6 +2022,14 @@
       "replacement_word": "take",
       "display_replacement": "taking",
       "similarity": 0.25
+    },
+    {
+      "timestamp": "2026-05-08T05:08:07.770195Z",
+      "index": 84,
+      "original_word": "made",
+      "replacement_word": "give",
+      "display_replacement": "given",
+      "similarity": 0.5
     }
   ]
 }
