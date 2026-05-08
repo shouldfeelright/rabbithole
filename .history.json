@@ -2,7 +2,8 @@
   "used_synonyms": {
     "is": [
       "be",
-      "comprise"
+      "comprise",
+      "cost"
     ],
     "there": [
       "thither"
@@ -2040,6 +2041,14 @@
       "original_word": "earth",
       "replacement_word": "world",
       "display_replacement": "world",
+      "similarity": 0.6667
+    },
+    {
+      "timestamp": "2026-05-08T05:08:17.612348Z",
+      "index": 2060,
+      "original_word": "is",
+      "replacement_word": "cost",
+      "display_replacement": "costs",
       "similarity": 0.6667
     }
   ]
