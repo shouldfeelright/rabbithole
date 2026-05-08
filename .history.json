@@ -507,6 +507,9 @@
     ],
     "earth": [
       "world"
+    ],
+    "house": [
+      "menage"
     ]
   },
   "changes": [
@@ -2050,6 +2053,14 @@
       "replacement_word": "cost",
       "display_replacement": "costs",
       "similarity": 0.6667
+    },
+    {
+      "timestamp": "2026-05-08T05:08:22.746818Z",
+      "index": 561,
+      "original_word": "house",
+      "replacement_word": "menage",
+      "display_replacement": "menage",
+      "similarity": 0.1333
     }
   ]
 }
