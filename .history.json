@@ -503,6 +503,9 @@
     ],
     "asking": [
       "take"
+    ],
+    "earth": [
+      "world"
     ]
   },
   "changes": [
@@ -2030,6 +2033,14 @@
       "replacement_word": "give",
       "display_replacement": "given",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-05-08T05:08:12.756056Z",
+      "index": 616,
+      "original_word": "earth",
+      "replacement_word": "world",
+      "display_replacement": "world",
+      "similarity": 0.6667
     }
   ]
 }
