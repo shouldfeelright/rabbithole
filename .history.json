@@ -516,6 +516,9 @@
     ],
     "future": [
       "futurity"
+    ],
+    "practice": [
+      "exercise"
     ]
   },
   "changes": [
@@ -2083,6 +2086,14 @@
       "replacement_word": "futurity",
       "display_replacement": "futurity",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-05-09T05:12:34.952008Z",
+      "index": 684,
+      "original_word": "practice",
+      "replacement_word": "exercise",
+      "display_replacement": "exercise",
+      "similarity": 0.7059
     }
   ]
 }
