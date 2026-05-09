@@ -513,6 +513,9 @@
     ],
     "ear": [
       "auricle"
+    ],
+    "future": [
+      "futurity"
     ]
   },
   "changes": [
@@ -2072,6 +2075,14 @@
       "replacement_word": "auricle",
       "display_replacement": "auricle",
       "similarity": 0.5556
+    },
+    {
+      "timestamp": "2026-05-09T05:12:29.904055Z",
+      "index": 388,
+      "original_word": "future",
+      "replacement_word": "futurity",
+      "display_replacement": "futurity",
+      "similarity": 1.0
     }
   ]
 }
