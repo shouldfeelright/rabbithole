@@ -519,6 +519,9 @@
     ],
     "practice": [
       "exercise"
+    ],
+    "mind": [
+      "thinker"
     ]
   },
   "changes": [
@@ -2094,6 +2097,14 @@
       "replacement_word": "exercise",
       "display_replacement": "exercise",
       "similarity": 0.7059
+    },
+    {
+      "timestamp": "2026-05-10T05:20:49.277613Z",
+      "index": 234,
+      "original_word": "mind",
+      "replacement_word": "thinker",
+      "display_replacement": "thinker",
+      "similarity": 0.1818
     }
   ]
 }
