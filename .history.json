@@ -522,6 +522,9 @@
     ],
     "mind": [
       "thinker"
+    ],
+    "lately": [
+      "recently"
     ]
   },
   "changes": [
@@ -2105,6 +2108,14 @@
       "replacement_word": "thinker",
       "display_replacement": "thinker",
       "similarity": 0.1818
+    },
+    {
+      "timestamp": "2026-05-11T05:28:25.300461Z",
+      "index": 1598,
+      "original_word": "lately",
+      "replacement_word": "recently",
+      "display_replacement": "recently",
+      "similarity": 1.0
     }
   ]
 }
