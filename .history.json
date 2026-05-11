@@ -525,6 +525,9 @@
     ],
     "lately": [
       "recently"
+    ],
+    "talking": [
+      "verbalize"
     ]
   },
   "changes": [
@@ -2116,6 +2119,14 @@
       "replacement_word": "recently",
       "display_replacement": "recently",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-05-11T05:28:30.646816Z",
+      "index": 916,
+      "original_word": "talking",
+      "replacement_word": "verbalize",
+      "display_replacement": "verbalizing",
+      "similarity": 0.6667
     }
   ]
 }
