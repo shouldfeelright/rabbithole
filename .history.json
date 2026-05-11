@@ -528,6 +528,9 @@
     ],
     "talking": [
       "verbalize"
+    ],
+    "rabbit": [
+      "lapin"
     ]
   },
   "changes": [
@@ -2127,6 +2130,14 @@
       "replacement_word": "verbalize",
       "display_replacement": "verbalizing",
       "similarity": 0.6667
+    },
+    {
+      "timestamp": "2026-05-11T05:28:35.754641Z",
+      "index": 150,
+      "original_word": "Rabbit",
+      "replacement_word": "lapin",
+      "display_replacement": "lapin",
+      "similarity": 0.1667
     }
   ]
 }
