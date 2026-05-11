@@ -442,7 +442,8 @@
       "bar"
     ],
     "so": [
-      "thusly"
+      "thusly",
+      "hence"
     ],
     "hot": [
       "raging",
@@ -2147,6 +2148,14 @@
       "replacement_word": "style",
       "display_replacement": "style",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-05-11T05:28:46.233694Z",
+      "index": 2532,
+      "original_word": "So",
+      "replacement_word": "hence",
+      "display_replacement": "hence",
+      "similarity": 0.5
     }
   ]
 }
