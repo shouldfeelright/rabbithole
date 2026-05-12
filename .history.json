@@ -533,6 +533,9 @@
     ],
     "rabbit": [
       "lapin"
+    ],
+    "its": [
+      "IT"
     ]
   },
   "changes": [
@@ -2156,6 +2159,14 @@
       "replacement_word": "hence",
       "display_replacement": "hence",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-05-12T05:21:54.558439Z",
+      "index": 210,
+      "original_word": "ITS",
+      "replacement_word": "IT",
+      "display_replacement": "IT",
+      "similarity": 1.0
     }
   ]
 }
