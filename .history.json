@@ -539,6 +539,9 @@
     ],
     "eyes": [
       "heart"
+    ],
+    "reach": [
+      "compass"
     ]
   },
   "changes": [
@@ -2178,6 +2181,14 @@
       "replacement_word": "heart",
       "display_replacement": "heart",
       "similarity": 0.5882
+    },
+    {
+      "timestamp": "2026-05-12T05:22:05.143131Z",
+      "index": 2142,
+      "original_word": "reach",
+      "replacement_word": "compass",
+      "display_replacement": "compass",
+      "similarity": 0.3333
     }
   ]
 }
