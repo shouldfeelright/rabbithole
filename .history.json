@@ -545,6 +545,9 @@
     ],
     "never": [
       "ne'er"
+    ],
+    "finished": [
+      "complete"
     ]
   },
   "changes": [
@@ -2199,6 +2202,14 @@
       "original_word": "never",
       "replacement_word": "ne'er",
       "display_replacement": "ne'er",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-05-12T05:22:15.478181Z",
+      "index": 2541,
+      "original_word": "finished",
+      "replacement_word": "complete",
+      "display_replacement": "completed",
       "similarity": 1.0
     }
   ]
