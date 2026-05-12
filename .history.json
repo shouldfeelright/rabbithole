@@ -542,6 +542,9 @@
     ],
     "reach": [
       "compass"
+    ],
+    "never": [
+      "ne'er"
     ]
   },
   "changes": [
@@ -2189,6 +2192,14 @@
       "replacement_word": "compass",
       "display_replacement": "compass",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-05-12T05:22:10.324134Z",
+      "index": 884,
+      "original_word": "never",
+      "replacement_word": "ne'er",
+      "display_replacement": "ne'er",
+      "similarity": 1.0
     }
   ]
 }
