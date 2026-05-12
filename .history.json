@@ -536,6 +536,9 @@
     ],
     "its": [
       "IT"
+    ],
+    "eyes": [
+      "heart"
     ]
   },
   "changes": [
@@ -2167,6 +2170,14 @@
       "replacement_word": "IT",
       "display_replacement": "IT",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-05-12T05:21:59.878279Z",
+      "index": 120,
+      "original_word": "eyes",
+      "replacement_word": "heart",
+      "display_replacement": "heart",
+      "similarity": 0.5882
     }
   ]
 }
