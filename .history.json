@@ -478,7 +478,8 @@
       "board"
     ],
     "ingested": [
-      "ingest"
+      "ingest",
+      "have"
     ],
     "plenty": [
       "spate"
@@ -2211,6 +2212,14 @@
       "replacement_word": "complete",
       "display_replacement": "completed",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-05-13T05:25:56.981054Z",
+      "index": 1602,
+      "original_word": "ingested",
+      "replacement_word": "have",
+      "display_replacement": "had",
+      "similarity": 0.5
     }
   ]
 }
