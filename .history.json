@@ -549,6 +549,9 @@
     ],
     "finished": [
       "complete"
+    ],
+    "bats": [
+      "chiropteran"
     ]
   },
   "changes": [
@@ -2220,6 +2223,14 @@
       "replacement_word": "have",
       "display_replacement": "had",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-05-14T05:25:52.533189Z",
+      "index": 999,
+      "original_word": "bats",
+      "replacement_word": "chiropteran",
+      "display_replacement": "chiropteran",
+      "similarity": 1.0
     }
   ]
 }
