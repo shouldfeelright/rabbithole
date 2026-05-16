@@ -3,7 +3,8 @@
     "is": [
       "be",
       "comprise",
-      "cost"
+      "cost",
+      "exist"
     ],
     "there": [
       "thither"
@@ -2251,6 +2252,14 @@
       "replacement_word": "bat",
       "display_replacement": "bat",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-05-16T05:13:33.326396Z",
+      "index": 1854,
+      "original_word": "is",
+      "replacement_word": "exist",
+      "display_replacement": "exists",
+      "similarity": 0.5
     }
   ]
 }
