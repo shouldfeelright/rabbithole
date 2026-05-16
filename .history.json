@@ -551,7 +551,8 @@
       "complete"
     ],
     "bats": [
-      "chiropteran"
+      "chiropteran",
+      "bat"
     ],
     "choking": [
       "exit"
@@ -2242,6 +2243,14 @@
       "replacement_word": "exit",
       "display_replacement": "exiting",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-05-16T05:13:28.091246Z",
+      "index": 1031,
+      "original_word": "bats",
+      "replacement_word": "bat",
+      "display_replacement": "bat",
+      "similarity": 1.0
     }
   ]
 }
