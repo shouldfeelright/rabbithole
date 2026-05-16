@@ -476,7 +476,8 @@
       "gravid"
     ],
     "table": [
-      "board"
+      "board",
+      "mesa"
     ],
     "ingested": [
       "ingest",
@@ -2260,6 +2261,14 @@
       "replacement_word": "exist",
       "display_replacement": "exists",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-05-16T05:13:38.487030Z",
+      "index": 1634,
+      "original_word": "table",
+      "replacement_word": "mesa",
+      "display_replacement": "mesa",
+      "similarity": 0.1429
     }
   ]
 }
