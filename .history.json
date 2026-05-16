@@ -558,6 +558,9 @@
     ],
     "choking": [
       "exit"
+    ],
+    "daisies": [
+      "daisy"
     ]
   },
   "changes": [
@@ -2269,6 +2272,14 @@
       "replacement_word": "mesa",
       "display_replacement": "mesa",
       "similarity": 0.1429
+    },
+    {
+      "timestamp": "2026-05-16T05:13:43.695303Z",
+      "index": 111,
+      "original_word": "daisies",
+      "replacement_word": "daisy",
+      "display_replacement": "daisy",
+      "similarity": 1.0
     }
   ]
 }
