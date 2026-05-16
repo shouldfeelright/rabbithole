@@ -117,7 +117,8 @@
       "curtsy"
     ],
     "say": [
-      "articulate"
+      "articulate",
+      "suppose"
     ],
     "time": [
       "sentence"
@@ -2280,6 +2281,14 @@
       "replacement_word": "daisy",
       "display_replacement": "daisy",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-05-16T05:13:48.894943Z",
+      "index": 1219,
+      "original_word": "say",
+      "replacement_word": "suppose",
+      "display_replacement": "suppose",
+      "similarity": 0.25
     }
   ]
 }
