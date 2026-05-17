@@ -566,6 +566,9 @@
     ],
     "pop": [
       "tonic"
+    ],
+    "waited": [
+      "wait"
     ]
   },
   "changes": [
@@ -2309,6 +2312,14 @@
       "replacement_word": "read",
       "display_replacement": "read",
       "similarity": 0.2857
+    },
+    {
+      "timestamp": "2026-05-17T05:25:26.628694Z",
+      "index": 1991,
+      "original_word": "waited",
+      "replacement_word": "wait",
+      "display_replacement": "waited",
+      "similarity": 1.0
     }
   ]
 }
