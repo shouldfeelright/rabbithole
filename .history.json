@@ -97,7 +97,8 @@
     "said": [
       "state",
       "pronounce",
-      "allege"
+      "allege",
+      "read"
     ],
     "shutting": [
       "shut"
@@ -2300,6 +2301,14 @@
       "replacement_word": "tonic",
       "display_replacement": "tonic",
       "similarity": 0.2105
+    },
+    {
+      "timestamp": "2026-05-17T05:25:22.253805Z",
+      "index": 2208,
+      "original_word": "said",
+      "replacement_word": "read",
+      "display_replacement": "read",
+      "similarity": 0.2857
     }
   ]
 }
