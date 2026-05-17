@@ -572,6 +572,9 @@
     ],
     "comfortably": [
       "well"
+    ],
+    "lamps": [
+      "lamp"
     ]
   },
   "changes": [
@@ -2331,6 +2334,14 @@
       "replacement_word": "well",
       "display_replacement": "well",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-05-17T05:25:35.494016Z",
+      "index": 1279,
+      "original_word": "lamps",
+      "replacement_word": "lamp",
+      "display_replacement": "lamp",
+      "similarity": 1.0
     }
   ]
 }
