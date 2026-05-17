@@ -562,6 +562,9 @@
     ],
     "daisies": [
       "daisy"
+    ],
+    "pop": [
+      "tonic"
     ]
   },
   "changes": [
@@ -2289,6 +2292,14 @@
       "replacement_word": "suppose",
       "display_replacement": "suppose",
       "similarity": 0.25
+    },
+    {
+      "timestamp": "2026-05-17T05:25:17.779326Z",
+      "index": 279,
+      "original_word": "pop",
+      "replacement_word": "tonic",
+      "display_replacement": "tonic",
+      "similarity": 0.2105
     }
   ]
 }
