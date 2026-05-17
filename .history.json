@@ -569,6 +569,9 @@
     ],
     "waited": [
       "wait"
+    ],
+    "comfortably": [
+      "well"
     ]
   },
   "changes": [
@@ -2320,6 +2323,14 @@
       "replacement_word": "wait",
       "display_replacement": "waited",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-05-17T05:25:31.018408Z",
+      "index": 351,
+      "original_word": "comfortably",
+      "replacement_word": "well",
+      "display_replacement": "well",
+      "similarity": 0.5
     }
   ]
 }
