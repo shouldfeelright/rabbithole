@@ -446,7 +446,8 @@
     ],
     "so": [
       "thusly",
-      "hence"
+      "hence",
+      "thence"
     ],
     "hot": [
       "raging",
@@ -2363,6 +2364,14 @@
       "original_word": "still",
       "replacement_word": "nonetheless",
       "display_replacement": "nonetheless",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-05-19T05:30:51.963788Z",
+      "index": 1628,
+      "original_word": "so",
+      "replacement_word": "thence",
+      "display_replacement": "thence",
       "similarity": 0.5
     }
   ]
