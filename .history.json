@@ -588,6 +588,9 @@
     ],
     "simple": [
       "simpleton"
+    ],
+    "taking": [
+      "strike"
     ]
   },
   "changes": [
@@ -2395,6 +2398,14 @@
       "replacement_word": "simpleton",
       "display_replacement": "simpleton",
       "similarity": 0.6667
+    },
+    {
+      "timestamp": "2026-05-20T05:31:16.454056Z",
+      "index": 878,
+      "original_word": "taking",
+      "replacement_word": "strike",
+      "display_replacement": "striking",
+      "similarity": 0.3333
     }
   ]
 }
