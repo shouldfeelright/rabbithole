@@ -585,6 +585,9 @@
     ],
     "antipathies": [
       "antipathy"
+    ],
+    "simple": [
+      "simpleton"
     ]
   },
   "changes": [
@@ -2384,6 +2387,14 @@
       "replacement_word": "antipathy",
       "display_replacement": "antipathy",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-05-20T05:31:11.073394Z",
+      "index": 1793,
+      "original_word": "simple",
+      "replacement_word": "simpleton",
+      "display_replacement": "simpleton",
+      "similarity": 0.6667
     }
   ]
 }
