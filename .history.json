@@ -415,7 +415,8 @@
       "choke"
     ],
     "be": [
-      "comprise"
+      "comprise",
+      "exist"
     ],
     "pleasure": [
       "joy"
@@ -2406,6 +2407,14 @@
       "replacement_word": "strike",
       "display_replacement": "striking",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-05-21T05:34:38.111659Z",
+      "index": 2294,
+      "original_word": "be",
+      "replacement_word": "exist",
+      "display_replacement": "exist",
+      "similarity": 0.5
     }
   ]
 }
