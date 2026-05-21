@@ -171,7 +171,8 @@
       "preferably"
     ],
     "cats": [
-      "CAT"
+      "CAT",
+      "hombre"
     ],
     "sentence": [
       "condemnation"
@@ -2414,6 +2415,14 @@
       "original_word": "be",
       "replacement_word": "exist",
       "display_replacement": "exist",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-05-21T05:34:43.880071Z",
+      "index": 1029,
+      "original_word": "cats",
+      "replacement_word": "hombre",
+      "display_replacement": "hombre",
       "similarity": 0.5
     }
   ]
