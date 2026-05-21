@@ -593,6 +593,9 @@
     ],
     "taking": [
       "strike"
+    ],
+    "completed": [
+      "discharge"
     ]
   },
   "changes": [
@@ -2424,6 +2427,14 @@
       "replacement_word": "hombre",
       "display_replacement": "hombre",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-05-21T05:34:49.514177Z",
+      "index": 2541,
+      "original_word": "completed",
+      "replacement_word": "discharge",
+      "display_replacement": "discharged",
+      "similarity": 0.75
     }
   ]
 }
