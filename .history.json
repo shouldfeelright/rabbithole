@@ -98,7 +98,8 @@
       "state",
       "pronounce",
       "allege",
-      "read"
+      "read",
+      "tell"
     ],
     "shutting": [
       "shut"
@@ -2435,6 +2436,14 @@
       "replacement_word": "discharge",
       "display_replacement": "discharged",
       "similarity": 0.75
+    },
+    {
+      "timestamp": "2026-05-21T05:34:55.104676Z",
+      "index": 602,
+      "original_word": "said",
+      "replacement_word": "tell",
+      "display_replacement": "told",
+      "similarity": 1.0
     }
   ]
 }
