@@ -173,7 +173,8 @@
     ],
     "cats": [
       "CAT",
-      "hombre"
+      "hombre",
+      "cat"
     ],
     "sentence": [
       "condemnation"
@@ -2485,6 +2486,14 @@
       "original_word": "well",
       "replacement_word": "good",
       "display_replacement": "good",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-05-22T05:31:32.398209Z",
+      "index": 1034,
+      "original_word": "cats",
+      "replacement_word": "cat",
+      "display_replacement": "cat",
       "similarity": 1.0
     }
   ]
