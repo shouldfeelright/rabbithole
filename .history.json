@@ -597,6 +597,9 @@
     ],
     "completed": [
       "discharge"
+    ],
+    "finger": [
+      "digit"
     ]
   },
   "changes": [
@@ -2444,6 +2447,14 @@
       "replacement_word": "tell",
       "display_replacement": "told",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-05-22T05:31:10.596530Z",
+      "index": 1824,
+      "original_word": "finger",
+      "replacement_word": "digit",
+      "display_replacement": "digit",
+      "similarity": 0.1333
     }
   ]
 }
