@@ -600,6 +600,9 @@
     ],
     "finger": [
       "digit"
+    ],
+    "close": [
+      "tight"
     ]
   },
   "changes": [
@@ -2455,6 +2458,14 @@
       "replacement_word": "digit",
       "display_replacement": "digit",
       "similarity": 0.1333
+    },
+    {
+      "timestamp": "2026-05-22T05:31:16.104096Z",
+      "index": 1242,
+      "original_word": "close",
+      "replacement_word": "tight",
+      "display_replacement": "tight",
+      "similarity": 0.5
     }
   ]
 }
