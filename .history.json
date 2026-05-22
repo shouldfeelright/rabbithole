@@ -603,6 +603,9 @@
     ],
     "close": [
       "tight"
+    ],
+    "middle": [
+      "centre"
     ]
   },
   "changes": [
@@ -2466,6 +2469,14 @@
       "replacement_word": "tight",
       "display_replacement": "tight",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-05-22T05:31:21.495561Z",
+      "index": 1324,
+      "original_word": "middle",
+      "replacement_word": "centre",
+      "display_replacement": "centre",
+      "similarity": 0.6667
     }
   ]
 }
