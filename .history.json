@@ -186,7 +186,8 @@
     ],
     "well": [
       "comfortably",
-      "easily"
+      "easily",
+      "good"
     ],
     "written": [
       "save"
@@ -2477,6 +2478,14 @@
       "replacement_word": "centre",
       "display_replacement": "centre",
       "similarity": 0.6667
+    },
+    {
+      "timestamp": "2026-05-22T05:31:26.922738Z",
+      "index": 351,
+      "original_word": "well",
+      "replacement_word": "good",
+      "display_replacement": "good",
+      "similarity": 1.0
     }
   ]
 }
