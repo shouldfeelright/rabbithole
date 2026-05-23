@@ -612,6 +612,9 @@
     ],
     "legs": [
       "stage"
+    ],
+    "early": [
+      "betimes"
     ]
   },
   "changes": [
@@ -2515,6 +2518,14 @@
       "replacement_word": "stage",
       "display_replacement": "stage",
       "similarity": 0.2857
+    },
+    {
+      "timestamp": "2026-05-23T05:23:07.390072Z",
+      "index": 1313,
+      "original_word": "early",
+      "replacement_word": "betimes",
+      "display_replacement": "betimes",
+      "similarity": 0.5
     }
   ]
 }
