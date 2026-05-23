@@ -615,6 +615,9 @@
     ],
     "early": [
       "betimes"
+    ],
+    "hurrying": [
+      "speed"
     ]
   },
   "changes": [
@@ -2526,6 +2529,14 @@
       "replacement_word": "betimes",
       "display_replacement": "betimes",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-05-23T05:23:12.591750Z",
+      "index": 1191,
+      "original_word": "hurrying",
+      "replacement_word": "speed",
+      "display_replacement": "speeding",
+      "similarity": 0.3333
     }
   ]
 }
