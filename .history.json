@@ -609,6 +609,9 @@
     ],
     "middle": [
       "centre"
+    ],
+    "legs": [
+      "stage"
     ]
   },
   "changes": [
@@ -2504,6 +2507,14 @@
       "replacement_word": "parole",
       "display_replacement": "parole",
       "similarity": 0.4615
+    },
+    {
+      "timestamp": "2026-05-23T05:23:02.216063Z",
+      "index": 2166,
+      "original_word": "legs",
+      "replacement_word": "stage",
+      "display_replacement": "stage",
+      "similarity": 0.2857
     }
   ]
 }
