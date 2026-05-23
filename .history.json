@@ -82,7 +82,8 @@
     ],
     "words": [
       "countersign",
-      "row"
+      "row",
+      "parole"
     ],
     "down": [
       "downward",
@@ -2495,6 +2496,14 @@
       "replacement_word": "cat",
       "display_replacement": "cat",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-05-23T05:22:56.845684Z",
+      "index": 2365,
+      "original_word": "words",
+      "replacement_word": "parole",
+      "display_replacement": "parole",
+      "similarity": 0.4615
     }
   ]
 }
