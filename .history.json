@@ -618,6 +618,9 @@
     ],
     "hurrying": [
       "speed"
+    ],
+    "once": [
+      "erstwhile"
     ]
   },
   "changes": [
@@ -2537,6 +2540,14 @@
       "replacement_word": "speed",
       "display_replacement": "speeding",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-05-24T05:28:03.015622Z",
+      "index": 2099,
+      "original_word": "once",
+      "replacement_word": "erstwhile",
+      "display_replacement": "erstwhile",
+      "similarity": 0.5
     }
   ]
 }
