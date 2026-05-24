@@ -378,7 +378,8 @@
       "scream"
     ],
     "tired": [
-      "tire"
+      "tire",
+      "jade"
     ],
     "make": [
       "prepare"
@@ -2557,6 +2558,14 @@
       "replacement_word": "equal",
       "display_replacement": "equal",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-05-24T05:28:13.543822Z",
+      "index": 6,
+      "original_word": "tired",
+      "replacement_word": "jade",
+      "display_replacement": "jaded",
+      "similarity": 1.0
     }
   ]
 }
