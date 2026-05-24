@@ -421,7 +421,8 @@
     ],
     "be": [
       "comprise",
-      "exist"
+      "exist",
+      "equal"
     ],
     "pleasure": [
       "joy"
@@ -2547,6 +2548,14 @@
       "original_word": "once",
       "replacement_word": "erstwhile",
       "display_replacement": "erstwhile",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-05-24T05:28:08.296290Z",
+      "index": 101,
+      "original_word": "be",
+      "replacement_word": "equal",
+      "display_replacement": "equal",
       "similarity": 0.5
     }
   ]
