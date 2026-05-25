@@ -623,6 +623,9 @@
     ],
     "once": [
       "erstwhile"
+    ],
+    "watch": [
+      "sentry"
     ]
   },
   "changes": [
@@ -2566,6 +2569,14 @@
       "replacement_word": "jade",
       "display_replacement": "jaded",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-05-25T05:42:26.785722Z",
+      "index": 250,
+      "original_word": "watch",
+      "replacement_word": "sentry",
+      "display_replacement": "sentry",
+      "similarity": 0.3478
     }
   ]
 }
