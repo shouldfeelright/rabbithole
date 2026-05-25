@@ -626,6 +626,9 @@
     ],
     "watch": [
       "sentry"
+    ],
+    "represented": [
+      "correspond"
     ]
   },
   "changes": [
@@ -2577,6 +2580,14 @@
       "replacement_word": "sentry",
       "display_replacement": "sentry",
       "similarity": 0.3478
+    },
+    {
+      "timestamp": "2026-05-25T05:42:31.475523Z",
+      "index": 1177,
+      "original_word": "represented",
+      "replacement_word": "correspond",
+      "display_replacement": "corresponded",
+      "similarity": 0.3333
     }
   ]
 }
