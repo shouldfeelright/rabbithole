@@ -13,7 +13,8 @@
       "soul"
     ],
     "sort": [
-      "form"
+      "form",
+      "variety"
     ],
     "not": [
       "non"
@@ -2608,6 +2609,14 @@
       "replacement_word": "chiropteran",
       "display_replacement": "chiropteran",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-05-26T05:30:32.124251Z",
+      "index": 647,
+      "original_word": "sort",
+      "replacement_word": "variety",
+      "display_replacement": "variety",
+      "similarity": 0.2857
     }
   ]
 }
