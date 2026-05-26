@@ -630,6 +630,9 @@
     ],
     "represented": [
       "correspond"
+    ],
+    "bat": [
+      "chiropteran"
     ]
   },
   "changes": [
@@ -2597,6 +2600,14 @@
       "replacement_word": "feature",
       "display_replacement": "featured",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-05-26T05:30:26.950606Z",
+      "index": 982,
+      "original_word": "bat",
+      "replacement_word": "chiropteran",
+      "display_replacement": "chiropteran",
+      "similarity": 1.0
     }
   ]
 }
