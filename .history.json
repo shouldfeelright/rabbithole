@@ -139,7 +139,8 @@
       "cause",
       "give",
       "suffer",
-      "bear"
+      "bear",
+      "feature"
     ],
     "indeed": [
       "so"
@@ -2588,6 +2589,14 @@
       "replacement_word": "correspond",
       "display_replacement": "corresponded",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-05-26T05:30:21.660818Z",
+      "index": 1596,
+      "original_word": "had",
+      "replacement_word": "feature",
+      "display_replacement": "featured",
+      "similarity": 0.5
     }
   ]
 }
