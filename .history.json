@@ -186,7 +186,8 @@
       "unwashed"
     ],
     "brightened": [
-      "brighten"
+      "brighten",
+      "lighten"
     ],
     "well": [
       "comfortably",
@@ -2617,6 +2618,14 @@
       "replacement_word": "variety",
       "display_replacement": "variety",
       "similarity": 0.2857
+    },
+    {
+      "timestamp": "2026-05-27T05:37:59.031867Z",
+      "index": 1963,
+      "original_word": "brightened",
+      "replacement_word": "lighten",
+      "display_replacement": "lightened",
+      "similarity": 0.1818
     }
   ]
 }
