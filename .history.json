@@ -27,7 +27,8 @@
       "start"
     ],
     "suddenly": [
-      "abruptly"
+      "abruptly",
+      "dead"
     ],
     "large": [
       "prominent"
@@ -2626,6 +2627,14 @@
       "replacement_word": "lighten",
       "display_replacement": "lightened",
       "similarity": 0.1818
+    },
+    {
+      "timestamp": "2026-05-27T05:38:04.393625Z",
+      "index": 1336,
+      "original_word": "Suddenly",
+      "replacement_word": "dead",
+      "display_replacement": "dead",
+      "similarity": 0.5
     }
   ]
 }
