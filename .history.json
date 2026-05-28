@@ -639,6 +639,9 @@
     ],
     "costs": [
       "cost"
+    ],
+    "fallen": [
+      "decrease"
     ]
   },
   "changes": [
@@ -2646,6 +2649,14 @@
       "replacement_word": "cost",
       "display_replacement": "cost",
       "similarity": 0.7368
+    },
+    {
+      "timestamp": "2026-05-28T05:34:01.928833Z",
+      "index": 595,
+      "original_word": "fallen",
+      "replacement_word": "decrease",
+      "display_replacement": "decreased",
+      "similarity": 0.2857
     }
   ]
 }
