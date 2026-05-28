@@ -642,6 +642,9 @@
     ],
     "fallen": [
       "decrease"
+    ],
+    "however": [
+      "notwithstanding"
     ]
   },
   "changes": [
@@ -2657,6 +2660,14 @@
       "replacement_word": "decrease",
       "display_replacement": "decreased",
       "similarity": 0.2857
+    },
+    {
+      "timestamp": "2026-05-28T05:34:07.764686Z",
+      "index": 1411,
+      "original_word": "However",
+      "replacement_word": "notwithstanding",
+      "display_replacement": "notwithstanding",
+      "similarity": 1.0
     }
   ]
 }
