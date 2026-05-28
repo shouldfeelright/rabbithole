@@ -636,6 +636,9 @@
     ],
     "bat": [
       "chiropteran"
+    ],
+    "costs": [
+      "cost"
     ]
   },
   "changes": [
@@ -2635,6 +2638,14 @@
       "replacement_word": "dead",
       "display_replacement": "dead",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-05-28T05:33:55.951201Z",
+      "index": 2060,
+      "original_word": "costs",
+      "replacement_word": "cost",
+      "display_replacement": "cost",
+      "similarity": 0.7368
     }
   ]
 }
