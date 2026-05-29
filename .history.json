@@ -635,7 +635,8 @@
       "correspond"
     ],
     "bat": [
-      "chiropteran"
+      "chiropteran",
+      "at-bat"
     ],
     "costs": [
       "cost"
@@ -2690,6 +2691,14 @@
       "replacement_word": "expression",
       "display_replacement": "expression",
       "similarity": 0.1429
+    },
+    {
+      "timestamp": "2026-05-29T05:37:07.510429Z",
+      "index": 1117,
+      "original_word": "bat",
+      "replacement_word": "at-bat",
+      "display_replacement": "at-bat",
+      "similarity": 0.1
     }
   ]
 }
