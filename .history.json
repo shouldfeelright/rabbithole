@@ -648,6 +648,9 @@
     ],
     "row": [
       "quarrel"
+    ],
+    "face": [
+      "expression"
     ]
   },
   "changes": [
@@ -2679,6 +2682,14 @@
       "replacement_word": "quarrel",
       "display_replacement": "quarrel",
       "similarity": 0.25
+    },
+    {
+      "timestamp": "2026-05-29T05:37:02.476905Z",
+      "index": 1962,
+      "original_word": "face",
+      "replacement_word": "expression",
+      "display_replacement": "expression",
+      "similarity": 0.1429
     }
   ]
 }
