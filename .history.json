@@ -655,6 +655,9 @@
     ],
     "pictures": [
       "picture"
+    ],
+    "hedge": [
+      "hedgerow"
     ]
   },
   "changes": [
@@ -2709,6 +2712,14 @@
       "original_word": "pictures",
       "replacement_word": "picture",
       "display_replacement": "picture",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-05-29T05:37:17.758141Z",
+      "index": 286,
+      "original_word": "hedge",
+      "replacement_word": "hedgerow",
+      "display_replacement": "hedgerow",
       "similarity": 1.0
     }
   ]
