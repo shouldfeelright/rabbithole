@@ -664,6 +664,9 @@
     ],
     "futurity": [
       "future"
+    ],
+    "eye": [
+      "oculus"
     ]
   },
   "changes": [
@@ -2742,6 +2745,14 @@
       "original_word": "futurity",
       "replacement_word": "future",
       "display_replacement": "future",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-05-30T05:25:49.505773Z",
+      "index": 2335,
+      "original_word": "eye",
+      "replacement_word": "oculus",
+      "display_replacement": "oculus",
       "similarity": 1.0
     }
   ]
