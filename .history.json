@@ -667,6 +667,9 @@
     ],
     "eye": [
       "oculus"
+    ],
+    "thing": [
+      "matter"
     ]
   },
   "changes": [
@@ -2754,6 +2757,14 @@
       "replacement_word": "oculus",
       "display_replacement": "oculus",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-05-30T05:25:54.584392Z",
+      "index": 1595,
+      "original_word": "thing",
+      "replacement_word": "matter",
+      "display_replacement": "matter",
+      "similarity": 0.4706
     }
   ]
 }
