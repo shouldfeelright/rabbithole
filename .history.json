@@ -658,6 +658,9 @@
     ],
     "hedge": [
       "hedgerow"
+    ],
+    "lying": [
+      "consist"
     ]
   },
   "changes": [
@@ -2721,6 +2724,14 @@
       "replacement_word": "hedgerow",
       "display_replacement": "hedgerow",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-05-30T05:25:39.254286Z",
+      "index": 2344,
+      "original_word": "lying",
+      "replacement_word": "consist",
+      "display_replacement": "consisting",
+      "similarity": 0.3333
     }
   ]
 }
