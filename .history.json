@@ -674,6 +674,9 @@
     ],
     "round": [
       "rung"
+    ],
+    "followed": [
+      "trace"
     ]
   },
   "changes": [
@@ -2785,6 +2788,14 @@
       "replacement_word": "footling",
       "display_replacement": "footling",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-05-31T05:39:48.085315Z",
+      "index": 1711,
+      "original_word": "followed",
+      "replacement_word": "trace",
+      "display_replacement": "traced",
+      "similarity": 0.3333
     }
   ]
 }
