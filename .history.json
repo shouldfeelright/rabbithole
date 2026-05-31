@@ -670,6 +670,9 @@
     ],
     "thing": [
       "matter"
+    ],
+    "round": [
+      "rung"
     ]
   },
   "changes": [
@@ -2765,6 +2768,14 @@
       "replacement_word": "matter",
       "display_replacement": "matter",
       "similarity": 0.4706
+    },
+    {
+      "timestamp": "2026-05-31T05:39:37.704517Z",
+      "index": 1289,
+      "original_word": "round",
+      "replacement_word": "rung",
+      "display_replacement": "rung",
+      "similarity": 0.6
     }
   ]
 }
