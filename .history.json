@@ -677,6 +677,9 @@
     ],
     "followed": [
       "trace"
+    ],
+    "pronounced": [
+      "pronounce"
     ]
   },
   "changes": [
@@ -2796,6 +2799,14 @@
       "replacement_word": "trace",
       "display_replacement": "traced",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-05-31T05:39:53.394631Z",
+      "index": 2441,
+      "original_word": "pronounced",
+      "replacement_word": "pronounce",
+      "display_replacement": "pronounced",
+      "similarity": 1.0
     }
   ]
 }
