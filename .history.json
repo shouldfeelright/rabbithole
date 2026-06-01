@@ -683,6 +683,9 @@
     ],
     "countersign": [
       "password"
+    ],
+    "trying": [
+      "judge"
     ]
   },
   "changes": [
@@ -2818,6 +2821,14 @@
       "replacement_word": "password",
       "display_replacement": "password",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-06-01T05:48:37.132865Z",
+      "index": 2263,
+      "original_word": "trying",
+      "replacement_word": "judge",
+      "display_replacement": "judging",
+      "similarity": 0.25
     }
   ]
 }
