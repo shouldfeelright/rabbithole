@@ -689,6 +689,9 @@
     ],
     "crying": [
       "scream"
+    ],
+    "listening": [
+      "listen"
     ]
   },
   "changes": [
@@ -2839,6 +2842,14 @@
       "original_word": "crying",
       "replacement_word": "scream",
       "display_replacement": "screaming",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-06-02T05:44:36.946754Z",
+      "index": 790,
+      "original_word": "listening",
+      "replacement_word": "listen",
+      "display_replacement": "listening",
       "similarity": 1.0
     }
   ]
