@@ -686,6 +686,9 @@
     ],
     "trying": [
       "judge"
+    ],
+    "crying": [
+      "scream"
     ]
   },
   "changes": [
@@ -2829,6 +2832,14 @@
       "replacement_word": "judge",
       "display_replacement": "judging",
       "similarity": 0.25
+    },
+    {
+      "timestamp": "2026-06-02T05:44:31.546824Z",
+      "index": 2203,
+      "original_word": "crying",
+      "replacement_word": "scream",
+      "display_replacement": "screaming",
+      "similarity": 1.0
     }
   ]
 }
