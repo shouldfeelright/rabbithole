@@ -692,6 +692,9 @@
     ],
     "listening": [
       "listen"
+    ],
+    "fitted": [
+      "fit"
     ]
   },
   "changes": [
@@ -2850,6 +2853,14 @@
       "original_word": "listening",
       "replacement_word": "listen",
       "display_replacement": "listening",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-06-02T05:44:42.275256Z",
+      "index": 1459,
+      "original_word": "fitted",
+      "replacement_word": "fit",
+      "display_replacement": "fitted",
       "similarity": 1.0
     }
   ]
