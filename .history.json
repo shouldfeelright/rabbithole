@@ -695,6 +695,9 @@
     ],
     "fitted": [
       "fit"
+    ],
+    "white": [
+      "tweed"
     ]
   },
   "changes": [
@@ -2862,6 +2865,14 @@
       "replacement_word": "fit",
       "display_replacement": "fitted",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-06-03T05:48:01.138121Z",
+      "index": 1184,
+      "original_word": "White",
+      "replacement_word": "tweed",
+      "display_replacement": "tweed",
+      "similarity": 0.5333
     }
   ]
 }
