@@ -698,6 +698,9 @@
     ],
     "white": [
       "tweed"
+    ],
+    "curious": [
+      "funny"
     ]
   },
   "changes": [
@@ -2873,6 +2876,14 @@
       "replacement_word": "tweed",
       "display_replacement": "tweed",
       "similarity": 0.5333
+    },
+    {
+      "timestamp": "2026-06-03T05:48:06.834510Z",
+      "index": 2286,
+      "original_word": "curious",
+      "replacement_word": "funny",
+      "display_replacement": "funny",
+      "similarity": 0.5
     }
   ]
 }
