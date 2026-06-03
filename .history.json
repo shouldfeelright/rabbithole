@@ -704,6 +704,9 @@
     ],
     "telescope": [
       "scope"
+    ],
+    "fashion": [
+      "way"
     ]
   },
   "changes": [
@@ -2895,6 +2898,14 @@
       "replacement_word": "scope",
       "display_replacement": "scope",
       "similarity": 0.1111
+    },
+    {
+      "timestamp": "2026-06-03T05:48:18.023310Z",
+      "index": 2417,
+      "original_word": "fashion",
+      "replacement_word": "way",
+      "display_replacement": "way",
+      "similarity": 1.0
     }
   ]
 }
