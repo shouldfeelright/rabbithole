@@ -701,6 +701,9 @@
     ],
     "curious": [
       "funny"
+    ],
+    "telescope": [
+      "scope"
     ]
   },
   "changes": [
@@ -2884,6 +2887,14 @@
       "replacement_word": "funny",
       "display_replacement": "funny",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-06-03T05:48:12.450680Z",
+      "index": 1571,
+      "original_word": "telescope",
+      "replacement_word": "scope",
+      "display_replacement": "scope",
+      "similarity": 0.1111
     }
   ]
 }
