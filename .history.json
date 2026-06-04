@@ -560,7 +560,8 @@
       "heart"
     ],
     "reach": [
-      "compass"
+      "compass",
+      "orbit"
     ],
     "never": [
       "ne'er"
@@ -2906,6 +2907,14 @@
       "replacement_word": "way",
       "display_replacement": "way",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-06-04T05:45:50.389836Z",
+      "index": 2396,
+      "original_word": "reach",
+      "replacement_word": "orbit",
+      "display_replacement": "orbit",
+      "similarity": 0.5333
     }
   ]
 }
