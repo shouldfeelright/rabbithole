@@ -37,7 +37,8 @@
       "agency",
       "fashion",
       "manner",
-      "style"
+      "style",
+      "room"
     ],
     "moment": [
       "minute",
@@ -2915,6 +2916,14 @@
       "replacement_word": "orbit",
       "display_replacement": "orbit",
       "similarity": 0.5333
+    },
+    {
+      "timestamp": "2026-06-04T05:45:55.104757Z",
+      "index": 321,
+      "original_word": "way",
+      "replacement_word": "room",
+      "display_replacement": "room",
+      "similarity": 0.1538
     }
   ]
 }
