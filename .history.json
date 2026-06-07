@@ -711,6 +711,9 @@
     ],
     "fashion": [
       "way"
+    ],
+    "falling": [
+      "pass"
     ]
   },
   "changes": [
@@ -2942,6 +2945,14 @@
       "replacement_word": "naught",
       "display_replacement": "naught",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-06-07T05:41:45.271495Z",
+      "index": 853,
+      "original_word": "falling",
+      "replacement_word": "pass",
+      "display_replacement": "passing",
+      "similarity": 0.3333
     }
   ]
 }
