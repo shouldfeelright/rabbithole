@@ -714,6 +714,9 @@
     ],
     "falling": [
       "pass"
+    ],
+    "leave": [
+      "lead"
     ]
   },
   "changes": [
@@ -2953,6 +2956,14 @@
       "replacement_word": "pass",
       "display_replacement": "passing",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-06-07T05:41:50.680202Z",
+      "index": 2221,
+      "original_word": "leave",
+      "replacement_word": "lead",
+      "display_replacement": "lead",
+      "similarity": 0.5
     }
   ]
 }
