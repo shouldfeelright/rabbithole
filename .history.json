@@ -717,6 +717,9 @@
     ],
     "leave": [
       "lead"
+    ],
+    "beginning": [
+      "start"
     ]
   },
   "changes": [
@@ -2964,6 +2967,14 @@
       "replacement_word": "lead",
       "display_replacement": "lead",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-06-08T05:45:33.133272Z",
+      "index": 2,
+      "original_word": "beginning",
+      "replacement_word": "start",
+      "display_replacement": "starting",
+      "similarity": 1.0
     }
   ]
 }

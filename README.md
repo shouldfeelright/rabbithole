@@ -1,4 +1,4 @@
-Alice cost beginning to get very jaded of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, 'and what is the use of a book, ' thought Alice without picture or conversation? '
+Alice cost starting to get very jaded of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, 'and what is the use of a book, ' thought Alice without picture or conversation? '
 
 So she was believing in her own mind ( as well as she could, for the red-hot day given her feel very sleepy and unintelligent ), whether the joy of making a daisy-chain would equal worth the trouble of getting up and picking the daisy, when suddenly a White Rabbit with pink heart ran close by her.
 
