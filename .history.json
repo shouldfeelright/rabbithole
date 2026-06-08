@@ -723,6 +723,9 @@
     ],
     "stated": [
       "submit"
+    ],
+    "real": [
+      "genuine"
     ]
   },
   "changes": [
@@ -2986,6 +2989,14 @@
       "replacement_word": "submit",
       "display_replacement": "submitted",
       "similarity": 0.25
+    },
+    {
+      "timestamp": "2026-06-08T05:45:43.571801Z",
+      "index": 2539,
+      "original_word": "real",
+      "replacement_word": "genuine",
+      "display_replacement": "genuine",
+      "similarity": 0.5
     }
   ]
 }
