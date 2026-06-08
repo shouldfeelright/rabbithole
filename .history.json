@@ -720,6 +720,9 @@
     ],
     "beginning": [
       "start"
+    ],
+    "stated": [
+      "submit"
     ]
   },
   "changes": [
@@ -2975,6 +2978,14 @@
       "replacement_word": "start",
       "display_replacement": "starting",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-06-08T05:45:38.292724Z",
+      "index": 1745,
+      "original_word": "stated",
+      "replacement_word": "submit",
+      "display_replacement": "submitted",
+      "similarity": 0.25
     }
   ]
 }
