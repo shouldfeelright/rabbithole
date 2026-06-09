@@ -574,7 +574,8 @@
     ],
     "bats": [
       "chiropteran",
-      "bat"
+      "bat",
+      "at-bat"
     ],
     "choking": [
       "exit"
@@ -2997,6 +2998,14 @@
       "replacement_word": "genuine",
       "display_replacement": "genuine",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-06-09T05:32:17.402521Z",
+      "index": 1043,
+      "original_word": "bats",
+      "replacement_word": "at-bat",
+      "display_replacement": "at-bat",
+      "similarity": 0.1
     }
   ]
 }
