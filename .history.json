@@ -727,6 +727,9 @@
     ],
     "real": [
       "genuine"
+    ],
+    "friends": [
+      "friend"
     ]
   },
   "changes": [
@@ -3006,6 +3009,14 @@
       "replacement_word": "at-bat",
       "display_replacement": "at-bat",
       "similarity": 0.1
+    },
+    {
+      "timestamp": "2026-06-10T05:41:36.020263Z",
+      "index": 1796,
+      "original_word": "friends",
+      "replacement_word": "friend",
+      "display_replacement": "friend",
+      "similarity": 0.75
     }
   ]
 }
