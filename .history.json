@@ -730,6 +730,9 @@
     ],
     "friends": [
       "friend"
+    ],
+    "ever": [
+      "e'er"
     ]
   },
   "changes": [
@@ -3017,6 +3020,14 @@
       "replacement_word": "friend",
       "display_replacement": "friend",
       "similarity": 0.75
+    },
+    {
+      "timestamp": "2026-06-10T05:41:41.410192Z",
+      "index": 1330,
+      "original_word": "ever",
+      "replacement_word": "e'er",
+      "display_replacement": "e'er",
+      "similarity": 0.5
     }
   ]
 }
