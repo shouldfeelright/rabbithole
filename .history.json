@@ -733,6 +733,9 @@
     ],
     "ever": [
       "e'er"
+    ],
+    "determined": [
+      "set"
     ]
   },
   "changes": [
@@ -3028,6 +3031,14 @@
       "replacement_word": "e'er",
       "display_replacement": "e'er",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-06-11T05:44:55.098222Z",
+      "index": 2092,
+      "original_word": "determined",
+      "replacement_word": "set",
+      "display_replacement": "set",
+      "similarity": 0.4
     }
   ]
 }
