@@ -736,6 +736,9 @@
     ],
     "determined": [
       "set"
+    ],
+    "certainly": [
+      "surely"
     ]
   },
   "changes": [
@@ -3039,6 +3042,14 @@
       "replacement_word": "set",
       "display_replacement": "set",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-06-11T05:45:00.185939Z",
+      "index": 1673,
+      "original_word": "certainly",
+      "replacement_word": "surely",
+      "display_replacement": "surely",
+      "similarity": 1.0
     }
   ]
 }
