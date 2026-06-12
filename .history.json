@@ -652,7 +652,8 @@
       "decrease"
     ],
     "however": [
-      "notwithstanding"
+      "notwithstanding",
+      "yet"
     ],
     "row": [
       "quarrel"
@@ -3103,6 +3104,14 @@
       "replacement_word": "2nd",
       "display_replacement": "2nd",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-06-12T05:44:30.881110Z",
+      "index": 1866,
+      "original_word": "However",
+      "replacement_word": "yet",
+      "display_replacement": "yet",
+      "similarity": 0.5
     }
   ]
 }
