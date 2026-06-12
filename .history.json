@@ -390,7 +390,8 @@
       "jade"
     ],
     "make": [
-      "prepare"
+      "prepare",
+      "ca-ca"
     ],
     "box": [
       "boxful"
@@ -3083,6 +3084,14 @@
       "replacement_word": "cervix",
       "display_replacement": "cervix",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-06-12T05:44:20.488981Z",
+      "index": 2327,
+      "original_word": "make",
+      "replacement_word": "ca-ca",
+      "display_replacement": "can",
+      "similarity": 0.3333
     }
   ]
 }
