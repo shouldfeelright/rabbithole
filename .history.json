@@ -749,6 +749,9 @@
     ],
     "neck": [
       "cervix"
+    ],
+    "second": [
+      "2nd"
     ]
   },
   "changes": [
@@ -3092,6 +3095,14 @@
       "replacement_word": "ca-ca",
       "display_replacement": "can",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-06-12T05:44:25.648284Z",
+      "index": 1415,
+      "original_word": "second",
+      "replacement_word": "2nd",
+      "display_replacement": "2nd",
+      "similarity": 1.0
     }
   ]
 }
