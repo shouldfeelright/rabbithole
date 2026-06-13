@@ -753,6 +753,9 @@
     ],
     "second": [
       "2nd"
+    ],
+    "open": [
+      "undetermined"
     ]
   },
   "changes": [
@@ -3111,6 +3114,14 @@
       "original_word": "However",
       "replacement_word": "yet",
       "display_replacement": "yet",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-06-13T05:39:56.279412Z",
+      "index": 1406,
+      "original_word": "open",
+      "replacement_word": "undetermined",
+      "display_replacement": "undetermined",
       "similarity": 0.5
     }
   ]
