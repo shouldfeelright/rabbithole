@@ -196,7 +196,8 @@
     "well": [
       "comfortably",
       "easily",
-      "good"
+      "good",
+      "intimately"
     ],
     "written": [
       "save"
@@ -3154,6 +3155,14 @@
       "replacement_word": "gabardine",
       "display_replacement": "gabardine",
       "similarity": 0.8571
+    },
+    {
+      "timestamp": "2026-06-14T05:44:25.806513Z",
+      "index": 1714,
+      "original_word": "well",
+      "replacement_word": "intimately",
+      "display_replacement": "intimately",
+      "similarity": 0.5
     }
   ]
 }
