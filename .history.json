@@ -760,6 +760,9 @@
     ],
     "soon": [
       "presently"
+    ],
+    "tweed": [
+      "gabardine"
     ]
   },
   "changes": [
@@ -3143,6 +3146,14 @@
       "replacement_word": "visit",
       "display_replacement": "visit",
       "similarity": 0.25
+    },
+    {
+      "timestamp": "2026-06-14T05:44:20.219342Z",
+      "index": 1184,
+      "original_word": "tweed",
+      "replacement_word": "gabardine",
+      "display_replacement": "gabardine",
+      "similarity": 0.8571
     }
   ]
 }
