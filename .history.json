@@ -764,6 +764,9 @@
     ],
     "tweed": [
       "gabardine"
+    ],
+    "combustion": [
+      "burning"
     ]
   },
   "changes": [
@@ -3163,6 +3166,14 @@
       "replacement_word": "intimately",
       "display_replacement": "intimately",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-06-14T05:44:31.449192Z",
+      "index": 258,
+      "original_word": "combustion",
+      "replacement_word": "burning",
+      "display_replacement": "burning",
+      "similarity": 0.1176
     }
   ]
 }
