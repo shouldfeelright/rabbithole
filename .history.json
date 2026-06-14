@@ -756,6 +756,9 @@
     ],
     "open": [
       "undetermined"
+    ],
+    "soon": [
+      "presently"
     ]
   },
   "changes": [
@@ -3123,6 +3126,14 @@
       "replacement_word": "undetermined",
       "display_replacement": "undetermined",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-06-14T05:44:08.568251Z",
+      "index": 914,
+      "original_word": "soon",
+      "replacement_word": "presently",
+      "display_replacement": "presently",
+      "similarity": 1.0
     }
   ]
 }
