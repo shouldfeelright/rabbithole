@@ -283,7 +283,8 @@
       "doorway"
     ],
     "see": [
-      "look"
+      "look",
+      "visit"
     ],
     "shortly": [
       "presently"
@@ -3134,6 +3135,14 @@
       "replacement_word": "presently",
       "display_replacement": "presently",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-06-14T05:44:14.651759Z",
+      "index": 1748,
+      "original_word": "see",
+      "replacement_word": "visit",
+      "display_replacement": "visit",
+      "similarity": 0.25
     }
   ]
 }
