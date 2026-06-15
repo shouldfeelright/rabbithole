@@ -770,6 +770,9 @@
     ],
     "flowers": [
       "flower"
+    ],
+    "sides": [
+      "face"
     ]
   },
   "changes": [
@@ -3185,6 +3188,14 @@
       "replacement_word": "flower",
       "display_replacement": "flower",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-06-15T05:59:08.146705Z",
+      "index": 420,
+      "original_word": "sides",
+      "replacement_word": "face",
+      "display_replacement": "face",
+      "similarity": 0.3077
     }
   ]
 }
