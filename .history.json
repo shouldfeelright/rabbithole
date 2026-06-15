@@ -767,6 +767,9 @@
     ],
     "combustion": [
       "burning"
+    ],
+    "flowers": [
+      "flower"
     ]
   },
   "changes": [
@@ -3174,6 +3177,14 @@
       "replacement_word": "burning",
       "display_replacement": "burning",
       "similarity": 0.1176
+    },
+    {
+      "timestamp": "2026-06-15T05:59:02.710893Z",
+      "index": 1517,
+      "original_word": "flowers",
+      "replacement_word": "flower",
+      "display_replacement": "flower",
+      "similarity": 1.0
     }
   ]
 }
