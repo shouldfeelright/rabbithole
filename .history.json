@@ -773,6 +773,9 @@
     ],
     "sides": [
       "face"
+    ],
+    "further": [
+      "farther"
     ]
   },
   "changes": [
@@ -3196,6 +3199,14 @@
       "replacement_word": "face",
       "display_replacement": "face",
       "similarity": 0.3077
+    },
+    {
+      "timestamp": "2026-06-16T06:00:52.428218Z",
+      "index": 2005,
+      "original_word": "further",
+      "replacement_word": "farther",
+      "display_replacement": "farther",
+      "similarity": 1.0
     }
   ]
 }
