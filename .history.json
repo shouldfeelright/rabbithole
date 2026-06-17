@@ -783,6 +783,9 @@
     ],
     "tonic": [
       "soda"
+    ],
+    "getting": [
+      "acquire"
     ]
   },
   "changes": [
@@ -3237,6 +3240,14 @@
       "original_word": "say",
       "replacement_word": "state",
       "display_replacement": "state",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-06-17T05:50:02.817525Z",
+      "index": 609,
+      "original_word": "getting",
+      "replacement_word": "acquire",
+      "display_replacement": "acquiring",
       "similarity": 1.0
     }
   ]
