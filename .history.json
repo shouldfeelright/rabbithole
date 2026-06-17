@@ -126,7 +126,8 @@
     ],
     "say": [
       "articulate",
-      "suppose"
+      "suppose",
+      "state"
     ],
     "time": [
       "sentence"
@@ -3229,6 +3230,14 @@
       "replacement_word": "soda",
       "display_replacement": "soda",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-06-17T05:49:57.040695Z",
+      "index": 547,
+      "original_word": "say",
+      "replacement_word": "state",
+      "display_replacement": "state",
+      "similarity": 1.0
     }
   ]
 }
