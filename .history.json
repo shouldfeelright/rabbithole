@@ -779,6 +779,9 @@
     ],
     "minute": [
       "bit"
+    ],
+    "tonic": [
+      "soda"
     ]
   },
   "changes": [
@@ -3218,6 +3221,14 @@
       "replacement_word": "bit",
       "display_replacement": "bit",
       "similarity": 0.5455
+    },
+    {
+      "timestamp": "2026-06-17T05:49:51.284634Z",
+      "index": 279,
+      "original_word": "tonic",
+      "replacement_word": "soda",
+      "display_replacement": "soda",
+      "similarity": 0.4
     }
   ]
 }
