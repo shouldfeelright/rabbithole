@@ -787,6 +787,9 @@
     ],
     "getting": [
       "acquire"
+    ],
+    "menage": [
+      "household"
     ]
   },
   "changes": [
@@ -3258,6 +3261,14 @@
       "replacement_word": "accept",
       "display_replacement": "accepted",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-06-18T05:46:42.247144Z",
+      "index": 561,
+      "original_word": "menage",
+      "replacement_word": "household",
+      "display_replacement": "household",
+      "similarity": 1.0
     }
   ]
 }
