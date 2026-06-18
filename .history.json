@@ -146,7 +146,8 @@
       "give",
       "suffer",
       "bear",
-      "feature"
+      "feature",
+      "accept"
     ],
     "indeed": [
       "so"
@@ -3249,6 +3250,14 @@
       "replacement_word": "acquire",
       "display_replacement": "acquiring",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-06-18T05:46:36.473879Z",
+      "index": 1602,
+      "original_word": "had",
+      "replacement_word": "accept",
+      "display_replacement": "accepted",
+      "similarity": 0.3333
     }
   ]
 }
