@@ -790,6 +790,9 @@
     ],
     "menage": [
       "household"
+    ],
+    "auricle": [
+      "ear"
     ]
   },
   "changes": [
@@ -3269,6 +3272,14 @@
       "replacement_word": "household",
       "display_replacement": "household",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-06-19T05:53:10.254753Z",
+      "index": 2268,
+      "original_word": "auricle",
+      "replacement_word": "ear",
+      "display_replacement": "ear",
+      "similarity": 0.5556
     }
   ]
 }
