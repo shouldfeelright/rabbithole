@@ -793,6 +793,9 @@
     ],
     "auricle": [
       "ear"
+    ],
+    "jaded": [
+      "tire"
     ]
   },
   "changes": [
@@ -3280,6 +3283,14 @@
       "replacement_word": "ear",
       "display_replacement": "ear",
       "similarity": 0.5556
+    },
+    {
+      "timestamp": "2026-06-20T05:38:48.110405Z",
+      "index": 6,
+      "original_word": "jaded",
+      "replacement_word": "tire",
+      "display_replacement": "tired",
+      "similarity": 1.0
     }
   ]
 }
