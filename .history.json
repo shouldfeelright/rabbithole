@@ -147,7 +147,8 @@
       "suffer",
       "bear",
       "feature",
-      "accept"
+      "accept",
+      "get"
     ],
     "indeed": [
       "so"
@@ -3291,6 +3292,14 @@
       "replacement_word": "tire",
       "display_replacement": "tired",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-06-21T05:46:52.584685Z",
+      "index": 717,
+      "original_word": "had",
+      "replacement_word": "get",
+      "display_replacement": "got",
+      "similarity": 0.5
     }
   ]
 }
