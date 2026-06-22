@@ -797,6 +797,9 @@
     ],
     "jaded": [
       "tire"
+    ],
+    "striking": [
+      "shine"
     ]
   },
   "changes": [
@@ -3300,6 +3303,14 @@
       "replacement_word": "get",
       "display_replacement": "got",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-06-22T06:00:47.964164Z",
+      "index": 878,
+      "original_word": "striking",
+      "replacement_word": "shine",
+      "display_replacement": "shining",
+      "similarity": 0.3333
     }
   ]
 }
