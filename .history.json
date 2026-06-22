@@ -804,6 +804,9 @@
     ],
     "friend": [
       "booster"
+    ],
+    "came": [
+      "descend"
     ]
   },
   "changes": [
@@ -3331,6 +3334,14 @@
       "replacement_word": "booster",
       "display_replacement": "booster",
       "similarity": 0.7059
+    },
+    {
+      "timestamp": "2026-06-22T06:01:04.796229Z",
+      "index": 1129,
+      "original_word": "came",
+      "replacement_word": "descend",
+      "display_replacement": "descended",
+      "similarity": 0.3333
     }
   ]
 }
