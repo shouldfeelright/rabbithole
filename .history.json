@@ -801,6 +801,9 @@
     ],
     "striking": [
       "shine"
+    ],
+    "friend": [
+      "booster"
     ]
   },
   "changes": [
@@ -3320,6 +3323,14 @@
       "replacement_word": "piddling",
       "display_replacement": "piddling",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-06-22T06:00:59.198746Z",
+      "index": 1796,
+      "original_word": "friend",
+      "replacement_word": "booster",
+      "display_replacement": "booster",
+      "similarity": 0.7059
     }
   ]
 }
