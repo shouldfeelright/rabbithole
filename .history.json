@@ -50,7 +50,8 @@
       "fiddling",
       "minuscule",
       "trivial",
-      "footling"
+      "footling",
+      "piddling"
     ],
     "tried": [
       "examine",
@@ -3311,6 +3312,14 @@
       "replacement_word": "shine",
       "display_replacement": "shining",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-06-22T06:00:53.602095Z",
+      "index": 871,
+      "original_word": "little",
+      "replacement_word": "piddling",
+      "display_replacement": "piddling",
+      "similarity": 0.5
     }
   ]
 }
