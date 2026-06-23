@@ -180,7 +180,8 @@
       "aureate"
     ],
     "rather": [
-      "preferably"
+      "preferably",
+      "instead"
     ],
     "cats": [
       "CAT",
@@ -3342,6 +3343,14 @@
       "replacement_word": "descend",
       "display_replacement": "descended",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-06-23T05:30:27.028490Z",
+      "index": 2213,
+      "original_word": "rather",
+      "replacement_word": "instead",
+      "display_replacement": "instead",
+      "similarity": 0.5
     }
   ]
 }
