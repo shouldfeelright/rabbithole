@@ -464,7 +464,8 @@
       "sizing"
     ],
     "generally": [
-      "broadly"
+      "broadly",
+      "mostly"
     ],
     "cake": [
       "bar"
@@ -3360,6 +3361,14 @@
       "replacement_word": "suffice",
       "display_replacement": "sufficed",
       "similarity": 0.25
+    },
+    {
+      "timestamp": "2026-06-23T05:30:37.798026Z",
+      "index": 2228,
+      "original_word": "generally",
+      "replacement_word": "mostly",
+      "display_replacement": "mostly",
+      "similarity": 0.5
     }
   ]
 }
