@@ -214,7 +214,8 @@
     ],
     "did": [
       "behave",
-      "perform"
+      "perform",
+      "suffice"
     ],
     "half": [
       "one-half"
@@ -3351,6 +3352,14 @@
       "replacement_word": "instead",
       "display_replacement": "instead",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-06-23T05:30:32.434797Z",
+      "index": 797,
+      "original_word": "did",
+      "replacement_word": "suffice",
+      "display_replacement": "sufficed",
+      "similarity": 0.25
     }
   ]
 }
