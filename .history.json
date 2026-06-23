@@ -499,7 +499,8 @@
     ],
     "looked": [
       "appear",
-      "depend"
+      "depend",
+      "seem"
     ],
     "larger": [
       "gravid"
@@ -3369,6 +3370,14 @@
       "replacement_word": "mostly",
       "display_replacement": "mostly",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-06-23T05:30:43.162957Z",
+      "index": 1165,
+      "original_word": "looked",
+      "replacement_word": "seem",
+      "display_replacement": "seemed",
+      "similarity": 0.4
     }
   ]
 }
