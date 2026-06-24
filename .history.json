@@ -210,7 +210,8 @@
     "do": [
       "behave",
       "practise",
-      "coiffure"
+      "coiffure",
+      "dress"
     ],
     "did": [
       "behave",
@@ -3377,6 +3378,14 @@
       "original_word": "looked",
       "replacement_word": "seem",
       "display_replacement": "seemed",
+      "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-06-24T05:28:36.083652Z",
+      "index": 1730,
+      "original_word": "do",
+      "replacement_word": "dress",
+      "display_replacement": "dress",
       "similarity": 0.4
     }
   ]
