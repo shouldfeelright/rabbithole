@@ -816,6 +816,9 @@
     ],
     "cool": [
       "sang-froid"
+    ],
+    "attractively": [
+      "beautifully"
     ]
   },
   "changes": [
@@ -3407,6 +3410,14 @@
       "replacement_word": "therefore",
       "display_replacement": "therefore",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-06-24T05:28:50.924894Z",
+      "index": 1702,
+      "original_word": "attractively",
+      "replacement_word": "beautifully",
+      "display_replacement": "beautifully",
+      "similarity": 1.0
     }
   ]
 }
