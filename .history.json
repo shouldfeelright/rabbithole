@@ -474,7 +474,8 @@
     "so": [
       "thusly",
       "hence",
-      "thence"
+      "thence",
+      "therefore"
     ],
     "hot": [
       "raging",
@@ -3398,6 +3399,14 @@
       "replacement_word": "sang-froid",
       "display_replacement": "sang-froid",
       "similarity": 0.375
+    },
+    {
+      "timestamp": "2026-06-24T05:28:45.954454Z",
+      "index": 329,
+      "original_word": "so",
+      "replacement_word": "therefore",
+      "display_replacement": "therefore",
+      "similarity": 0.5
     }
   ]
 }
