@@ -812,6 +812,9 @@
     ],
     "came": [
       "descend"
+    ],
+    "cool": [
+      "sang-froid"
     ]
   },
   "changes": [
@@ -3387,6 +3390,14 @@
       "replacement_word": "dress",
       "display_replacement": "dress",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-06-24T05:28:41.104559Z",
+      "index": 1520,
+      "original_word": "cool",
+      "replacement_word": "sang-froid",
+      "display_replacement": "sang-froid",
+      "similarity": 0.375
     }
   ]
 }
