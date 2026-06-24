@@ -819,6 +819,9 @@
     ],
     "attractively": [
       "beautifully"
+    ],
+    "doors": [
+      "door"
     ]
   },
   "changes": [
@@ -3417,6 +3420,14 @@
       "original_word": "attractively",
       "replacement_word": "beautifully",
       "display_replacement": "beautifully",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-06-24T05:28:55.820743Z",
+      "index": 1287,
+      "original_word": "doors",
+      "replacement_word": "door",
+      "display_replacement": "door",
       "similarity": 1.0
     }
   ]
