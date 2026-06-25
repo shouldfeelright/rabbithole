@@ -826,6 +826,9 @@
     ],
     "deep": [
       "trench"
+    ],
+    "sustaining": [
+      "sustain"
     ]
   },
   "changes": [
@@ -3449,6 +3452,14 @@
       "replacement_word": "mind",
       "display_replacement": "minding",
       "similarity": 0.2222
+    },
+    {
+      "timestamp": "2026-06-25T05:30:45.486219Z",
+      "index": 2454,
+      "original_word": "sustaining",
+      "replacement_word": "sustain",
+      "display_replacement": "sustaining",
+      "similarity": 1.0
     }
   ]
 }
