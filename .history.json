@@ -822,6 +822,9 @@
     ],
     "doors": [
       "door"
+    ],
+    "deep": [
+      "trench"
     ]
   },
   "changes": [
@@ -3429,6 +3432,14 @@
       "replacement_word": "door",
       "display_replacement": "door",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-06-25T05:30:34.694720Z",
+      "index": 358,
+      "original_word": "deep",
+      "replacement_word": "trench",
+      "display_replacement": "trench",
+      "similarity": 0.1429
     }
   ]
 }
