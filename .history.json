@@ -710,7 +710,8 @@
       "scream"
     ],
     "listening": [
-      "listen"
+      "listen",
+      "mind"
     ],
     "fitted": [
       "fit"
@@ -3440,6 +3441,14 @@
       "replacement_word": "trench",
       "display_replacement": "trench",
       "similarity": 0.1429
+    },
+    {
+      "timestamp": "2026-06-25T05:30:40.167505Z",
+      "index": 790,
+      "original_word": "listening",
+      "replacement_word": "mind",
+      "display_replacement": "minding",
+      "similarity": 0.2222
     }
   ]
 }
