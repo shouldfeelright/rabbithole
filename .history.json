@@ -829,6 +829,9 @@
     ],
     "sustaining": [
       "sustain"
+    ],
+    "pace": [
+      "footstep"
     ]
   },
   "changes": [
@@ -3460,6 +3463,14 @@
       "replacement_word": "sustain",
       "display_replacement": "sustaining",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-06-25T05:30:50.984122Z",
+      "index": 1402,
+      "original_word": "pace",
+      "replacement_word": "footstep",
+      "display_replacement": "footstep",
+      "similarity": 0.3077
     }
   ]
 }
