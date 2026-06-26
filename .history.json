@@ -836,6 +836,9 @@
     ],
     "paper": [
       "theme"
+    ],
+    "head": [
+      "principal"
     ]
   },
   "changes": [
@@ -3491,6 +3494,14 @@
       "replacement_word": "intellection",
       "display_replacement": "intellection",
       "similarity": 0.6154
+    },
+    {
+      "timestamp": "2026-06-26T05:35:43.825859Z",
+      "index": 1530,
+      "original_word": "head",
+      "replacement_word": "principal",
+      "display_replacement": "principal",
+      "similarity": 0.1429
     }
   ]
 }
