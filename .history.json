@@ -168,7 +168,8 @@
       "obtain"
     ],
     "thought": [
-      "thinking"
+      "thinking",
+      "intellection"
     ],
     "winder": [
       "key"
@@ -3482,6 +3483,14 @@
       "replacement_word": "theme",
       "display_replacement": "theme",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-06-26T05:35:38.678364Z",
+      "index": 171,
+      "original_word": "thought",
+      "replacement_word": "intellection",
+      "display_replacement": "intellection",
+      "similarity": 0.6154
     }
   ]
 }
