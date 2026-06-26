@@ -839,6 +839,9 @@
     ],
     "head": [
       "principal"
+    ],
+    "rung": [
+      "round"
     ]
   },
   "changes": [
@@ -3502,6 +3505,14 @@
       "replacement_word": "principal",
       "display_replacement": "principal",
       "similarity": 0.1429
+    },
+    {
+      "timestamp": "2026-06-26T05:35:48.977790Z",
+      "index": 1289,
+      "original_word": "rung",
+      "replacement_word": "round",
+      "display_replacement": "round",
+      "similarity": 0.6
     }
   ]
 }
