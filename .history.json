@@ -852,6 +852,9 @@
     ],
     "opened": [
       "open"
+    ],
+    "respectable": [
+      "sizable"
     ]
   },
   "changes": [
@@ -3555,6 +3558,14 @@
       "replacement_word": "open",
       "display_replacement": "opened",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-06-27T05:26:13.034406Z",
+      "index": 2329,
+      "original_word": "respectable",
+      "replacement_word": "sizable",
+      "display_replacement": "sizable",
+      "similarity": 0.5
     }
   ]
 }
