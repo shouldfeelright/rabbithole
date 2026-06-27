@@ -855,6 +855,9 @@
     ],
     "respectable": [
       "sizable"
+    ],
+    "shelves": [
+      "shelf"
     ]
   },
   "changes": [
@@ -3566,6 +3569,14 @@
       "replacement_word": "sizable",
       "display_replacement": "sizable",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-06-27T05:26:18.454719Z",
+      "index": 457,
+      "original_word": "shelves",
+      "replacement_word": "shelf",
+      "display_replacement": "shelf",
+      "similarity": 1.0
     }
   ]
 }
