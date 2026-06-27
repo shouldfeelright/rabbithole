@@ -849,6 +849,9 @@
     ],
     "started": [
       "go"
+    ],
+    "opened": [
+      "open"
     ]
   },
   "changes": [
@@ -3544,6 +3547,14 @@
       "replacement_word": "go",
       "display_replacement": "gone",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-06-27T05:26:07.655563Z",
+      "index": 1462,
+      "original_word": "opened",
+      "replacement_word": "open",
+      "display_replacement": "opened",
+      "similarity": 1.0
     }
   ]
 }
