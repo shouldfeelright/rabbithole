@@ -846,6 +846,9 @@
     ],
     "wonder": [
       "curiosity"
+    ],
+    "started": [
+      "go"
     ]
   },
   "changes": [
@@ -3532,6 +3535,14 @@
       "original_word": "high",
       "replacement_word": "eminent",
       "display_replacement": "eminent",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-06-27T05:26:02.135745Z",
+      "index": 915,
+      "original_word": "started",
+      "replacement_word": "go",
+      "display_replacement": "gone",
       "similarity": 0.5
     }
   ]
