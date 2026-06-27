@@ -760,7 +760,8 @@
       "contour"
     ],
     "high": [
-      "gamey"
+      "gamey",
+      "eminent"
     ],
     "neck": [
       "cervix"
@@ -3524,6 +3525,14 @@
       "replacement_word": "curiosity",
       "display_replacement": "curiosity",
       "similarity": 0.5333
+    },
+    {
+      "timestamp": "2026-06-27T05:25:56.645573Z",
+      "index": 1441,
+      "original_word": "high",
+      "replacement_word": "eminent",
+      "display_replacement": "eminent",
+      "similarity": 0.5
     }
   ]
 }
