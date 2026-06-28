@@ -858,6 +858,9 @@
     ],
     "shelves": [
       "shelf"
+    ],
+    "alleged": [
+      "aver"
     ]
   },
   "changes": [
@@ -3576,6 +3579,14 @@
       "original_word": "shelves",
       "replacement_word": "shelf",
       "display_replacement": "shelf",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-06-28T05:39:06.520337Z",
+      "index": 1932,
+      "original_word": "alleged",
+      "replacement_word": "aver",
+      "display_replacement": "averred",
       "similarity": 1.0
     }
   ]
