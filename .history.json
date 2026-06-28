@@ -861,6 +861,9 @@
     ],
     "alleged": [
       "aver"
+    ],
+    "opportunity": [
+      "chance"
     ]
   },
   "changes": [
@@ -3587,6 +3590,14 @@
       "original_word": "alleged",
       "replacement_word": "aver",
       "display_replacement": "averred",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-06-28T05:39:11.857913Z",
+      "index": 663,
+      "original_word": "opportunity",
+      "replacement_word": "chance",
+      "display_replacement": "chance",
       "similarity": 1.0
     }
   ]
