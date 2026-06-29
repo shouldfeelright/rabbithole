@@ -128,7 +128,8 @@
     "say": [
       "articulate",
       "suppose",
-      "state"
+      "state",
+      "enunciate"
     ],
     "time": [
       "sentence"
@@ -3610,6 +3611,14 @@
       "replacement_word": "bantam",
       "display_replacement": "bantam",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-06-29T05:45:29.082033Z",
+      "index": 151,
+      "original_word": "say",
+      "replacement_word": "enunciate",
+      "display_replacement": "enunciate",
+      "similarity": 0.4
     }
   ]
 }
