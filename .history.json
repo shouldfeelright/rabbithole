@@ -864,6 +864,9 @@
     ],
     "opportunity": [
       "chance"
+    ],
+    "tiny": [
+      "bantam"
     ]
   },
   "changes": [
@@ -3598,6 +3601,14 @@
       "original_word": "opportunity",
       "replacement_word": "chance",
       "display_replacement": "chance",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-06-29T05:45:23.783070Z",
+      "index": 1358,
+      "original_word": "tiny",
+      "replacement_word": "bantam",
+      "display_replacement": "bantam",
       "similarity": 1.0
     }
   ]
