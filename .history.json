@@ -868,6 +868,9 @@
     ],
     "tiny": [
       "bantam"
+    ],
+    "grumbled": [
+      "growl"
     ]
   },
   "changes": [
@@ -3619,6 +3622,14 @@
       "replacement_word": "enunciate",
       "display_replacement": "enunciate",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-06-30T05:32:28.816998Z",
+      "index": 2247,
+      "original_word": "grumbled",
+      "replacement_word": "growl",
+      "display_replacement": "growled",
+      "similarity": 0.3333
     }
   ]
 }
