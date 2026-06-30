@@ -536,7 +536,8 @@
       "malarkey"
     ],
     "were": [
-      "cost"
+      "cost",
+      "live"
     ],
     "discovered": [
       "strike"
@@ -3630,6 +3631,14 @@
       "replacement_word": "growl",
       "display_replacement": "growled",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-06-30T05:32:34.074868Z",
+      "index": 959,
+      "original_word": "were",
+      "replacement_word": "live",
+      "display_replacement": "lived",
+      "similarity": 0.4
     }
   ]
 }
