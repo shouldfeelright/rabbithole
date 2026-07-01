@@ -42,7 +42,8 @@
     ],
     "moment": [
       "minute",
-      "bit"
+      "bit",
+      "second"
     ],
     "little": [
       "petty",
@@ -3639,6 +3640,14 @@
       "replacement_word": "live",
       "display_replacement": "lived",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-07-01T05:42:35.598667Z",
+      "index": 1162,
+      "original_word": "moment",
+      "replacement_word": "second",
+      "display_replacement": "second",
+      "similarity": 0.6
     }
   ]
 }
