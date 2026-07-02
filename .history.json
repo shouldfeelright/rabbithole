@@ -879,6 +879,9 @@
     ],
     "uneasily": [
       "anxiously"
+    ],
+    "screamed": [
+      "call"
     ]
   },
   "changes": [
@@ -3670,6 +3673,14 @@
       "replacement_word": "anxiously",
       "display_replacement": "anxiously",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-07-02T05:26:20.617048Z",
+      "index": 2194,
+      "original_word": "screamed",
+      "replacement_word": "call",
+      "display_replacement": "called",
+      "similarity": 0.2857
     }
   ]
 }
