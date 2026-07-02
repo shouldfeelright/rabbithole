@@ -873,6 +873,9 @@
     ],
     "grumbled": [
       "growl"
+    ],
+    "chiropteran": [
+      "bat"
     ]
   },
   "changes": [
@@ -3648,6 +3651,14 @@
       "replacement_word": "second",
       "display_replacement": "second",
       "similarity": 0.6
+    },
+    {
+      "timestamp": "2026-07-02T05:26:10.280803Z",
+      "index": 982,
+      "original_word": "chiropteran",
+      "replacement_word": "bat",
+      "display_replacement": "bat",
+      "similarity": 1.0
     }
   ]
 }
