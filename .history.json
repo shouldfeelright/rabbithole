@@ -876,6 +876,9 @@
     ],
     "chiropteran": [
       "bat"
+    ],
+    "uneasily": [
+      "anxiously"
     ]
   },
   "changes": [
@@ -3658,6 +3661,14 @@
       "original_word": "chiropteran",
       "replacement_word": "bat",
       "display_replacement": "bat",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-07-02T05:26:15.488120Z",
+      "index": 2442,
+      "original_word": "uneasily",
+      "replacement_word": "anxiously",
+      "display_replacement": "anxiously",
       "similarity": 1.0
     }
   ]
