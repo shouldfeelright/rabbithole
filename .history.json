@@ -888,6 +888,9 @@
     ],
     "remarkable": [
       "singular"
+    ],
+    "take": [
+      "convey"
     ]
   },
   "changes": [
@@ -3703,6 +3706,14 @@
       "replacement_word": "singular",
       "display_replacement": "singular",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-07-03T05:23:45.824456Z",
+      "index": 252,
+      "original_word": "take",
+      "replacement_word": "convey",
+      "display_replacement": "convey",
+      "similarity": 0.1818
     }
   ]
 }
