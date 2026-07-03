@@ -885,6 +885,9 @@
     ],
     "loveliest": [
       "lovely"
+    ],
+    "remarkable": [
+      "singular"
     ]
   },
   "changes": [
@@ -3691,6 +3694,14 @@
       "original_word": "loveliest",
       "replacement_word": "lovely",
       "display_replacement": "lovely",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-07-03T05:23:40.681516Z",
+      "index": 131,
+      "original_word": "remarkable",
+      "replacement_word": "singular",
+      "display_replacement": "singular",
       "similarity": 1.0
     }
   ]
