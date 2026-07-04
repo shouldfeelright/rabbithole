@@ -205,7 +205,8 @@
       "comfortably",
       "easily",
       "good",
-      "intimately"
+      "intimately",
+      "substantially"
     ],
     "written": [
       "save"
@@ -3722,6 +3723,14 @@
       "original_word": "once",
       "replacement_word": "formerly",
       "display_replacement": "formerly",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-07-04T05:22:22.812915Z",
+      "index": 423,
+      "original_word": "well",
+      "replacement_word": "substantially",
+      "display_replacement": "substantially",
       "similarity": 0.5
     }
   ]
