@@ -649,7 +649,8 @@
       "speed"
     ],
     "once": [
-      "erstwhile"
+      "erstwhile",
+      "formerly"
     ],
     "watch": [
       "sentry"
@@ -3714,6 +3715,14 @@
       "replacement_word": "convey",
       "display_replacement": "convey",
       "similarity": 0.1818
+    },
+    {
+      "timestamp": "2026-07-04T05:22:17.743508Z",
+      "index": 298,
+      "original_word": "once",
+      "replacement_word": "formerly",
+      "display_replacement": "formerly",
+      "similarity": 0.5
     }
   ]
 }
