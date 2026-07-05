@@ -896,6 +896,9 @@
     ],
     "name": [
       "gens"
+    ],
+    "trouble": [
+      "worry"
     ]
   },
   "changes": [
@@ -3743,6 +3746,14 @@
       "replacement_word": "gens",
       "display_replacement": "gens",
       "similarity": 0.2667
+    },
+    {
+      "timestamp": "2026-07-05T05:25:29.751769Z",
+      "index": 104,
+      "original_word": "trouble",
+      "replacement_word": "worry",
+      "display_replacement": "worry",
+      "similarity": 0.5333
     }
   ]
 }
