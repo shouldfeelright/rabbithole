@@ -52,7 +52,8 @@
       "minuscule",
       "trivial",
       "footling",
-      "piddling"
+      "piddling",
+      "short"
     ],
     "tried": [
       "examine",
@@ -3765,6 +3766,14 @@
       "replacement_word": "miscellaneous",
       "display_replacement": "miscellaneous",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-07-06T05:34:10.221873Z",
+      "index": 1341,
+      "original_word": "little",
+      "replacement_word": "short",
+      "display_replacement": "short",
+      "similarity": 0.5
     }
   ]
 }
