@@ -899,6 +899,9 @@
     ],
     "trouble": [
       "worry"
+    ],
+    "mixed": [
+      "miscellaneous"
     ]
   },
   "changes": [
@@ -3754,6 +3757,14 @@
       "replacement_word": "worry",
       "display_replacement": "worry",
       "similarity": 0.5333
+    },
+    {
+      "timestamp": "2026-07-06T05:34:04.807822Z",
+      "index": 1899,
+      "original_word": "mixed",
+      "replacement_word": "miscellaneous",
+      "display_replacement": "miscellaneous",
+      "similarity": 1.0
     }
   ]
 }
