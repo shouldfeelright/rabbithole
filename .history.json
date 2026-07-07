@@ -906,6 +906,9 @@
     ],
     "state": [
       "commonwealth"
+    ],
+    "board": [
+      "card"
     ]
   },
   "changes": [
@@ -3785,6 +3788,14 @@
       "replacement_word": "commonwealth",
       "display_replacement": "commonwealth",
       "similarity": 0.9412
+    },
+    {
+      "timestamp": "2026-07-07T05:26:22.917061Z",
+      "index": 2169,
+      "original_word": "board",
+      "replacement_word": "card",
+      "display_replacement": "card",
+      "similarity": 0.2353
     }
   ]
 }
