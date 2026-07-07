@@ -903,6 +903,9 @@
     ],
     "mixed": [
       "miscellaneous"
+    ],
+    "state": [
+      "commonwealth"
     ]
   },
   "changes": [
@@ -3774,6 +3777,14 @@
       "replacement_word": "short",
       "display_replacement": "short",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-07-07T05:26:17.293996Z",
+      "index": 547,
+      "original_word": "state",
+      "replacement_word": "commonwealth",
+      "display_replacement": "commonwealth",
+      "similarity": 0.9412
     }
   ]
 }
