@@ -38,7 +38,8 @@
       "fashion",
       "manner",
       "style",
-      "room"
+      "room",
+      "mode"
     ],
     "moment": [
       "minute",
@@ -3796,6 +3797,14 @@
       "replacement_word": "card",
       "display_replacement": "card",
       "similarity": 0.2353
+    },
+    {
+      "timestamp": "2026-07-08T05:10:35.699872Z",
+      "index": 2450,
+      "original_word": "way",
+      "replacement_word": "mode",
+      "display_replacement": "mode",
+      "similarity": 1.0
     }
   ]
 }
