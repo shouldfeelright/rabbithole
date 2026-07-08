@@ -913,6 +913,9 @@
     ],
     "maps": [
       "map"
+    ],
+    "side": [
+      "slope"
     ]
   },
   "changes": [
@@ -3816,6 +3819,14 @@
       "replacement_word": "map",
       "display_replacement": "map",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-07-08T05:10:45.849172Z",
+      "index": 1309,
+      "original_word": "side",
+      "replacement_word": "slope",
+      "display_replacement": "slope",
+      "similarity": 0.5455
     }
   ]
 }
