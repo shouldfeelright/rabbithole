@@ -917,6 +917,9 @@
     ],
     "side": [
       "slope"
+    ],
+    "great": [
+      "swell"
     ]
   },
   "changes": [
@@ -3836,6 +3839,14 @@
       "replacement_word": "birth",
       "display_replacement": "birthed",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-07-08T05:10:55.985249Z",
+      "index": 1456,
+      "original_word": "great",
+      "replacement_word": "swell",
+      "display_replacement": "swell",
+      "similarity": 0.5
     }
   ]
 }
