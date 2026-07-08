@@ -153,7 +153,8 @@
       "bear",
       "feature",
       "accept",
-      "get"
+      "get",
+      "birth"
     ],
     "indeed": [
       "so"
@@ -3827,6 +3828,14 @@
       "replacement_word": "slope",
       "display_replacement": "slope",
       "similarity": 0.5455
+    },
+    {
+      "timestamp": "2026-07-08T05:10:50.966958Z",
+      "index": 1081,
+      "original_word": "had",
+      "replacement_word": "birth",
+      "display_replacement": "birthed",
+      "similarity": 0.3333
     }
   ]
 }
