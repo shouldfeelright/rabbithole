@@ -910,6 +910,9 @@
     ],
     "board": [
       "card"
+    ],
+    "maps": [
+      "map"
     ]
   },
   "changes": [
@@ -3804,6 +3807,14 @@
       "original_word": "way",
       "replacement_word": "mode",
       "display_replacement": "mode",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-07-08T05:10:40.806159Z",
+      "index": 441,
+      "original_word": "maps",
+      "replacement_word": "map",
+      "display_replacement": "map",
       "similarity": 1.0
     }
   ]
