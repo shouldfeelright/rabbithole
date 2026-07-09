@@ -509,7 +509,8 @@
     "looked": [
       "appear",
       "depend",
-      "seem"
+      "seem",
+      "see"
     ],
     "larger": [
       "gravid"
@@ -3847,6 +3848,14 @@
       "replacement_word": "swell",
       "display_replacement": "swell",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-07-09T05:25:56.455410Z",
+      "index": 1486,
+      "original_word": "looked",
+      "replacement_word": "see",
+      "display_replacement": "saw",
+      "similarity": 0.4
     }
   ]
 }
