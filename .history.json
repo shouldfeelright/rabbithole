@@ -54,7 +54,8 @@
       "trivial",
       "footling",
       "piddling",
-      "short"
+      "short",
+      "small"
     ],
     "tried": [
       "examine",
@@ -3867,6 +3868,14 @@
       "replacement_word": "personify",
       "display_replacement": "personified",
       "similarity": 0.1333
+    },
+    {
+      "timestamp": "2026-07-10T05:26:17.765482Z",
+      "index": 2437,
+      "original_word": "little",
+      "replacement_word": "small",
+      "display_replacement": "small",
+      "similarity": 1.0
     }
   ]
 }
