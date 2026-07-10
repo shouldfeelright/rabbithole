@@ -921,6 +921,9 @@
     ],
     "great": [
       "swell"
+    ],
+    "embodied": [
+      "personify"
     ]
   },
   "changes": [
@@ -3856,6 +3859,14 @@
       "replacement_word": "see",
       "display_replacement": "saw",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-07-10T05:26:12.455266Z",
+      "index": 1142,
+      "original_word": "embodied",
+      "replacement_word": "personify",
+      "display_replacement": "personified",
+      "similarity": 0.1333
     }
   ]
 }
