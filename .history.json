@@ -420,7 +420,8 @@
       "venture"
     ],
     "hand": [
-      "paw"
+      "paw",
+      "manus"
     ],
     "noticed": [
       "discover"
@@ -3875,6 +3876,14 @@
       "original_word": "little",
       "replacement_word": "small",
       "display_replacement": "small",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-07-11T05:08:18.464931Z",
+      "index": 2456,
+      "original_word": "hand",
+      "replacement_word": "manus",
+      "display_replacement": "manus",
       "similarity": 1.0
     }
   ]
