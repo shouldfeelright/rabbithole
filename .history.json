@@ -171,7 +171,8 @@
     ],
     "get": [
       "acquire",
-      "obtain"
+      "obtain",
+      "produce"
     ],
     "thought": [
       "thinking",
@@ -3894,6 +3895,14 @@
       "replacement_word": "excessively",
       "display_replacement": "excessively",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-07-11T05:08:29.715155Z",
+      "index": 307,
+      "original_word": "get",
+      "replacement_word": "produce",
+      "display_replacement": "produce",
+      "similarity": 0.4
     }
   ]
 }
