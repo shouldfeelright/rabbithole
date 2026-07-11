@@ -928,6 +928,9 @@
     ],
     "embodied": [
       "personify"
+    ],
+    "shelf": [
+      "ledge"
     ]
   },
   "changes": [
@@ -3903,6 +3906,14 @@
       "replacement_word": "produce",
       "display_replacement": "produce",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-07-11T05:08:35.359137Z",
+      "index": 457,
+      "original_word": "shelf",
+      "replacement_word": "ledge",
+      "display_replacement": "ledge",
+      "similarity": 0.375
     }
   ]
 }
