@@ -245,7 +245,8 @@
     "too": [
       "overly",
       "likewise",
-      "besides"
+      "besides",
+      "excessively"
     ],
     "finding": [
       "encounter"
@@ -3884,6 +3885,14 @@
       "original_word": "hand",
       "replacement_word": "manus",
       "display_replacement": "manus",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-07-11T05:08:24.179703Z",
+      "index": 1396,
+      "original_word": "too",
+      "replacement_word": "excessively",
+      "display_replacement": "excessively",
       "similarity": 1.0
     }
   ]
