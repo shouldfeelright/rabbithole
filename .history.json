@@ -294,7 +294,8 @@
       "formula"
     ],
     "late": [
-      "tardily"
+      "tardily",
+      "belatedly"
     ],
     "door": [
       "threshold",
@@ -3914,6 +3915,14 @@
       "replacement_word": "ledge",
       "display_replacement": "ledge",
       "similarity": 0.375
+    },
+    {
+      "timestamp": "2026-07-12T05:10:25.245295Z",
+      "index": 1234,
+      "original_word": "late",
+      "replacement_word": "belatedly",
+      "display_replacement": "belatedly",
+      "similarity": 1.0
     }
   ]
 }
