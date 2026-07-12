@@ -932,6 +932,9 @@
     ],
     "shelf": [
       "ledge"
+    ],
+    "flavour": [
+      "flavor"
     ]
   },
   "changes": [
@@ -3922,6 +3925,14 @@
       "original_word": "late",
       "replacement_word": "belatedly",
       "display_replacement": "belatedly",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-07-12T05:10:30.625026Z",
+      "index": 1900,
+      "original_word": "flavour",
+      "replacement_word": "flavor",
+      "display_replacement": "flavor",
       "similarity": 1.0
     }
   ]
