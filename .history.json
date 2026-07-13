@@ -935,6 +935,9 @@
     ],
     "flavour": [
       "flavor"
+    ],
+    "happened": [
+      "materialise"
     ]
   },
   "changes": [
@@ -3934,6 +3937,14 @@
       "replacement_word": "flavor",
       "display_replacement": "flavor",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-07-13T05:16:23.462112Z",
+      "index": 1597,
+      "original_word": "happened",
+      "replacement_word": "materialise",
+      "display_replacement": "materialised",
+      "similarity": 0.6667
     }
   ]
 }
