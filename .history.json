@@ -453,7 +453,8 @@
     "be": [
       "comprise",
       "exist",
-      "equal"
+      "equal",
+      "constitute"
     ],
     "pleasure": [
       "joy"
@@ -3945,6 +3946,14 @@
       "replacement_word": "materialise",
       "display_replacement": "materialised",
       "similarity": 0.6667
+    },
+    {
+      "timestamp": "2026-07-14T05:06:02.644255Z",
+      "index": 624,
+      "original_word": "be",
+      "replacement_word": "constitute",
+      "display_replacement": "constitute",
+      "similarity": 0.5
     }
   ]
 }
