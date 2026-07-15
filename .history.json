@@ -133,7 +133,8 @@
       "articulate",
       "suppose",
       "state",
-      "enunciate"
+      "enunciate",
+      "enounce"
     ],
     "time": [
       "sentence"
@@ -3965,6 +3966,14 @@
       "replacement_word": "figure",
       "display_replacement": "figured",
       "similarity": 0.2857
+    },
+    {
+      "timestamp": "2026-07-15T05:06:14.166116Z",
+      "index": 1716,
+      "original_word": "say",
+      "replacement_word": "enounce",
+      "display_replacement": "enounce",
+      "similarity": 0.4
     }
   ]
 }
