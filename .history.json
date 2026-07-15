@@ -939,6 +939,9 @@
     ],
     "happened": [
       "materialise"
+    ],
+    "seen": [
+      "figure"
     ]
   },
   "changes": [
@@ -3954,6 +3957,14 @@
       "replacement_word": "constitute",
       "display_replacement": "constitute",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-07-15T05:06:08.774029Z",
+      "index": 1259,
+      "original_word": "seen",
+      "replacement_word": "figure",
+      "display_replacement": "figured",
+      "similarity": 0.2857
     }
   ]
 }
