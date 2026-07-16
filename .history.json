@@ -355,7 +355,8 @@
       "cd"
     ],
     "labelled": [
-      "label"
+      "label",
+      "tag"
     ],
     "burning": [
       "combustion"
@@ -3974,6 +3975,14 @@
       "replacement_word": "enounce",
       "display_replacement": "enounce",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-07-16T05:08:10.948919Z",
+      "index": 464,
+      "original_word": "labelled",
+      "replacement_word": "tag",
+      "display_replacement": "tagged",
+      "similarity": 0.2857
     }
   ]
 }
