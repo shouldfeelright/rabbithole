@@ -945,6 +945,9 @@
     ],
     "seen": [
       "figure"
+    ],
+    "poker": [
+      "salamander"
     ]
   },
   "changes": [
@@ -3992,6 +3995,14 @@
       "replacement_word": "idea",
       "display_replacement": "idea",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-07-18T05:03:04.189559Z",
+      "index": 1807,
+      "original_word": "poker",
+      "replacement_word": "salamander",
+      "display_replacement": "salamander",
+      "similarity": 0.4
     }
   ]
 }
