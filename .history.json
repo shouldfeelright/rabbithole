@@ -792,7 +792,8 @@
       "undetermined"
     ],
     "soon": [
-      "presently"
+      "presently",
+      "shortly"
     ],
     "tweed": [
       "gabardine"
@@ -4012,6 +4013,14 @@
       "replacement_word": "expire",
       "display_replacement": "expire",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-07-19T05:09:34.788479Z",
+      "index": 2540,
+      "original_word": "soon",
+      "replacement_word": "shortly",
+      "display_replacement": "shortly",
+      "similarity": 0.5
     }
   ]
 }
