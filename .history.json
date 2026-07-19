@@ -436,7 +436,8 @@
       "analyse"
     ],
     "go": [
-      "function"
+      "function",
+      "expire"
     ],
     "glad": [
       "gladiola"
@@ -4003,6 +4004,14 @@
       "replacement_word": "salamander",
       "display_replacement": "salamander",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-07-19T05:09:29.311452Z",
+      "index": 2525,
+      "original_word": "go",
+      "replacement_word": "expire",
+      "display_replacement": "expire",
+      "similarity": 0.3333
     }
   ]
 }
