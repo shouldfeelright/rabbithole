@@ -950,6 +950,9 @@
     ],
     "poker": [
       "salamander"
+    ],
+    "day": [
+      "daytime"
     ]
   },
   "changes": [
@@ -4021,6 +4024,14 @@
       "replacement_word": "shortly",
       "display_replacement": "shortly",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-07-20T05:19:39.413481Z",
+      "index": 83,
+      "original_word": "day",
+      "replacement_word": "daytime",
+      "display_replacement": "daytime",
+      "similarity": 0.5455
     }
   ]
 }
