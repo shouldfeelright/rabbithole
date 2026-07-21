@@ -953,6 +953,9 @@
     ],
     "day": [
       "daytime"
+    ],
+    "figured": [
+      "figure"
     ]
   },
   "changes": [
@@ -4032,6 +4035,14 @@
       "replacement_word": "daytime",
       "display_replacement": "daytime",
       "similarity": 0.5455
+    },
+    {
+      "timestamp": "2026-07-21T05:10:23.808105Z",
+      "index": 1259,
+      "original_word": "figured",
+      "replacement_word": "figure",
+      "display_replacement": "figured",
+      "similarity": 1.0
     }
   ]
 }
