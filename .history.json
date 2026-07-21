@@ -956,6 +956,9 @@
     ],
     "figured": [
       "figure"
+    ],
+    "piddling": [
+      "piss"
     ]
   },
   "changes": [
@@ -4043,6 +4046,14 @@
       "replacement_word": "figure",
       "display_replacement": "figured",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-07-21T05:10:29.303385Z",
+      "index": 871,
+      "original_word": "piddling",
+      "replacement_word": "piss",
+      "display_replacement": "pissing",
+      "similarity": 0.2
     }
   ]
 }
