@@ -959,6 +959,9 @@
     ],
     "piddling": [
       "piss"
+    ],
+    "trivial": [
+      "piffling"
     ]
   },
   "changes": [
@@ -4054,6 +4057,14 @@
       "replacement_word": "piss",
       "display_replacement": "pissing",
       "similarity": 0.2
+    },
+    {
+      "timestamp": "2026-07-22T05:09:43.442369Z",
+      "index": 1436,
+      "original_word": "trivial",
+      "replacement_word": "piffling",
+      "display_replacement": "piffling",
+      "similarity": 1.0
     }
   ]
 }
