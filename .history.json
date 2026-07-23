@@ -586,7 +586,8 @@
       "verbalize"
     ],
     "rabbit": [
-      "lapin"
+      "lapin",
+      "cony"
     ],
     "its": [
       "IT"
@@ -4065,6 +4066,14 @@
       "replacement_word": "piffling",
       "display_replacement": "piffling",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-07-23T05:10:20.687734Z",
+      "index": 203,
+      "original_word": "Rabbit",
+      "replacement_word": "cony",
+      "display_replacement": "cony",
+      "similarity": 0.8462
     }
   ]
 }
