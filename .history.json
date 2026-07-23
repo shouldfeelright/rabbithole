@@ -963,6 +963,9 @@
     ],
     "trivial": [
       "piffling"
+    ],
+    "find": [
+      "incur"
     ]
   },
   "changes": [
@@ -4074,6 +4077,14 @@
       "replacement_word": "cony",
       "display_replacement": "cony",
       "similarity": 0.8462
+    },
+    {
+      "timestamp": "2026-07-23T05:10:26.012662Z",
+      "index": 1640,
+      "original_word": "find",
+      "replacement_word": "incur",
+      "display_replacement": "incur",
+      "similarity": 0.2857
     }
   ]
 }
