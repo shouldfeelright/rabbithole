@@ -969,6 +969,9 @@
     ],
     "top": [
       "acme"
+    ],
+    "good": [
+      "full"
     ]
   },
   "changes": [
@@ -4096,6 +4099,14 @@
       "replacement_word": "acme",
       "display_replacement": "acme",
       "similarity": 0.1667
+    },
+    {
+      "timestamp": "2026-07-25T05:09:13.073741Z",
+      "index": 662,
+      "original_word": "good",
+      "replacement_word": "full",
+      "display_replacement": "full",
+      "similarity": 0.5
     }
   ]
 }
