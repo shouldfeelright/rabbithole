@@ -972,6 +972,9 @@
     ],
     "good": [
       "full"
+    ],
+    "just": [
+      "hardly"
     ]
   },
   "changes": [
@@ -4106,6 +4109,14 @@
       "original_word": "good",
       "replacement_word": "full",
       "display_replacement": "full",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-07-26T05:13:24.445637Z",
+      "index": 1082,
+      "original_word": "just",
+      "replacement_word": "hardly",
+      "display_replacement": "hardly",
       "similarity": 0.5
     }
   ]
