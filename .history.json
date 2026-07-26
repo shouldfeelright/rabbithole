@@ -975,6 +975,9 @@
     ],
     "just": [
       "hardly"
+    ],
+    "manner": [
+      "mode"
     ]
   },
   "changes": [
@@ -4118,6 +4121,14 @@
       "replacement_word": "hardly",
       "display_replacement": "hardly",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-07-26T05:13:30.100974Z",
+      "index": 1026,
+      "original_word": "manner",
+      "replacement_word": "mode",
+      "display_replacement": "mode",
+      "similarity": 1.0
     }
   ]
 }
