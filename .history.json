@@ -982,6 +982,9 @@
     ],
     "pegs": [
       "pegleg"
+    ],
+    "behaved": [
+      "conduct"
     ]
   },
   "changes": [
@@ -4149,6 +4152,14 @@
       "replacement_word": "pegleg",
       "display_replacement": "pegleg",
       "similarity": 0.6667
+    },
+    {
+      "timestamp": "2026-07-27T05:23:51.896507Z",
+      "index": 136,
+      "original_word": "behaved",
+      "replacement_word": "conduct",
+      "display_replacement": "conducted",
+      "similarity": 0.3333
     }
   ]
 }
