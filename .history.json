@@ -156,7 +156,8 @@
       "feature",
       "accept",
       "get",
-      "birth"
+      "birth",
+      "receive"
     ],
     "indeed": [
       "so"
@@ -4129,6 +4130,14 @@
       "replacement_word": "mode",
       "display_replacement": "mode",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-07-27T05:23:40.400379Z",
+      "index": 1302,
+      "original_word": "had",
+      "replacement_word": "receive",
+      "display_replacement": "received",
+      "similarity": 0.4
     }
   ]
 }
