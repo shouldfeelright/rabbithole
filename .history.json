@@ -979,6 +979,9 @@
     ],
     "manner": [
       "mode"
+    ],
+    "pegs": [
+      "pegleg"
     ]
   },
   "changes": [
@@ -4138,6 +4141,14 @@
       "replacement_word": "receive",
       "display_replacement": "received",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-07-27T05:23:46.118181Z",
+      "index": 446,
+      "original_word": "pegs",
+      "replacement_word": "pegleg",
+      "display_replacement": "pegleg",
+      "similarity": 0.6667
     }
   ]
 }
