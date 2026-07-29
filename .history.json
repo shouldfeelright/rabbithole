@@ -14,7 +14,8 @@
     ],
     "sort": [
       "form",
-      "variety"
+      "variety",
+      "kind"
     ],
     "not": [
       "non"
@@ -4182,6 +4183,14 @@
       "replacement_word": "right",
       "display_replacement": "right",
       "similarity": 0.1176
+    },
+    {
+      "timestamp": "2026-07-29T05:10:14.483098Z",
+      "index": 1897,
+      "original_word": "sort",
+      "replacement_word": "kind",
+      "display_replacement": "kind",
+      "similarity": 1.0
     }
   ]
 }
