@@ -988,6 +988,9 @@
     ],
     "quite": [
       "rather"
+    ],
+    "rightfield": [
+      "right"
     ]
   },
   "changes": [
@@ -4171,6 +4174,14 @@
       "replacement_word": "rather",
       "display_replacement": "rather",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-07-29T05:10:08.799714Z",
+      "index": 751,
+      "original_word": "rightfield",
+      "replacement_word": "right",
+      "display_replacement": "right",
+      "similarity": 0.1176
     }
   ]
 }
