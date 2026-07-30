@@ -992,6 +992,9 @@
     ],
     "rightfield": [
       "right"
+    ],
+    "agency": [
+      "delegacy"
     ]
   },
   "changes": [
@@ -4191,6 +4194,14 @@
       "replacement_word": "kind",
       "display_replacement": "kind",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-07-30T05:07:57.968905Z",
+      "index": 2530,
+      "original_word": "agency",
+      "replacement_word": "delegacy",
+      "display_replacement": "delegacy",
+      "similarity": 0.3077
     }
   ]
 }
