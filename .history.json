@@ -85,7 +85,8 @@
     ],
     "poor": [
       "misfortunate",
-      "hapless"
+      "hapless",
+      "piteous"
     ],
     "other": [
       "early",
@@ -4202,6 +4203,14 @@
       "replacement_word": "delegacy",
       "display_replacement": "delegacy",
       "similarity": 0.3077
+    },
+    {
+      "timestamp": "2026-07-30T05:08:02.195224Z",
+      "index": 1546,
+      "original_word": "poor",
+      "replacement_word": "piteous",
+      "display_replacement": "piteous",
+      "similarity": 1.0
     }
   ]
 }
