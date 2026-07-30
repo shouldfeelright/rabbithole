@@ -996,6 +996,9 @@
     ],
     "agency": [
       "delegacy"
+    ],
+    "salamander": [
+      "poker"
     ]
   },
   "changes": [
@@ -4211,6 +4214,14 @@
       "replacement_word": "piteous",
       "display_replacement": "piteous",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-07-30T05:08:06.453525Z",
+      "index": 1807,
+      "original_word": "salamander",
+      "replacement_word": "poker",
+      "display_replacement": "poker",
+      "similarity": 0.4
     }
   ]
 }
