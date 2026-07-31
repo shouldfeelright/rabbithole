@@ -79,7 +79,8 @@
       "winder",
       "headstone",
       "cay",
-      "tonality"
+      "tonality",
+      "samara"
     ],
     "filled": [
       "fulfill"
@@ -4231,6 +4232,14 @@
       "replacement_word": "tonality",
       "display_replacement": "tonality",
       "similarity": 0.125
+    },
+    {
+      "timestamp": "2026-07-31T05:15:45.044672Z",
+      "index": 2398,
+      "original_word": "key",
+      "replacement_word": "samara",
+      "display_replacement": "samara",
+      "similarity": 0.4211
     }
   ]
 }
