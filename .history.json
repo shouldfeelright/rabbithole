@@ -1001,6 +1001,9 @@
     ],
     "salamander": [
       "poker"
+    ],
+    "compass": [
+      "orbit"
     ]
   },
   "changes": [
@@ -4240,6 +4243,14 @@
       "replacement_word": "samara",
       "display_replacement": "samara",
       "similarity": 0.4211
+    },
+    {
+      "timestamp": "2026-08-01T05:10:20.931221Z",
+      "index": 2142,
+      "original_word": "compass",
+      "replacement_word": "orbit",
+      "display_replacement": "orbit",
+      "similarity": 0.3529
     }
   ]
 }
