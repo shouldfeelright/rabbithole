@@ -1004,6 +1004,9 @@
     ],
     "compass": [
       "orbit"
+    ],
+    "playing": [
+      "bring"
     ]
   },
   "changes": [
@@ -4251,6 +4254,14 @@
       "replacement_word": "orbit",
       "display_replacement": "orbit",
       "similarity": 0.3529
+    },
+    {
+      "timestamp": "2026-08-01T05:10:26.459140Z",
+      "index": 2280,
+      "original_word": "playing",
+      "replacement_word": "bring",
+      "display_replacement": "bringing",
+      "similarity": 0.2857
     }
   ]
 }
