@@ -1007,6 +1007,9 @@
     ],
     "playing": [
       "bring"
+    ],
+    "let": [
+      "get"
     ]
   },
   "changes": [
@@ -4262,6 +4265,14 @@
       "replacement_word": "bring",
       "display_replacement": "bringing",
       "similarity": 0.2857
+    },
+    {
+      "timestamp": "2026-08-01T05:10:31.912849Z",
+      "index": 618,
+      "original_word": "Let",
+      "replacement_word": "get",
+      "display_replacement": "get",
+      "similarity": 0.5
     }
   ]
 }
