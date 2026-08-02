@@ -497,7 +497,8 @@
       "thusly",
       "hence",
       "thence",
-      "therefore"
+      "therefore",
+      "then"
     ],
     "hot": [
       "raging",
@@ -4284,6 +4285,14 @@
       "replacement_word": "prognosticate",
       "display_replacement": "prognosticated",
       "similarity": 0.2
+    },
+    {
+      "timestamp": "2026-08-02T05:09:52.845865Z",
+      "index": 66,
+      "original_word": "So",
+      "replacement_word": "then",
+      "display_replacement": "then",
+      "similarity": 0.5
     }
   ]
 }
