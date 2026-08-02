@@ -457,7 +457,8 @@
       "pin"
     ],
     "going": [
-      "choke"
+      "choke",
+      "locomote"
     ],
     "be": [
       "comprise",
@@ -4293,6 +4294,14 @@
       "replacement_word": "then",
       "display_replacement": "then",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-08-02T05:09:58.829007Z",
+      "index": 386,
+      "original_word": "going",
+      "replacement_word": "locomote",
+      "display_replacement": "locomoting",
+      "similarity": 1.0
     }
   ]
 }
