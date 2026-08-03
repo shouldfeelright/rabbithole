@@ -982,7 +982,8 @@
       "full"
     ],
     "just": [
-      "hardly"
+      "hardly",
+      "barely"
     ],
     "manner": [
       "mode"
@@ -4322,6 +4323,14 @@
       "replacement_word": "passing",
       "display_replacement": "passing",
       "similarity": 0.3
+    },
+    {
+      "timestamp": "2026-08-03T05:19:45.088055Z",
+      "index": 274,
+      "original_word": "just",
+      "replacement_word": "barely",
+      "display_replacement": "barely",
+      "similarity": 0.5
     }
   ]
 }
