@@ -696,7 +696,8 @@
       "yet"
     ],
     "row": [
-      "quarrel"
+      "quarrel",
+      "dustup"
     ],
     "face": [
       "expression"
@@ -4302,6 +4303,14 @@
       "replacement_word": "locomote",
       "display_replacement": "locomoting",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-08-03T05:19:33.757110Z",
+      "index": 1287,
+      "original_word": "row",
+      "replacement_word": "dustup",
+      "display_replacement": "dustup",
+      "similarity": 0.25
     }
   ]
 }
