@@ -973,7 +973,8 @@
       "piffling"
     ],
     "find": [
-      "incur"
+      "incur",
+      "feel"
     ],
     "top": [
       "acme"
@@ -4352,6 +4353,14 @@
       "original_word": "solid",
       "replacement_word": "hearty",
       "display_replacement": "hearty",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-08-05T05:08:45.027221Z",
+      "index": 2506,
+      "original_word": "find",
+      "replacement_word": "feel",
+      "display_replacement": "feel",
       "similarity": 0.5
     }
   ]
