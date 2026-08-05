@@ -1027,6 +1027,9 @@
     ],
     "solid": [
       "hearty"
+    ],
+    "unwashed": [
+      "vulgar"
     ]
   },
   "changes": [
@@ -4361,6 +4364,14 @@
       "original_word": "find",
       "replacement_word": "feel",
       "display_replacement": "feel",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-08-05T05:08:51.518168Z",
+      "index": 2558,
+      "original_word": "unwashed",
+      "replacement_word": "vulgar",
+      "display_replacement": "vulgar",
       "similarity": 0.5
     }
   ]
