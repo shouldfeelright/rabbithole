@@ -1030,6 +1030,9 @@
     ],
     "unwashed": [
       "vulgar"
+    ],
+    "diddling": [
+      "con"
     ]
   },
   "changes": [
@@ -4373,6 +4376,14 @@
       "replacement_word": "vulgar",
       "display_replacement": "vulgar",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-08-05T05:08:58.204966Z",
+      "index": 2364,
+      "original_word": "diddling",
+      "replacement_word": "con",
+      "display_replacement": "conning",
+      "similarity": 1.0
     }
   ]
 }
