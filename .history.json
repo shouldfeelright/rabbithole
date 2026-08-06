@@ -147,7 +147,8 @@
       "pace"
     ],
     "inches": [
-      "inch"
+      "inch",
+      "in"
     ],
     "had": [
       "have",
@@ -4383,6 +4384,14 @@
       "original_word": "diddling",
       "replacement_word": "con",
       "display_replacement": "conning",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-08-06T06:37:11.126870Z",
+      "index": 1977,
+      "original_word": "inches",
+      "replacement_word": "in",
+      "display_replacement": "in",
       "similarity": 1.0
     }
   ]
