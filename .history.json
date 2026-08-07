@@ -520,7 +520,8 @@
     "know": [
       "jazz",
       "cognize",
-      "love"
+      "love",
+      "bang"
     ],
     "fall": [
       "autumn"
@@ -4402,6 +4403,14 @@
       "replacement_word": "aver",
       "display_replacement": "averred",
       "similarity": 0.2857
+    },
+    {
+      "timestamp": "2026-08-07T05:45:21.472445Z",
+      "index": 999,
+      "original_word": "know",
+      "replacement_word": "bang",
+      "display_replacement": "bang",
+      "similarity": 0.3333
     }
   ]
 }
