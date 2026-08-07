@@ -114,7 +114,8 @@
       "pronounce",
       "allege",
       "read",
-      "tell"
+      "tell",
+      "aver"
     ],
     "shutting": [
       "shut"
@@ -4393,6 +4394,14 @@
       "replacement_word": "in",
       "display_replacement": "in",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-08-07T05:45:15.967597Z",
+      "index": 2410,
+      "original_word": "said",
+      "replacement_word": "aver",
+      "display_replacement": "averred",
+      "similarity": 0.2857
     }
   ]
 }
