@@ -1036,6 +1036,9 @@
     ],
     "diddling": [
       "con"
+    ],
+    "poison": [
+      "toxicant"
     ]
   },
   "changes": [
@@ -4411,6 +4414,14 @@
       "replacement_word": "bang",
       "display_replacement": "bang",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-08-07T05:45:26.809087Z",
+      "index": 1771,
+      "original_word": "poison",
+      "replacement_word": "toxicant",
+      "display_replacement": "toxicant",
+      "similarity": 1.0
     }
   ]
 }
