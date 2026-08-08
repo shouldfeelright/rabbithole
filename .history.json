@@ -943,7 +943,8 @@
       "slope"
     ],
     "great": [
-      "swell"
+      "swell",
+      "smashing"
     ],
     "embodied": [
       "personify"
@@ -4422,6 +4423,14 @@
       "replacement_word": "toxicant",
       "display_replacement": "toxicant",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-08-08T05:04:03.921719Z",
+      "index": 474,
+      "original_word": "great",
+      "replacement_word": "smashing",
+      "display_replacement": "smashing",
+      "similarity": 0.5
     }
   ]
 }
