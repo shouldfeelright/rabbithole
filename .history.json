@@ -639,7 +639,8 @@
       "lamp"
     ],
     "happen": [
-      "bechance"
+      "bechance",
+      "occur"
     ],
     "still": [
       "nonetheless"
@@ -4452,6 +4453,14 @@
       "original_word": "abruptly",
       "replacement_word": "dead",
       "display_replacement": "dead",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-08-09T05:11:38.244568Z",
+      "index": 388,
+      "original_word": "happen",
+      "replacement_word": "occur",
+      "display_replacement": "occur",
       "similarity": 1.0
     }
   ]
