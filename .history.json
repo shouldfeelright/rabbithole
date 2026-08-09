@@ -1040,6 +1040,9 @@
     ],
     "poison": [
       "toxicant"
+    ],
+    "belatedly": [
+      "tardily"
     ]
   },
   "changes": [
@@ -4430,6 +4433,14 @@
       "original_word": "great",
       "replacement_word": "smashing",
       "display_replacement": "smashing",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-08-09T05:11:27.608274Z",
+      "index": 1244,
+      "original_word": "belatedly",
+      "replacement_word": "tardily",
+      "display_replacement": "tardily",
       "similarity": 0.5
     }
   ]
