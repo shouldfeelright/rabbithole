@@ -1047,6 +1047,9 @@
     ],
     "abruptly": [
       "dead"
+    ],
+    "people": [
+      "masses"
     ]
   },
   "changes": [
@@ -4462,6 +4465,14 @@
       "replacement_word": "occur",
       "display_replacement": "occur",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-08-09T05:11:43.435196Z",
+      "index": 1668,
+      "original_word": "people",
+      "replacement_word": "masses",
+      "display_replacement": "masses",
+      "similarity": 0.75
     }
   ]
 }
