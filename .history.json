@@ -1043,6 +1043,9 @@
     ],
     "belatedly": [
       "tardily"
+    ],
+    "abruptly": [
+      "dead"
     ]
   },
   "changes": [
@@ -4442,6 +4445,14 @@
       "replacement_word": "tardily",
       "display_replacement": "tardily",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-08-09T05:11:32.957646Z",
+      "index": 1130,
+      "original_word": "abruptly",
+      "replacement_word": "dead",
+      "display_replacement": "dead",
+      "similarity": 1.0
     }
   ]
 }
