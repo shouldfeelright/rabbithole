@@ -1050,6 +1050,9 @@
     ],
     "people": [
       "masses"
+    ],
+    "equalled": [
+      "equal"
     ]
   },
   "changes": [
@@ -4473,6 +4476,14 @@
       "replacement_word": "masses",
       "display_replacement": "masses",
       "similarity": 0.75
+    },
+    {
+      "timestamp": "2026-08-10T05:38:20.793469Z",
+      "index": 1221,
+      "original_word": "equalled",
+      "replacement_word": "equal",
+      "display_replacement": "equalled",
+      "similarity": 1.0
     }
   ]
 }
