@@ -1053,6 +1053,9 @@
     ],
     "equalled": [
       "equal"
+    ],
+    "waiting": [
+      "look"
     ]
   },
   "changes": [
@@ -4484,6 +4487,14 @@
       "replacement_word": "equal",
       "display_replacement": "equalled",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-08-11T05:14:39.063453Z",
+      "index": 1634,
+      "original_word": "waiting",
+      "replacement_word": "look",
+      "display_replacement": "looking",
+      "similarity": 0.5
     }
   ]
 }
