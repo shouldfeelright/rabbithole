@@ -1056,6 +1056,9 @@
     ],
     "waiting": [
       "look"
+    ],
+    "weirdie": [
+      "weirdy"
     ]
   },
   "changes": [
@@ -4495,6 +4498,14 @@
       "replacement_word": "look",
       "display_replacement": "looking",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-08-11T05:14:44.834124Z",
+      "index": 2438,
+      "original_word": "weirdie",
+      "replacement_word": "weirdy",
+      "display_replacement": "weirdy",
+      "similarity": 1.0
     }
   ]
 }
