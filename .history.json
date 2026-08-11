@@ -723,7 +723,8 @@
       "oculus"
     ],
     "thing": [
-      "matter"
+      "matter",
+      "affair"
     ],
     "round": [
       "rung"
@@ -4524,6 +4525,14 @@
       "replacement_word": "lilliputian",
       "display_replacement": "lilliputian",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-08-11T05:15:01.274500Z",
+      "index": 2212,
+      "original_word": "thing",
+      "replacement_word": "affair",
+      "display_replacement": "affair",
+      "similarity": 0.4706
     }
   ]
 }
