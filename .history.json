@@ -56,7 +56,8 @@
       "footling",
       "piddling",
       "short",
-      "small"
+      "small",
+      "lilliputian"
     ],
     "tried": [
       "examine",
@@ -4515,6 +4516,14 @@
       "replacement_word": "bump",
       "display_replacement": "bumped",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-08-11T05:14:55.682853Z",
+      "index": 1456,
+      "original_word": "little",
+      "replacement_word": "lilliputian",
+      "display_replacement": "lilliputian",
+      "similarity": 0.5
     }
   ]
 }
