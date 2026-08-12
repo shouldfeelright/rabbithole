@@ -881,7 +881,8 @@
       "round"
     ],
     "wonder": [
-      "curiosity"
+      "curiosity",
+      "admiration"
     ],
     "started": [
       "go"
@@ -4553,6 +4554,14 @@
       "replacement_word": "equal",
       "display_replacement": "equals",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-08-12T05:41:51.122235Z",
+      "index": 708,
+      "original_word": "wonder",
+      "replacement_word": "admiration",
+      "display_replacement": "admiration",
+      "similarity": 0.7143
     }
   ]
 }
