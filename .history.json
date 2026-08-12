@@ -4,7 +4,8 @@
       "be",
       "comprise",
       "cost",
-      "exist"
+      "exist",
+      "equal"
     ],
     "there": [
       "thither"
@@ -4544,6 +4545,14 @@
       "replacement_word": "passion",
       "display_replacement": "passion",
       "similarity": 0.7692
+    },
+    {
+      "timestamp": "2026-08-12T05:41:45.646459Z",
+      "index": 2087,
+      "original_word": "is",
+      "replacement_word": "equal",
+      "display_replacement": "equals",
+      "similarity": 0.5
     }
   ]
 }
