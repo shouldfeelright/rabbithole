@@ -1067,6 +1067,9 @@
     ],
     "love": [
       "passion"
+    ],
+    "recently": [
+      "late"
     ]
   },
   "changes": [
@@ -4562,6 +4565,14 @@
       "replacement_word": "admiration",
       "display_replacement": "admiration",
       "similarity": 0.7143
+    },
+    {
+      "timestamp": "2026-08-12T05:41:56.716511Z",
+      "index": 1610,
+      "original_word": "recently",
+      "replacement_word": "late",
+      "display_replacement": "late",
+      "similarity": 0.5
     }
   ]
 }
