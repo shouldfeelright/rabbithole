@@ -1070,6 +1070,9 @@
     ],
     "recently": [
       "late"
+    ],
+    "tunnel": [
+      "burrow"
     ]
   },
   "changes": [
@@ -4573,6 +4576,14 @@
       "replacement_word": "late",
       "display_replacement": "late",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-08-12T05:42:02.338391Z",
+      "index": 319,
+      "original_word": "tunnel",
+      "replacement_word": "burrow",
+      "display_replacement": "burrow",
+      "similarity": 0.375
     }
   ]
 }
