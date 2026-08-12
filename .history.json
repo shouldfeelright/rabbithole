@@ -1062,6 +1062,9 @@
     ],
     "weirdie": [
       "weirdy"
+    ],
+    "love": [
+      "passion"
     ]
   },
   "changes": [
@@ -4533,6 +4536,14 @@
       "replacement_word": "affair",
       "display_replacement": "affair",
       "similarity": 0.4706
+    },
+    {
+      "timestamp": "2026-08-12T05:41:39.964391Z",
+      "index": 828,
+      "original_word": "love",
+      "replacement_word": "passion",
+      "display_replacement": "passion",
+      "similarity": 0.7692
     }
   ]
 }
