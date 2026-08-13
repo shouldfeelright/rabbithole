@@ -1080,6 +1080,9 @@
     ],
     "lilliputian": [
       "tiny"
+    ],
+    "card": [
+      "wag"
     ]
   },
   "changes": [
@@ -4615,6 +4618,14 @@
       "replacement_word": "tiny",
       "display_replacement": "tiny",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-08-13T05:44:19.879871Z",
+      "index": 2191,
+      "original_word": "card",
+      "replacement_word": "wag",
+      "display_replacement": "wag",
+      "similarity": 0.2857
     }
   ]
 }
