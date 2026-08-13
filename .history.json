@@ -82,7 +82,8 @@
       "headstone",
       "cay",
       "tonality",
-      "samara"
+      "samara",
+      "paint"
     ],
     "filled": [
       "fulfill"
@@ -4584,6 +4585,14 @@
       "replacement_word": "burrow",
       "display_replacement": "burrow",
       "similarity": 0.375
+    },
+    {
+      "timestamp": "2026-08-13T05:44:06.899201Z",
+      "index": 1654,
+      "original_word": "key",
+      "replacement_word": "paint",
+      "display_replacement": "paint",
+      "similarity": 0.625
     }
   ]
 }
