@@ -1083,6 +1083,9 @@
     ],
     "card": [
       "wag"
+    ],
+    "joint": [
+      "roast"
     ]
   },
   "changes": [
@@ -4625,6 +4628,14 @@
       "original_word": "card",
       "replacement_word": "wag",
       "display_replacement": "wag",
+      "similarity": 0.2857
+    },
+    {
+      "timestamp": "2026-08-13T05:44:24.188660Z",
+      "index": 1927,
+      "original_word": "joint",
+      "replacement_word": "roast",
+      "display_replacement": "roast",
       "similarity": 0.2857
     }
   ]
