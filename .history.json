@@ -1074,6 +1074,9 @@
     ],
     "tunnel": [
       "burrow"
+    ],
+    "small": [
+      "modest"
     ]
   },
   "changes": [
@@ -4593,6 +4596,14 @@
       "replacement_word": "paint",
       "display_replacement": "paint",
       "similarity": 0.625
+    },
+    {
+      "timestamp": "2026-08-13T05:44:11.192687Z",
+      "index": 1407,
+      "original_word": "small",
+      "replacement_word": "modest",
+      "display_replacement": "modest",
+      "similarity": 0.5
     }
   ]
 }
