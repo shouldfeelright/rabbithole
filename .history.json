@@ -1077,6 +1077,9 @@
     ],
     "small": [
       "modest"
+    ],
+    "lilliputian": [
+      "tiny"
     ]
   },
   "changes": [
@@ -4603,6 +4606,14 @@
       "original_word": "small",
       "replacement_word": "modest",
       "display_replacement": "modest",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-08-13T05:44:15.620971Z",
+      "index": 1456,
+      "original_word": "lilliputian",
+      "replacement_word": "tiny",
+      "display_replacement": "tiny",
       "similarity": 0.5
     }
   ]
