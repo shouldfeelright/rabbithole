@@ -886,7 +886,8 @@
       "admiration"
     ],
     "started": [
-      "go"
+      "go",
+      "get"
     ],
     "opened": [
       "open"
@@ -4670,6 +4671,14 @@
       "replacement_word": "zero",
       "display_replacement": "zero",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-08-15T04:37:50.431492Z",
+      "index": 225,
+      "original_word": "started",
+      "replacement_word": "get",
+      "display_replacement": "got",
+      "similarity": 0.5
     }
   ]
 }
