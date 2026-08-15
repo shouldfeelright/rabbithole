@@ -1089,6 +1089,9 @@
     ],
     "dozing": [
       "doze"
+    ],
+    "toffee": [
+      "brittle"
     ]
   },
   "changes": [
@@ -4647,6 +4650,14 @@
       "original_word": "dozing",
       "replacement_word": "doze",
       "display_replacement": "dozing",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-08-15T04:37:39.442598Z",
+      "index": 1930,
+      "original_word": "toffee",
+      "replacement_word": "brittle",
+      "display_replacement": "brittle",
       "similarity": 1.0
     }
   ]
