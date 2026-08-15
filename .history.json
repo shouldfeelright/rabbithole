@@ -1092,6 +1092,9 @@
     ],
     "toffee": [
       "brittle"
+    ],
+    "zippo": [
+      "zero"
     ]
   },
   "changes": [
@@ -4658,6 +4661,14 @@
       "original_word": "toffee",
       "replacement_word": "brittle",
       "display_replacement": "brittle",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-08-15T04:37:45.032046Z",
+      "index": 530,
+      "original_word": "zippo",
+      "replacement_word": "zero",
+      "display_replacement": "zero",
       "similarity": 1.0
     }
   ]
