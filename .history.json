@@ -1098,6 +1098,9 @@
     ],
     "zippo": [
       "zero"
+    ],
+    "threshold": [
+      "doorstep"
     ]
   },
   "changes": [
@@ -4697,6 +4700,14 @@
       "replacement_word": "auricle",
       "display_replacement": "auricle",
       "similarity": 0.5556
+    },
+    {
+      "timestamp": "2026-08-16T04:41:37.183607Z",
+      "index": 1638,
+      "original_word": "threshold",
+      "replacement_word": "doorstep",
+      "display_replacement": "doorstep",
+      "similarity": 0.1176
     }
   ]
 }
