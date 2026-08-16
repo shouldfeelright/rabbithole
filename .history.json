@@ -1102,6 +1102,9 @@
     ],
     "threshold": [
       "doorstep"
+    ],
+    "tagged": [
+      "tag"
     ]
   },
   "changes": [
@@ -4717,6 +4720,14 @@
       "replacement_word": "bozo",
       "display_replacement": "bozo",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-08-16T04:41:47.893376Z",
+      "index": 465,
+      "original_word": "tagged",
+      "replacement_word": "tag",
+      "display_replacement": "tagged",
+      "similarity": 1.0
     }
   ]
 }
