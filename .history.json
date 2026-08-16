@@ -206,7 +206,8 @@
     "cats": [
       "CAT",
       "hombre",
-      "cat"
+      "cat",
+      "bozo"
     ],
     "sentence": [
       "condemnation"
@@ -4708,6 +4709,14 @@
       "replacement_word": "doorstep",
       "display_replacement": "doorstep",
       "similarity": 0.1176
+    },
+    {
+      "timestamp": "2026-08-16T04:41:42.614934Z",
+      "index": 1053,
+      "original_word": "cats",
+      "replacement_word": "bozo",
+      "display_replacement": "bozo",
+      "similarity": 0.5
     }
   ]
 }
