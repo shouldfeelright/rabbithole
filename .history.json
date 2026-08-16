@@ -469,7 +469,8 @@
       "comprise",
       "exist",
       "equal",
-      "constitute"
+      "constitute",
+      "embody"
     ],
     "pleasure": [
       "joy"
@@ -4679,6 +4680,14 @@
       "replacement_word": "get",
       "display_replacement": "got",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-08-16T04:41:25.966423Z",
+      "index": 612,
+      "original_word": "be",
+      "replacement_word": "embody",
+      "display_replacement": "embody",
+      "similarity": 0.6667
     }
   ]
 }
