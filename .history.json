@@ -508,7 +508,8 @@
       "hence",
       "thence",
       "therefore",
-      "then"
+      "then",
+      "indeed"
     ],
     "hot": [
       "raging",
@@ -4748,6 +4749,14 @@
       "replacement_word": "precipitate",
       "display_replacement": "precipitated",
       "similarity": 0.2
+    },
+    {
+      "timestamp": "2026-08-17T04:50:50.752142Z",
+      "index": 2443,
+      "original_word": "so",
+      "replacement_word": "indeed",
+      "display_replacement": "indeed",
+      "similarity": 0.5
     }
   ]
 }
