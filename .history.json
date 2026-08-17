@@ -412,7 +412,8 @@
       "naught"
     ],
     "fell": [
-      "devolve"
+      "devolve",
+      "precipitate"
     ],
     "fifteen": [
       "XV"
@@ -4739,6 +4740,14 @@
       "replacement_word": "tonic",
       "display_replacement": "tonic",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-08-17T04:50:45.312604Z",
+      "index": 506,
+      "original_word": "fell",
+      "replacement_word": "precipitate",
+      "display_replacement": "precipitated",
+      "similarity": 0.2
     }
   ]
 }
