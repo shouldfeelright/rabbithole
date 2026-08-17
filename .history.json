@@ -1105,6 +1105,9 @@
     ],
     "tagged": [
       "tag"
+    ],
+    "soda": [
+      "tonic"
     ]
   },
   "changes": [
@@ -4728,6 +4731,14 @@
       "replacement_word": "tag",
       "display_replacement": "tagged",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-08-17T04:50:39.851415Z",
+      "index": 280,
+      "original_word": "soda",
+      "replacement_word": "tonic",
+      "display_replacement": "tonic",
+      "similarity": 0.4
     }
   ]
 }
