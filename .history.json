@@ -651,7 +651,8 @@
       "occur"
     ],
     "still": [
-      "nonetheless"
+      "nonetheless",
+      "withal"
     ],
     "antipathies": [
       "antipathy"
@@ -4756,6 +4757,14 @@
       "original_word": "so",
       "replacement_word": "indeed",
       "display_replacement": "indeed",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-08-17T04:50:56.015464Z",
+      "index": 1196,
+      "original_word": "still",
+      "replacement_word": "withal",
+      "display_replacement": "withal",
       "similarity": 0.5
     }
   ]
