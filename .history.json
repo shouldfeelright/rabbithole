@@ -1111,6 +1111,9 @@
     ],
     "soda": [
       "tonic"
+    ],
+    "pegleg": [
+      "peg"
     ]
   },
   "changes": [
@@ -4766,6 +4769,14 @@
       "replacement_word": "withal",
       "display_replacement": "withal",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-08-17T04:51:01.328052Z",
+      "index": 447,
+      "original_word": "pegleg",
+      "replacement_word": "peg",
+      "display_replacement": "peg",
+      "similarity": 0.6667
     }
   ]
 }
