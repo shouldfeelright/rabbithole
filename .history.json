@@ -1118,6 +1118,9 @@
     ],
     "burn": [
       "tan"
+    ],
+    "flavor": [
+      "tang"
     ]
   },
   "changes": [
@@ -4797,6 +4800,14 @@
       "replacement_word": "tan",
       "display_replacement": "tan",
       "similarity": 0.2353
+    },
+    {
+      "timestamp": "2026-08-18T04:41:41.499544Z",
+      "index": 1919,
+      "original_word": "flavor",
+      "replacement_word": "tang",
+      "display_replacement": "tang",
+      "similarity": 0.4286
     }
   ]
 }
