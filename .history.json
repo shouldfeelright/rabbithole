@@ -1121,6 +1121,9 @@
     ],
     "flavor": [
       "tang"
+    ],
+    "mode": [
+      "fashion"
     ]
   },
   "changes": [
@@ -4808,6 +4811,14 @@
       "replacement_word": "tang",
       "display_replacement": "tang",
       "similarity": 0.4286
+    },
+    {
+      "timestamp": "2026-08-18T04:41:46.620440Z",
+      "index": 1032,
+      "original_word": "mode",
+      "replacement_word": "fashion",
+      "display_replacement": "fashion",
+      "similarity": 1.0
     }
   ]
 }
