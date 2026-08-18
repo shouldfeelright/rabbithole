@@ -1115,6 +1115,9 @@
     ],
     "pegleg": [
       "peg"
+    ],
+    "burn": [
+      "tan"
     ]
   },
   "changes": [
@@ -4786,6 +4789,14 @@
       "replacement_word": "wonderment",
       "display_replacement": "wonderment",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-08-18T04:41:36.309053Z",
+      "index": 1826,
+      "original_word": "burn",
+      "replacement_word": "tan",
+      "display_replacement": "tan",
+      "similarity": 0.2353
     }
   ]
 }
