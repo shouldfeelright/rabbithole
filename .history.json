@@ -889,7 +889,8 @@
     ],
     "wonder": [
       "curiosity",
-      "admiration"
+      "admiration",
+      "wonderment"
     ],
     "started": [
       "go",
@@ -4777,6 +4778,14 @@
       "replacement_word": "peg",
       "display_replacement": "peg",
       "similarity": 0.6667
+    },
+    {
+      "timestamp": "2026-08-18T04:41:31.141668Z",
+      "index": 1008,
+      "original_word": "wonder",
+      "replacement_word": "wonderment",
+      "display_replacement": "wonderment",
+      "similarity": 1.0
     }
   ]
 }
