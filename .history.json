@@ -1124,6 +1124,9 @@
     ],
     "mode": [
       "fashion"
+    ],
+    "taste": [
+      "mouthful"
     ]
   },
   "changes": [
@@ -4819,6 +4822,14 @@
       "replacement_word": "fashion",
       "display_replacement": "fashion",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-08-19T04:42:35.887470Z",
+      "index": 1899,
+      "original_word": "taste",
+      "replacement_word": "mouthful",
+      "display_replacement": "mouthful",
+      "similarity": 0.2667
     }
   ]
 }
