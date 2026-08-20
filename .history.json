@@ -670,7 +670,8 @@
       "digit"
     ],
     "close": [
-      "tight"
+      "tight",
+      "near"
     ],
     "middle": [
       "centre"
@@ -4852,6 +4853,14 @@
       "replacement_word": "hop",
       "display_replacement": "hopping",
       "similarity": 0.25
+    },
+    {
+      "timestamp": "2026-08-20T04:43:35.001862Z",
+      "index": 123,
+      "original_word": "close",
+      "replacement_word": "near",
+      "display_replacement": "near",
+      "similarity": 1.0
     }
   ]
 }
