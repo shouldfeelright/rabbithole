@@ -1134,6 +1134,9 @@
     ],
     "hoping": [
       "hop"
+    ],
+    "judging": [
+      "judgement"
     ]
   },
   "changes": [
@@ -4861,6 +4864,14 @@
       "replacement_word": "near",
       "display_replacement": "near",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-08-20T04:43:40.424651Z",
+      "index": 2286,
+      "original_word": "judging",
+      "replacement_word": "judgement",
+      "display_replacement": "judgement",
+      "similarity": 0.25
     }
   ]
 }
