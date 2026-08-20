@@ -1127,6 +1127,9 @@
     ],
     "taste": [
       "mouthful"
+    ],
+    "precipitated": [
+      "fall"
     ]
   },
   "changes": [
@@ -4830,6 +4833,14 @@
       "replacement_word": "mouthful",
       "display_replacement": "mouthful",
       "similarity": 0.2667
+    },
+    {
+      "timestamp": "2026-08-20T04:43:23.188879Z",
+      "index": 506,
+      "original_word": "precipitated",
+      "replacement_word": "fall",
+      "display_replacement": "fallen",
+      "similarity": 0.25
     }
   ]
 }
