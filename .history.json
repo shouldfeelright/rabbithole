@@ -1130,6 +1130,9 @@
     ],
     "precipitated": [
       "fall"
+    ],
+    "hoping": [
+      "hop"
     ]
   },
   "changes": [
@@ -4840,6 +4843,14 @@
       "original_word": "precipitated",
       "replacement_word": "fall",
       "display_replacement": "fallen",
+      "similarity": 0.25
+    },
+    {
+      "timestamp": "2026-08-20T04:43:29.409898Z",
+      "index": 1649,
+      "original_word": "hoping",
+      "replacement_word": "hop",
+      "display_replacement": "hopping",
       "similarity": 0.25
     }
   ]
