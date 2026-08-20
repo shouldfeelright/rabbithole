@@ -1137,6 +1137,9 @@
     ],
     "judging": [
       "judgement"
+    ],
+    "perhaps": [
+      "possibly"
     ]
   },
   "changes": [
@@ -4872,6 +4875,14 @@
       "replacement_word": "judgement",
       "display_replacement": "judgement",
       "similarity": 0.25
+    },
+    {
+      "timestamp": "2026-08-20T04:43:45.741393Z",
+      "index": 894,
+      "original_word": "perhaps",
+      "replacement_word": "possibly",
+      "display_replacement": "possibly",
+      "similarity": 1.0
     }
   ]
 }
