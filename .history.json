@@ -1143,6 +1143,9 @@
     ],
     "variety": [
       "potpourri"
+    ],
+    "brittle": [
+      "toffee"
     ]
   },
   "changes": [
@@ -4893,6 +4896,14 @@
       "original_word": "variety",
       "replacement_word": "potpourri",
       "display_replacement": "potpourri",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-08-21T04:45:39.679549Z",
+      "index": 1930,
+      "original_word": "brittle",
+      "replacement_word": "toffee",
+      "display_replacement": "toffee",
       "similarity": 1.0
     }
   ]
