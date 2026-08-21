@@ -1140,6 +1140,9 @@
     ],
     "perhaps": [
       "possibly"
+    ],
+    "variety": [
+      "potpourri"
     ]
   },
   "changes": [
@@ -4882,6 +4885,14 @@
       "original_word": "perhaps",
       "replacement_word": "possibly",
       "display_replacement": "possibly",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-08-21T04:45:33.827281Z",
+      "index": 651,
+      "original_word": "variety",
+      "replacement_word": "potpourri",
+      "display_replacement": "potpourri",
       "similarity": 1.0
     }
   ]
