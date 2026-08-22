@@ -491,7 +491,8 @@
       "immediately"
     ],
     "curiosity": [
-      "rarity"
+      "rarity",
+      "oddity"
     ],
     "size": [
       "sizing"
@@ -4905,6 +4906,14 @@
       "replacement_word": "toffee",
       "display_replacement": "toffee",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-08-22T04:39:23.941142Z",
+      "index": 593,
+      "original_word": "curiosity",
+      "replacement_word": "oddity",
+      "display_replacement": "oddity",
+      "similarity": 0.3333
     }
   ]
 }
