@@ -1147,6 +1147,9 @@
     ],
     "brittle": [
       "toffee"
+    ],
+    "growled": [
+      "growl"
     ]
   },
   "changes": [
@@ -4914,6 +4917,14 @@
       "replacement_word": "oddity",
       "display_replacement": "oddity",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-08-22T04:39:29.497131Z",
+      "index": 2270,
+      "original_word": "growled",
+      "replacement_word": "growl",
+      "display_replacement": "growled",
+      "similarity": 1.0
     }
   ]
 }
