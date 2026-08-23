@@ -718,7 +718,8 @@
       "expression"
     ],
     "pictures": [
-      "picture"
+      "picture",
+      "painting"
     ],
     "hedge": [
       "hedgerow"
@@ -4936,6 +4937,14 @@
       "replacement_word": "mortal",
       "display_replacement": "mortal",
       "similarity": 0.6
+    },
+    {
+      "timestamp": "2026-08-23T04:43:47.007985Z",
+      "index": 444,
+      "original_word": "pictures",
+      "replacement_word": "painting",
+      "display_replacement": "painting",
+      "similarity": 0.7059
     }
   ]
 }
