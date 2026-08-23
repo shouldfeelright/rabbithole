@@ -1150,6 +1150,9 @@
     ],
     "growled": [
       "growl"
+    ],
+    "soul": [
+      "mortal"
     ]
   },
   "changes": [
@@ -4925,6 +4928,14 @@
       "replacement_word": "growl",
       "display_replacement": "growled",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-08-23T04:43:41.426110Z",
+      "index": 492,
+      "original_word": "soul",
+      "replacement_word": "mortal",
+      "display_replacement": "mortal",
+      "similarity": 0.6
     }
   ]
 }
