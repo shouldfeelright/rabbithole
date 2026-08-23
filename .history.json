@@ -1154,6 +1154,9 @@
     ],
     "soul": [
       "mortal"
+    ],
+    "sizing": [
+      "size"
     ]
   },
   "changes": [
@@ -4945,6 +4948,14 @@
       "replacement_word": "painting",
       "display_replacement": "painting",
       "similarity": 0.7059
+    },
+    {
+      "timestamp": "2026-08-23T04:43:52.461021Z",
+      "index": 1994,
+      "original_word": "sizing",
+      "replacement_word": "size",
+      "display_replacement": "sizing",
+      "similarity": 1.0
     }
   ]
 }
