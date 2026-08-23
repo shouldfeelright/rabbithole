@@ -691,7 +691,8 @@
       "formerly"
     ],
     "watch": [
-      "sentry"
+      "sentry",
+      "ticker"
     ],
     "represented": [
       "correspond"
@@ -4956,6 +4957,14 @@
       "replacement_word": "size",
       "display_replacement": "sizing",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-08-23T04:43:57.961779Z",
+      "index": 208,
+      "original_word": "WATCH",
+      "replacement_word": "ticker",
+      "display_replacement": "ticker",
+      "similarity": 0.2105
     }
   ]
 }
