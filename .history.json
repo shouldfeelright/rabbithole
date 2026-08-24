@@ -1164,6 +1164,9 @@
     ],
     "really": [
       "genuinely"
+    ],
+    "materialised": [
+      "materialise"
     ]
   },
   "changes": [
@@ -4986,6 +4989,14 @@
       "original_word": "really",
       "replacement_word": "genuinely",
       "display_replacement": "genuinely",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-08-24T04:52:41.964722Z",
+      "index": 1609,
+      "original_word": "materialised",
+      "replacement_word": "materialise",
+      "display_replacement": "materialised",
       "similarity": 1.0
     }
   ]
