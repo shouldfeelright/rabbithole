@@ -1161,6 +1161,9 @@
     ],
     "passed": [
       "pass"
+    ],
+    "really": [
+      "genuinely"
     ]
   },
   "changes": [
@@ -4975,6 +4978,14 @@
       "original_word": "passed",
       "replacement_word": "pass",
       "display_replacement": "passed",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-08-24T04:52:36.813242Z",
+      "index": 1727,
+      "original_word": "really",
+      "replacement_word": "genuinely",
+      "display_replacement": "genuinely",
       "similarity": 1.0
     }
   ]
