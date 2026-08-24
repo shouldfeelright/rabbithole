@@ -301,7 +301,8 @@
     ],
     "went": [
       "go",
-      "choke"
+      "choke",
+      "fit"
     ],
     "rules": [
       "principle",
@@ -4998,6 +4999,14 @@
       "replacement_word": "materialise",
       "display_replacement": "materialised",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-08-24T04:52:46.993058Z",
+      "index": 2150,
+      "original_word": "went",
+      "replacement_word": "fit",
+      "display_replacement": "fitted",
+      "similarity": 0.2857
     }
   ]
 }
