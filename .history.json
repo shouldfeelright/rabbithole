@@ -1169,6 +1169,9 @@
     ],
     "materialised": [
       "materialise"
+    ],
+    "remember": [
+      "think"
     ]
   },
   "changes": [
@@ -5016,6 +5019,14 @@
       "replacement_word": "troll",
       "display_replacement": "troll",
       "similarity": 0.1
+    },
+    {
+      "timestamp": "2026-08-26T04:46:47.163787Z",
+      "index": 1808,
+      "original_word": "remember",
+      "replacement_word": "think",
+      "display_replacement": "think",
+      "similarity": 0.3333
     }
   ]
 }
