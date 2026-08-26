@@ -287,7 +287,8 @@
       "exist"
     ],
     "things": [
-      "thing"
+      "thing",
+      "matter"
     ],
     "latitude": [
       "parallel"
@@ -5049,6 +5050,14 @@
       "replacement_word": "poison",
       "display_replacement": "poison",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-08-26T04:47:03.253947Z",
+      "index": 2540,
+      "original_word": "things",
+      "replacement_word": "matter",
+      "display_replacement": "matter",
+      "similarity": 0.2353
     }
   ]
 }
