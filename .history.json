@@ -1175,6 +1175,9 @@
     ],
     "slope": [
       "incline"
+    ],
+    "toxicant": [
+      "poison"
     ]
   },
   "changes": [
@@ -5037,6 +5040,14 @@
       "original_word": "slope",
       "replacement_word": "incline",
       "display_replacement": "incline",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-08-26T04:46:57.983734Z",
+      "index": 1771,
+      "original_word": "toxicant",
+      "replacement_word": "poison",
+      "display_replacement": "poison",
       "similarity": 1.0
     }
   ]
