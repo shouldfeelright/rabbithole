@@ -1172,6 +1172,9 @@
     ],
     "remember": [
       "think"
+    ],
+    "slope": [
+      "incline"
     ]
   },
   "changes": [
@@ -5027,6 +5030,14 @@
       "replacement_word": "think",
       "display_replacement": "think",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-08-26T04:46:52.598589Z",
+      "index": 1319,
+      "original_word": "slope",
+      "replacement_word": "incline",
+      "display_replacement": "incline",
+      "similarity": 1.0
     }
   ]
 }
