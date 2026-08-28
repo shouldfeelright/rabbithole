@@ -1006,7 +1006,8 @@
       "acme"
     ],
     "good": [
-      "full"
+      "full",
+      "sound"
     ],
     "just": [
       "hardly",
@@ -5069,6 +5070,14 @@
       "replacement_word": "key",
       "display_replacement": "key",
       "similarity": 0.125
+    },
+    {
+      "timestamp": "2026-08-28T16:29:51.681494Z",
+      "index": 687,
+      "original_word": "good",
+      "replacement_word": "sound",
+      "display_replacement": "sound",
+      "similarity": 0.5
     }
   ]
 }
