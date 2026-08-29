@@ -1189,6 +1189,9 @@
     ],
     "exercise": [
       "usage"
+    ],
+    "principal": [
+      "corpus"
     ]
   },
   "changes": [
@@ -5100,6 +5103,14 @@
       "replacement_word": "usage",
       "display_replacement": "usage",
       "similarity": 0.7059
+    },
+    {
+      "timestamp": "2026-08-29T10:58:05.741646Z",
+      "index": 1540,
+      "original_word": "principal",
+      "replacement_word": "corpus",
+      "display_replacement": "corpus",
+      "similarity": 0.5714
     }
   ]
 }
