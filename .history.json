@@ -1186,6 +1186,9 @@
     ],
     "sentry": [
       "sentinel"
+    ],
+    "exercise": [
+      "usage"
     ]
   },
   "changes": [
@@ -5089,6 +5092,14 @@
       "replacement_word": "sentinel",
       "display_replacement": "sentinel",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-08-29T10:58:00.149207Z",
+      "index": 688,
+      "original_word": "exercise",
+      "replacement_word": "usage",
+      "display_replacement": "usage",
+      "similarity": 0.7059
     }
   ]
 }
