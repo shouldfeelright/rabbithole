@@ -1183,6 +1183,9 @@
     ],
     "tonality": [
       "key"
+    ],
+    "sentry": [
+      "sentinel"
     ]
   },
   "changes": [
@@ -5078,6 +5081,14 @@
       "replacement_word": "sound",
       "display_replacement": "sound",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-08-29T10:57:54.521291Z",
+      "index": 251,
+      "original_word": "sentry",
+      "replacement_word": "sentinel",
+      "display_replacement": "sentinel",
+      "similarity": 1.0
     }
   ]
 }
