@@ -248,7 +248,8 @@
     ],
     "dear": [
       "dearest",
-      "beloved"
+      "beloved",
+      "lamb"
     ],
     "begun": [
       "begin"
@@ -5142,6 +5143,14 @@
       "replacement_word": "principal",
       "display_replacement": "principal",
       "similarity": 0.5714
+    },
+    {
+      "timestamp": "2026-08-30T09:52:19.496296Z",
+      "index": 161,
+      "original_word": "dear",
+      "replacement_word": "lamb",
+      "display_replacement": "lamb",
+      "similarity": 0.6316
     }
   ]
 }
