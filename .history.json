@@ -1200,6 +1200,9 @@
     ],
     "corpus": [
       "principal"
+    ],
+    "conducted": [
+      "channel"
     ]
   },
   "changes": [
@@ -5151,6 +5154,14 @@
       "replacement_word": "lamb",
       "display_replacement": "lamb",
       "similarity": 0.6316
+    },
+    {
+      "timestamp": "2026-08-30T09:52:24.860759Z",
+      "index": 137,
+      "original_word": "conducted",
+      "replacement_word": "channel",
+      "display_replacement": "channeled",
+      "similarity": 0.2222
     }
   ]
 }
