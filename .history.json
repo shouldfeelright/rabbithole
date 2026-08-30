@@ -458,7 +458,8 @@
       "gladiola"
     ],
     "book": [
-      "al-Qur'an"
+      "al-Qur'an",
+      "leger"
     ],
     "upwardly": [
       "upward"
@@ -5111,6 +5112,14 @@
       "replacement_word": "corpus",
       "display_replacement": "corpus",
       "similarity": 0.5714
+    },
+    {
+      "timestamp": "2026-08-30T09:52:03.410525Z",
+      "index": 31,
+      "original_word": "book",
+      "replacement_word": "leger",
+      "display_replacement": "leger",
+      "similarity": 0.125
     }
   ]
 }
