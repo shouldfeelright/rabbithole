@@ -58,7 +58,8 @@
       "piddling",
       "short",
       "small",
-      "lilliputian"
+      "lilliputian",
+      "niggling"
     ],
     "tried": [
       "examine",
@@ -5162,6 +5163,14 @@
       "replacement_word": "channel",
       "display_replacement": "channeled",
       "similarity": 0.2222
+    },
+    {
+      "timestamp": "2026-08-31T10:43:56.060791Z",
+      "index": 1783,
+      "original_word": "little",
+      "replacement_word": "niggling",
+      "display_replacement": "niggling",
+      "similarity": 0.5
     }
   ]
 }
