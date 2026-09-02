@@ -1207,6 +1207,9 @@
     ],
     "dustup": [
       "run-in"
+    ],
+    "saying": [
+      "read"
     ]
   },
   "changes": [
@@ -5182,6 +5185,14 @@
       "replacement_word": "run-in",
       "display_replacement": "run-in",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-09-02T08:41:09.591926Z",
+      "index": 1105,
+      "original_word": "saying",
+      "replacement_word": "read",
+      "display_replacement": "reading",
+      "similarity": 0.2857
     }
   ]
 }
