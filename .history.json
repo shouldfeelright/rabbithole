@@ -290,7 +290,8 @@
     ],
     "things": [
       "thing",
-      "matter"
+      "matter",
+      "affair"
     ],
     "latitude": [
       "parallel"
@@ -5193,6 +5194,14 @@
       "replacement_word": "read",
       "display_replacement": "reading",
       "similarity": 0.2857
+    },
+    {
+      "timestamp": "2026-09-02T08:41:15.607416Z",
+      "index": 1801,
+      "original_word": "things",
+      "replacement_word": "affair",
+      "display_replacement": "affair",
+      "similarity": 0.2353
     }
   ]
 }
