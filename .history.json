@@ -1211,6 +1211,9 @@
     ],
     "saying": [
       "read"
+    ],
+    "hint": [
+      "clue"
     ]
   },
   "changes": [
@@ -5202,6 +5205,14 @@
       "replacement_word": "affair",
       "display_replacement": "affair",
       "similarity": 0.2353
+    },
+    {
+      "timestamp": "2026-09-02T08:41:21.545998Z",
+      "index": 1218,
+      "original_word": "hint",
+      "replacement_word": "clue",
+      "display_replacement": "clue",
+      "similarity": 0.5
     }
   ]
 }
