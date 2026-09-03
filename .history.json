@@ -1108,7 +1108,8 @@
       "roast"
     ],
     "dozing": [
-      "doze"
+      "doze",
+      "snooze"
     ],
     "toffee": [
       "brittle"
@@ -5213,6 +5214,14 @@
       "replacement_word": "clue",
       "display_replacement": "clue",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-09-03T08:49:49.624586Z",
+      "index": 1085,
+      "original_word": "dozing",
+      "replacement_word": "snooze",
+      "display_replacement": "snoozing",
+      "similarity": 1.0
     }
   ]
 }
