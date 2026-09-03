@@ -1215,6 +1215,9 @@
     ],
     "hint": [
       "clue"
+    ],
+    "wild": [
+      "wilderness"
     ]
   },
   "changes": [
@@ -5222,6 +5225,14 @@
       "replacement_word": "snooze",
       "display_replacement": "snoozing",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-09-03T08:49:54.757663Z",
+      "index": 1796,
+      "original_word": "wild",
+      "replacement_word": "wilderness",
+      "display_replacement": "wilderness",
+      "similarity": 0.6154
     }
   ]
 }
