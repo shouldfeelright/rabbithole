@@ -1218,6 +1218,9 @@
     ],
     "wild": [
       "wilderness"
+    ],
+    "birthed": [
+      "birth"
     ]
   },
   "changes": [
@@ -5233,6 +5236,14 @@
       "replacement_word": "wilderness",
       "display_replacement": "wilderness",
       "similarity": 0.6154
+    },
+    {
+      "timestamp": "2026-09-03T08:49:59.619618Z",
+      "index": 1089,
+      "original_word": "birthed",
+      "replacement_word": "birth",
+      "display_replacement": "birthed",
+      "similarity": 1.0
     }
   ]
 }
