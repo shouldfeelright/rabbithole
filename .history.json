@@ -1075,7 +1075,8 @@
       "dead"
     ],
     "people": [
-      "masses"
+      "masses",
+      "citizenry"
     ],
     "equalled": [
       "equal"
@@ -5244,6 +5245,14 @@
       "replacement_word": "birth",
       "display_replacement": "birthed",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-09-04T08:45:14.385919Z",
+      "index": 2319,
+      "original_word": "people",
+      "replacement_word": "citizenry",
+      "display_replacement": "citizenry",
+      "similarity": 0.75
     }
   ]
 }
