@@ -1222,6 +1222,9 @@
     ],
     "birthed": [
       "birth"
+    ],
+    "sat": [
+      "Sabbatum"
     ]
   },
   "changes": [
@@ -5253,6 +5256,14 @@
       "replacement_word": "citizenry",
       "display_replacement": "citizenry",
       "similarity": 0.75
+    },
+    {
+      "timestamp": "2026-09-05T08:15:34.921640Z",
+      "index": 2213,
+      "original_word": "sat",
+      "replacement_word": "Sabbatum",
+      "display_replacement": "Sabbatum",
+      "similarity": 1.0
     }
   ]
 }
