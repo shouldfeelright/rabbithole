@@ -885,7 +885,8 @@
       "trench"
     ],
     "sustaining": [
-      "sustain"
+      "sustain",
+      "maintain"
     ],
     "pace": [
       "footstep"
@@ -5284,6 +5285,14 @@
       "replacement_word": "cerebration",
       "display_replacement": "cerebration",
       "similarity": 0.6154
+    },
+    {
+      "timestamp": "2026-09-05T08:15:52.727182Z",
+      "index": 2483,
+      "original_word": "sustaining",
+      "replacement_word": "maintain",
+      "display_replacement": "maintaining",
+      "similarity": 0.3333
     }
   ]
 }
