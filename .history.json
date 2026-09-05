@@ -1225,6 +1225,9 @@
     ],
     "sat": [
       "Sabbatum"
+    ],
+    "speeding": [
+      "quicken"
     ]
   },
   "changes": [
@@ -5264,6 +5267,14 @@
       "replacement_word": "Sabbatum",
       "display_replacement": "Sabbatum",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-09-05T08:15:40.880833Z",
+      "index": 1200,
+      "original_word": "speeding",
+      "replacement_word": "quicken",
+      "display_replacement": "quickening",
+      "similarity": 0.2222
     }
   ]
 }
