@@ -1230,6 +1230,9 @@
     ],
     "speeding": [
       "quicken"
+    ],
+    "theme": [
+      "root"
     ]
   },
   "changes": [
@@ -5293,6 +5296,14 @@
       "replacement_word": "maintain",
       "display_replacement": "maintaining",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-09-05T08:15:58.661777Z",
+      "index": 1706,
+      "original_word": "theme",
+      "replacement_word": "root",
+      "display_replacement": "root",
+      "similarity": 0.1538
     }
   ]
 }
