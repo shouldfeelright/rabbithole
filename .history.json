@@ -189,7 +189,8 @@
     "thought": [
       "thinking",
       "intellection",
-      "idea"
+      "idea",
+      "cerebration"
     ],
     "winder": [
       "key"
@@ -5275,6 +5276,14 @@
       "replacement_word": "quicken",
       "display_replacement": "quickening",
       "similarity": 0.2222
+    },
+    {
+      "timestamp": "2026-09-05T08:15:46.825148Z",
+      "index": 58,
+      "original_word": "thought",
+      "replacement_word": "cerebration",
+      "display_replacement": "cerebration",
+      "similarity": 0.6154
     }
   ]
 }
