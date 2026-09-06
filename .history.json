@@ -1242,6 +1242,9 @@
     ],
     "end": [
       "destruction"
+    ],
+    "stage": [
+      "phase"
     ]
   },
   "changes": [
@@ -5337,6 +5340,14 @@
       "replacement_word": "destruction",
       "display_replacement": "destruction",
       "similarity": 0.1176
+    },
+    {
+      "timestamp": "2026-09-06T08:34:26.437214Z",
+      "index": 2188,
+      "original_word": "stage",
+      "replacement_word": "phase",
+      "display_replacement": "phase",
+      "similarity": 1.0
     }
   ]
 }
