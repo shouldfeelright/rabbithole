@@ -1233,6 +1233,9 @@
     ],
     "theme": [
       "root"
+    ],
+    "encountering": [
+      "receive"
     ]
   },
   "changes": [
@@ -5304,6 +5307,14 @@
       "replacement_word": "root",
       "display_replacement": "root",
       "similarity": 0.1538
+    },
+    {
+      "timestamp": "2026-09-06T08:34:09.271389Z",
+      "index": 2107,
+      "original_word": "encountering",
+      "replacement_word": "receive",
+      "display_replacement": "receiving",
+      "similarity": 0.4
     }
   ]
 }
