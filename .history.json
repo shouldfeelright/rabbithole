@@ -1236,6 +1236,9 @@
     ],
     "encountering": [
       "receive"
+    ],
+    "beds": [
+      "bed"
     ]
   },
   "changes": [
@@ -5315,6 +5318,14 @@
       "replacement_word": "receive",
       "display_replacement": "receiving",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-09-06T08:34:14.961402Z",
+      "index": 1524,
+      "original_word": "beds",
+      "replacement_word": "bed",
+      "display_replacement": "bed",
+      "similarity": 1.0
     }
   ]
 }
