@@ -1239,6 +1239,9 @@
     ],
     "beds": [
       "bed"
+    ],
+    "end": [
+      "destruction"
     ]
   },
   "changes": [
@@ -5326,6 +5329,14 @@
       "replacement_word": "bed",
       "display_replacement": "bed",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-09-06T08:34:20.452976Z",
+      "index": 589,
+      "original_word": "end",
+      "replacement_word": "destruction",
+      "display_replacement": "destruction",
+      "similarity": 0.1176
     }
   ]
 }
