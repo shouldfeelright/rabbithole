@@ -589,7 +589,8 @@
       "take"
     ],
     "earth": [
-      "world"
+      "world",
+      "globe"
     ],
     "house": [
       "menage"
@@ -5379,6 +5380,14 @@
       "replacement_word": "redeem",
       "display_replacement": "redeemed",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-09-08T08:46:55.840715Z",
+      "index": 758,
+      "original_word": "earth",
+      "replacement_word": "globe",
+      "display_replacement": "globe",
+      "similarity": 1.0
     }
   ]
 }
