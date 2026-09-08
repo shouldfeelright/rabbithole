@@ -1249,6 +1249,9 @@
     ],
     "analysed": [
       "study"
+    ],
+    "saved": [
+      "redeem"
     ]
   },
   "changes": [
@@ -5368,6 +5371,14 @@
       "replacement_word": "study",
       "display_replacement": "studied",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-09-08T08:46:50.008832Z",
+      "index": 899,
+      "original_word": "saved",
+      "replacement_word": "redeem",
+      "display_replacement": "redeemed",
+      "similarity": 0.3333
     }
   ]
 }
