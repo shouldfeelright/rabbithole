@@ -1256,6 +1256,9 @@
     ],
     "expecting": [
       "ask"
+    ],
+    "experiencing": [
+      "know"
     ]
   },
   "changes": [
@@ -5399,6 +5402,14 @@
       "replacement_word": "ask",
       "display_replacement": "asking",
       "similarity": 0.2222
+    },
+    {
+      "timestamp": "2026-09-09T08:52:58.740432Z",
+      "index": 2097,
+      "original_word": "experiencing",
+      "replacement_word": "know",
+      "display_replacement": "knowing",
+      "similarity": 0.3333
     }
   ]
 }
