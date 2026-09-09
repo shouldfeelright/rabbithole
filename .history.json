@@ -1253,6 +1253,9 @@
     ],
     "saved": [
       "redeem"
+    ],
+    "expecting": [
+      "ask"
     ]
   },
   "changes": [
@@ -5388,6 +5391,14 @@
       "replacement_word": "globe",
       "display_replacement": "globe",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-09-09T08:52:52.751405Z",
+      "index": 2536,
+      "original_word": "expecting",
+      "replacement_word": "ask",
+      "display_replacement": "asking",
+      "similarity": 0.2222
     }
   ]
 }
