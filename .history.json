@@ -1259,6 +1259,9 @@
     ],
     "experiencing": [
       "know"
+    ],
+    "personified": [
+      "personate"
     ]
   },
   "changes": [
@@ -5410,6 +5413,14 @@
       "replacement_word": "know",
       "display_replacement": "knowing",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-09-09T08:53:04.349366Z",
+      "index": 1151,
+      "original_word": "personified",
+      "replacement_word": "personate",
+      "display_replacement": "personated",
+      "similarity": 0.4444
     }
   ]
 }
