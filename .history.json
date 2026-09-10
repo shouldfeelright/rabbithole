@@ -1266,6 +1266,9 @@
     ],
     "feet": [
       "foot"
+    ],
+    "xv": [
+      "15"
     ]
   },
   "changes": [
@@ -5440,6 +5443,14 @@
       "original_word": "feet",
       "replacement_word": "foot",
       "display_replacement": "foot",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-09-10T08:52:01.149703Z",
+      "index": 1449,
+      "original_word": "XV",
+      "replacement_word": "15",
+      "display_replacement": "15",
       "similarity": 1.0
     }
   ]
