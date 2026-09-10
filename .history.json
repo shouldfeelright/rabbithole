@@ -1177,7 +1177,8 @@
       "pass"
     ],
     "really": [
-      "genuinely"
+      "genuinely",
+      "truly"
     ],
     "materialised": [
       "materialise"
@@ -5421,6 +5422,14 @@
       "replacement_word": "personate",
       "display_replacement": "personated",
       "similarity": 0.4444
+    },
+    {
+      "timestamp": "2026-09-10T08:51:49.457894Z",
+      "index": 1624,
+      "original_word": "really",
+      "replacement_word": "truly",
+      "display_replacement": "truly",
+      "similarity": 1.0
     }
   ]
 }
