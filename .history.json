@@ -1263,6 +1263,9 @@
     ],
     "personified": [
       "personate"
+    ],
+    "feet": [
+      "foot"
     ]
   },
   "changes": [
@@ -5429,6 +5432,14 @@
       "original_word": "really",
       "replacement_word": "truly",
       "display_replacement": "truly",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-09-10T08:51:55.338688Z",
+      "index": 1168,
+      "original_word": "feet",
+      "replacement_word": "foot",
+      "display_replacement": "foot",
       "similarity": 1.0
     }
   ]
