@@ -1269,6 +1269,9 @@
     ],
     "xv": [
       "15"
+    ],
+    "wish": [
+      "wishing"
     ]
   },
   "changes": [
@@ -5451,6 +5454,14 @@
       "original_word": "XV",
       "replacement_word": "15",
       "display_replacement": "15",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-09-11T08:49:11.283238Z",
+      "index": 1576,
+      "original_word": "wish",
+      "replacement_word": "wishing",
+      "display_replacement": "wishing",
       "similarity": 1.0
     }
   ]
