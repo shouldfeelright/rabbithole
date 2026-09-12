@@ -30,7 +30,8 @@
     ],
     "suddenly": [
       "abruptly",
-      "dead"
+      "dead",
+      "short"
     ],
     "large": [
       "prominent"
@@ -5474,6 +5475,14 @@
       "replacement_word": "leaf",
       "display_replacement": "leaf",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-09-12T08:32:58.630325Z",
+      "index": 331,
+      "original_word": "suddenly",
+      "replacement_word": "short",
+      "display_replacement": "short",
+      "similarity": 0.5
     }
   ]
 }
