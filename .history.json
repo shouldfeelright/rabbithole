@@ -1279,6 +1279,9 @@
     ],
     "corresponded": [
       "correspond"
+    ],
+    "redeemed": [
+      "redeem"
     ]
   },
   "changes": [
@@ -5493,6 +5496,14 @@
       "original_word": "corresponded",
       "replacement_word": "correspond",
       "display_replacement": "corresponded",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-09-12T08:33:09.432969Z",
+      "index": 899,
+      "original_word": "redeemed",
+      "replacement_word": "redeem",
+      "display_replacement": "redeemed",
       "similarity": 1.0
     }
   ]
