@@ -1272,6 +1272,9 @@
     ],
     "wish": [
       "wishing"
+    ],
+    "leaves": [
+      "leaf"
     ]
   },
   "changes": [
@@ -5462,6 +5465,14 @@
       "original_word": "wish",
       "replacement_word": "wishing",
       "display_replacement": "wishing",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-09-12T08:32:52.988047Z",
+      "index": 1146,
+      "original_word": "leaves",
+      "replacement_word": "leaf",
+      "display_replacement": "leaf",
       "similarity": 1.0
     }
   ]
