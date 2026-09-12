@@ -1276,6 +1276,9 @@
     ],
     "leaves": [
       "leaf"
+    ],
+    "corresponded": [
+      "correspond"
     ]
   },
   "changes": [
@@ -5483,6 +5486,14 @@
       "replacement_word": "short",
       "display_replacement": "short",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-09-12T08:33:04.011143Z",
+      "index": 1186,
+      "original_word": "corresponded",
+      "replacement_word": "correspond",
+      "display_replacement": "corresponded",
+      "similarity": 1.0
     }
   ]
 }
