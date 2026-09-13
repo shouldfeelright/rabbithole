@@ -1282,6 +1282,9 @@
     ],
     "redeemed": [
       "redeem"
+    ],
+    "person": [
+      "someone"
     ]
   },
   "changes": [
@@ -5505,6 +5508,14 @@
       "replacement_word": "redeem",
       "display_replacement": "redeemed",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-09-13T09:24:38.614123Z",
+      "index": 2355,
+      "original_word": "person",
+      "replacement_word": "someone",
+      "display_replacement": "someone",
+      "similarity": 0.8571
     }
   ]
 }
