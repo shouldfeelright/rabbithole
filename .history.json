@@ -1285,6 +1285,9 @@
     ],
     "person": [
       "someone"
+    ],
+    "seemed": [
+      "appear"
     ]
   },
   "changes": [
@@ -5516,6 +5519,14 @@
       "replacement_word": "someone",
       "display_replacement": "someone",
       "similarity": 0.8571
+    },
+    {
+      "timestamp": "2026-09-13T09:24:44.812206Z",
+      "index": 1174,
+      "original_word": "seemed",
+      "replacement_word": "appear",
+      "display_replacement": "appeared",
+      "similarity": 1.0
     }
   ]
 }
