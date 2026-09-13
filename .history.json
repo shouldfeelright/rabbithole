@@ -1084,7 +1084,8 @@
       "citizenry"
     ],
     "equalled": [
-      "equal"
+      "equal",
+      "equate"
     ],
     "waiting": [
       "look"
@@ -5527,6 +5528,14 @@
       "replacement_word": "appear",
       "display_replacement": "appeared",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-09-13T09:24:49.519327Z",
+      "index": 1221,
+      "original_word": "equalled",
+      "replacement_word": "equate",
+      "display_replacement": "equated",
+      "similarity": 0.2857
     }
   ]
 }
