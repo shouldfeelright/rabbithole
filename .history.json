@@ -147,7 +147,8 @@
       "enounce"
     ],
     "time": [
-      "sentence"
+      "sentence",
+      "metre"
     ],
     "rate": [
       "pace"
@@ -5536,6 +5537,14 @@
       "replacement_word": "equate",
       "display_replacement": "equated",
       "similarity": 0.2857
+    },
+    {
+      "timestamp": "2026-09-13T09:24:57.360757Z",
+      "index": 1674,
+      "original_word": "time",
+      "replacement_word": "metre",
+      "display_replacement": "metre",
+      "similarity": 0.2667
     }
   ]
 }
