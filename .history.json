@@ -1300,6 +1300,9 @@
     ],
     "then": [
       "so"
+    ],
+    "upward": [
+      "upwards"
     ]
   },
   "changes": [
@@ -5587,6 +5590,14 @@
       "replacement_word": "come",
       "display_replacement": "came",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-09-14T09:45:10.902336Z",
+      "index": 1164,
+      "original_word": "upward",
+      "replacement_word": "upwards",
+      "display_replacement": "upwards",
+      "similarity": 1.0
     }
   ]
 }
