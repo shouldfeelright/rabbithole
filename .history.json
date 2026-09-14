@@ -1293,6 +1293,9 @@
     ],
     "existed": [
       "survive"
+    ],
+    "autumn": [
+      "fall"
     ]
   },
   "changes": [
@@ -5556,6 +5559,14 @@
       "replacement_word": "survive",
       "display_replacement": "survived",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-09-14T09:44:53.140925Z",
+      "index": 1150,
+      "original_word": "autumn",
+      "replacement_word": "fall",
+      "display_replacement": "fall",
+      "similarity": 1.0
     }
   ]
 }
