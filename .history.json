@@ -1296,6 +1296,9 @@
     ],
     "autumn": [
       "fall"
+    ],
+    "then": [
+      "so"
     ]
   },
   "changes": [
@@ -5567,6 +5570,14 @@
       "replacement_word": "fall",
       "display_replacement": "fall",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-09-14T09:44:58.972061Z",
+      "index": 706,
+      "original_word": "then",
+      "replacement_word": "so",
+      "display_replacement": "so",
+      "similarity": 0.5
     }
   ]
 }
