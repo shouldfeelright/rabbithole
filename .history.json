@@ -1290,6 +1290,9 @@
     ],
     "seemed": [
       "appear"
+    ],
+    "existed": [
+      "survive"
     ]
   },
   "changes": [
@@ -5545,6 +5548,14 @@
       "replacement_word": "metre",
       "display_replacement": "metre",
       "similarity": 0.2667
+    },
+    {
+      "timestamp": "2026-09-14T09:44:47.184101Z",
+      "index": 2311,
+      "original_word": "existed",
+      "replacement_word": "survive",
+      "display_replacement": "survived",
+      "similarity": 0.5
     }
   ]
 }
