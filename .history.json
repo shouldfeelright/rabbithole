@@ -544,7 +544,8 @@
       "bang"
     ],
     "fall": [
-      "autumn"
+      "autumn",
+      "downfall"
     ],
     "looked": [
       "appear",
@@ -5598,6 +5599,14 @@
       "replacement_word": "upwards",
       "display_replacement": "upwards",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-09-15T09:19:31.117590Z",
+      "index": 584,
+      "original_word": "fall",
+      "replacement_word": "downfall",
+      "display_replacement": "downfall",
+      "similarity": 0.2857
     }
   ]
 }
