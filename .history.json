@@ -1304,6 +1304,9 @@
     ],
     "upward": [
       "upwards"
+    ],
+    "lapin": [
+      "rabbit"
     ]
   },
   "changes": [
@@ -5607,6 +5610,14 @@
       "replacement_word": "downfall",
       "display_replacement": "downfall",
       "similarity": 0.2857
+    },
+    {
+      "timestamp": "2026-09-15T09:19:36.038198Z",
+      "index": 151,
+      "original_word": "lapin",
+      "replacement_word": "rabbit",
+      "display_replacement": "rabbit",
+      "similarity": 0.1667
     }
   ]
 }
