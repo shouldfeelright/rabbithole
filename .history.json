@@ -1307,6 +1307,9 @@
     ],
     "lapin": [
       "rabbit"
+    ],
+    "genuinely": [
+      "really"
     ]
   },
   "changes": [
@@ -5618,6 +5621,14 @@
       "replacement_word": "rabbit",
       "display_replacement": "rabbit",
       "similarity": 0.1667
+    },
+    {
+      "timestamp": "2026-09-15T09:19:40.820451Z",
+      "index": 1727,
+      "original_word": "genuinely",
+      "replacement_word": "really",
+      "display_replacement": "really",
+      "similarity": 1.0
     }
   ]
 }
