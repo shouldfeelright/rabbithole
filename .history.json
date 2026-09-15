@@ -1310,6 +1310,9 @@
     ],
     "genuinely": [
       "really"
+    ],
+    "dress": [
+      "apparel"
     ]
   },
   "changes": [
@@ -5629,6 +5632,14 @@
       "replacement_word": "really",
       "display_replacement": "really",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-09-15T09:19:45.745300Z",
+      "index": 1745,
+      "original_word": "dress",
+      "replacement_word": "apparel",
+      "display_replacement": "apparel",
+      "similarity": 0.8421
     }
   ]
 }
