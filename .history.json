@@ -1233,7 +1233,8 @@
       "wilderness"
     ],
     "birthed": [
-      "birth"
+      "birth",
+      "have"
     ],
     "sat": [
       "Sabbatum"
@@ -5658,6 +5659,14 @@
       "replacement_word": "manage",
       "display_replacement": "manage",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-09-16T09:12:41.499890Z",
+      "index": 1089,
+      "original_word": "birthed",
+      "replacement_word": "have",
+      "display_replacement": "had",
+      "similarity": 0.3333
     }
   ]
 }
