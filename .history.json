@@ -237,7 +237,8 @@
       "behave",
       "practise",
       "coiffure",
-      "dress"
+      "dress",
+      "manage"
     ],
     "did": [
       "behave",
@@ -5649,6 +5650,14 @@
       "replacement_word": "fall",
       "display_replacement": "falling",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-09-16T09:12:36.737443Z",
+      "index": 915,
+      "original_word": "do",
+      "replacement_word": "manage",
+      "display_replacement": "manage",
+      "similarity": 0.4
     }
   ]
 }
