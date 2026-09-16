@@ -790,7 +790,8 @@
       "way"
     ],
     "falling": [
-      "pass"
+      "pass",
+      "fall"
     ],
     "leave": [
       "lead"
@@ -5640,6 +5641,14 @@
       "replacement_word": "apparel",
       "display_replacement": "apparel",
       "similarity": 0.8421
+    },
+    {
+      "timestamp": "2026-09-16T09:12:31.753842Z",
+      "index": 347,
+      "original_word": "falling",
+      "replacement_word": "fall",
+      "display_replacement": "falling",
+      "similarity": 1.0
     }
   ]
 }
