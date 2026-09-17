@@ -258,7 +258,8 @@
       "lamb"
     ],
     "begun": [
-      "begin"
+      "begin",
+      "start"
     ],
     "fancy": [
       "fantasy"
@@ -5678,6 +5679,14 @@
       "replacement_word": "verity",
       "display_replacement": "verity",
       "similarity": 0.2857
+    },
+    {
+      "timestamp": "2026-09-17T09:21:00.851109Z",
+      "index": 1091,
+      "original_word": "begun",
+      "replacement_word": "start",
+      "display_replacement": "started",
+      "similarity": 1.0
     }
   ]
 }
