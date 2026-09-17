@@ -5,7 +5,8 @@
       "comprise",
       "cost",
       "exist",
-      "equal"
+      "equal",
+      "constitute"
     ],
     "there": [
       "thither"
@@ -5687,6 +5688,14 @@
       "replacement_word": "start",
       "display_replacement": "started",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-09-17T09:21:06.812085Z",
+      "index": 50,
+      "original_word": "is",
+      "replacement_word": "constitute",
+      "display_replacement": "constitutes",
+      "similarity": 0.5
     }
   ]
 }
