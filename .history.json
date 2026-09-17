@@ -1316,6 +1316,9 @@
     ],
     "dress": [
       "apparel"
+    ],
+    "truth": [
+      "verity"
     ]
   },
   "changes": [
@@ -5667,6 +5670,14 @@
       "replacement_word": "have",
       "display_replacement": "had",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-09-17T09:20:54.742855Z",
+      "index": 1119,
+      "original_word": "truth",
+      "replacement_word": "verity",
+      "display_replacement": "verity",
+      "similarity": 0.2857
     }
   ]
 }
