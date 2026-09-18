@@ -61,7 +61,8 @@
       "short",
       "small",
       "lilliputian",
-      "niggling"
+      "niggling",
+      "piffling"
     ],
     "tried": [
       "examine",
@@ -5707,6 +5708,14 @@
       "replacement_word": "doorsill",
       "display_replacement": "doorsill",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-09-18T08:56:30.265173Z",
+      "index": 1566,
+      "original_word": "little",
+      "replacement_word": "piffling",
+      "display_replacement": "piffling",
+      "similarity": 0.5
     }
   ]
 }
