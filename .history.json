@@ -1321,6 +1321,9 @@
     ],
     "truth": [
       "verity"
+    ],
+    "doorstep": [
+      "doorsill"
     ]
   },
   "changes": [
@@ -5696,6 +5699,14 @@
       "replacement_word": "constitute",
       "display_replacement": "constitutes",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-09-18T08:56:24.732487Z",
+      "index": 1638,
+      "original_word": "doorstep",
+      "replacement_word": "doorsill",
+      "display_replacement": "doorsill",
+      "similarity": 1.0
     }
   ]
 }
