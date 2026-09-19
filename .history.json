@@ -1329,6 +1329,9 @@
     ],
     "surely": [
       "certainly"
+    ],
+    "appeared": [
+      "appear"
     ]
   },
   "changes": [
@@ -5735,6 +5738,14 @@
       "original_word": "surely",
       "replacement_word": "certainly",
       "display_replacement": "certainly",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-09-19T08:43:18.298390Z",
+      "index": 1174,
+      "original_word": "appeared",
+      "replacement_word": "appear",
+      "display_replacement": "appeared",
       "similarity": 1.0
     }
   ]
