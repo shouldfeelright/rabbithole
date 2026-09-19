@@ -35,7 +35,8 @@
       "short"
     ],
     "large": [
-      "prominent"
+      "prominent",
+      "turgid"
     ],
     "way": [
       "agency",
@@ -5715,6 +5716,14 @@
       "original_word": "little",
       "replacement_word": "piffling",
       "display_replacement": "piffling",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-09-19T08:43:07.432638Z",
+      "index": 1400,
+      "original_word": "large",
+      "replacement_word": "turgid",
+      "display_replacement": "turgid",
       "similarity": 0.5
     }
   ]
