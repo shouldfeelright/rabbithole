@@ -1332,6 +1332,9 @@
     ],
     "appeared": [
       "appear"
+    ],
+    "walk": [
+      "walking"
     ]
   },
   "changes": [
@@ -5746,6 +5749,14 @@
       "original_word": "appeared",
       "replacement_word": "appear",
       "display_replacement": "appeared",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-09-19T08:43:23.707798Z",
+      "index": 772,
+      "original_word": "walk",
+      "replacement_word": "walking",
+      "display_replacement": "walking",
       "similarity": 1.0
     }
   ]
