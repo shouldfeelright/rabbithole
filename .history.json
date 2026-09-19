@@ -1326,6 +1326,9 @@
     ],
     "doorstep": [
       "doorsill"
+    ],
+    "surely": [
+      "certainly"
     ]
   },
   "changes": [
@@ -5725,6 +5728,14 @@
       "replacement_word": "turgid",
       "display_replacement": "turgid",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-09-19T08:43:12.935098Z",
+      "index": 1686,
+      "original_word": "surely",
+      "replacement_word": "certainly",
+      "display_replacement": "certainly",
+      "similarity": 1.0
     }
   ]
 }
