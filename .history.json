@@ -1336,6 +1336,9 @@
     ],
     "walk": [
       "walking"
+    ],
+    "cost": [
+      "price"
     ]
   },
   "changes": [
@@ -5767,6 +5770,14 @@
       "replacement_word": "nighttime",
       "display_replacement": "nighttime",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-09-20T09:12:08.473194Z",
+      "index": 2082,
+      "original_word": "cost",
+      "replacement_word": "price",
+      "display_replacement": "price",
+      "similarity": 0.2857
     }
   ]
 }
