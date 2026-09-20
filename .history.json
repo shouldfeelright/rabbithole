@@ -495,7 +495,8 @@
       "joy"
     ],
     "dark": [
-      "darkness"
+      "darkness",
+      "nighttime"
     ],
     "gladiola": [
       "glad"
@@ -5758,6 +5759,14 @@
       "replacement_word": "walking",
       "display_replacement": "walking",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-09-20T09:12:02.971225Z",
+      "index": 1181,
+      "original_word": "dark",
+      "replacement_word": "nighttime",
+      "display_replacement": "nighttime",
+      "similarity": 0.3333
     }
   ]
 }
