@@ -1348,6 +1348,9 @@
     ],
     "pin": [
       "thole"
+    ],
+    "got": [
+      "develop"
     ]
   },
   "changes": [
@@ -5827,6 +5830,14 @@
       "replacement_word": "thole",
       "display_replacement": "thole",
       "similarity": 0.5263
+    },
+    {
+      "timestamp": "2026-09-21T09:49:14.659995Z",
+      "index": 2132,
+      "original_word": "got",
+      "replacement_word": "develop",
+      "display_replacement": "developed",
+      "similarity": 0.4
     }
   ]
 }
