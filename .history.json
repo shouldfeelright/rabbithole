@@ -44,7 +44,8 @@
       "manner",
       "style",
       "room",
-      "mode"
+      "mode",
+      "means"
     ],
     "moment": [
       "minute",
@@ -5807,6 +5808,14 @@
       "replacement_word": "dorm",
       "display_replacement": "dorm",
       "similarity": 0.5556
+    },
+    {
+      "timestamp": "2026-09-21T09:49:05.979305Z",
+      "index": 2476,
+      "original_word": "way",
+      "replacement_word": "means",
+      "display_replacement": "means",
+      "similarity": 0.3333
     }
   ]
 }
