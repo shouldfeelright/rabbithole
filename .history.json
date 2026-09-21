@@ -358,7 +358,8 @@
       "attractively"
     ],
     "hall": [
-      "hallway"
+      "hallway",
+      "dorm"
     ],
     "killing": [
       "down"
@@ -5798,6 +5799,14 @@
       "replacement_word": "ambit",
       "display_replacement": "ambit",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-09-21T09:49:01.545861Z",
+      "index": 1517,
+      "original_word": "hall",
+      "replacement_word": "dorm",
+      "display_replacement": "dorm",
+      "similarity": 0.5556
     }
   ]
 }
