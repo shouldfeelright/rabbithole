@@ -1345,6 +1345,9 @@
     ],
     "scope": [
       "ambit"
+    ],
+    "pin": [
+      "thole"
     ]
   },
   "changes": [
@@ -5816,6 +5819,14 @@
       "replacement_word": "means",
       "display_replacement": "means",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-09-21T09:49:10.182667Z",
+      "index": 1143,
+      "original_word": "pin",
+      "replacement_word": "thole",
+      "display_replacement": "thole",
+      "similarity": 0.5263
     }
   ]
 }
