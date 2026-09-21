@@ -1340,6 +1340,9 @@
     ],
     "cost": [
       "price"
+    ],
+    "scope": [
+      "ambit"
     ]
   },
   "changes": [
@@ -5787,6 +5790,14 @@
       "replacement_word": "wear",
       "display_replacement": "worn",
       "similarity": 0.25
+    },
+    {
+      "timestamp": "2026-09-21T09:48:56.698581Z",
+      "index": 1583,
+      "original_word": "scope",
+      "replacement_word": "ambit",
+      "display_replacement": "ambit",
+      "similarity": 1.0
     }
   ]
 }
