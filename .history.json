@@ -1351,6 +1351,9 @@
     ],
     "got": [
       "develop"
+    ],
+    "game": [
+      "biz"
     ]
   },
   "changes": [
@@ -5838,6 +5841,14 @@
       "replacement_word": "develop",
       "display_replacement": "developed",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-09-22T09:12:45.443506Z",
+      "index": 2298,
+      "original_word": "game",
+      "replacement_word": "biz",
+      "display_replacement": "biz",
+      "similarity": 0.8
     }
   ]
 }
