@@ -1361,6 +1361,9 @@
     ],
     "passion": [
       "mania"
+    ],
+    "idea": [
+      "estimation"
     ]
   },
   "changes": [
@@ -5880,6 +5883,14 @@
       "replacement_word": "capitulum",
       "display_replacement": "capitulum",
       "similarity": 0.25
+    },
+    {
+      "timestamp": "2026-09-23T09:13:32.006407Z",
+      "index": 723,
+      "original_word": "idea",
+      "replacement_word": "estimation",
+      "display_replacement": "estimation",
+      "similarity": 0.2857
     }
   ]
 }
