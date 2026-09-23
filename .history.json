@@ -1357,6 +1357,9 @@
     ],
     "discharged": [
       "free"
+    ],
+    "passion": [
+      "mania"
     ]
   },
   "changes": [
@@ -5860,6 +5863,14 @@
       "replacement_word": "free",
       "display_replacement": "freed",
       "similarity": 0.25
+    },
+    {
+      "timestamp": "2026-09-23T09:13:22.528506Z",
+      "index": 828,
+      "original_word": "passion",
+      "replacement_word": "mania",
+      "display_replacement": "mania",
+      "similarity": 0.3333
     }
   ]
 }
