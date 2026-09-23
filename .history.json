@@ -1354,6 +1354,9 @@
     ],
     "game": [
       "biz"
+    ],
+    "discharged": [
+      "free"
     ]
   },
   "changes": [
@@ -5849,6 +5852,14 @@
       "replacement_word": "biz",
       "display_replacement": "biz",
       "similarity": 0.8
+    },
+    {
+      "timestamp": "2026-09-23T09:13:17.674125Z",
+      "index": 2570,
+      "original_word": "discharged",
+      "replacement_word": "free",
+      "display_replacement": "freed",
+      "similarity": 0.25
     }
   ]
 }
