@@ -764,7 +764,8 @@
     ],
     "round": [
       "rung",
-      "troll"
+      "troll",
+      "cycle"
     ],
     "followed": [
       "trace"
@@ -5900,6 +5901,14 @@
       "replacement_word": "vestibule",
       "display_replacement": "vestibule",
       "similarity": 0.5263
+    },
+    {
+      "timestamp": "2026-09-24T09:11:25.116694Z",
+      "index": 1299,
+      "original_word": "round",
+      "replacement_word": "cycle",
+      "display_replacement": "cycle",
+      "similarity": 0.1429
     }
   ]
 }
