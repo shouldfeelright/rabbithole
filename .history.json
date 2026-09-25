@@ -1366,6 +1366,9 @@
     ],
     "idea": [
       "estimation"
+    ],
+    "knowing": [
+      "recognize"
     ]
   },
   "changes": [
@@ -5909,6 +5912,14 @@
       "replacement_word": "cycle",
       "display_replacement": "cycle",
       "similarity": 0.1429
+    },
+    {
+      "timestamp": "2026-09-25T09:30:58.032712Z",
+      "index": 2097,
+      "original_word": "knowing",
+      "replacement_word": "recognize",
+      "display_replacement": "recognizing",
+      "similarity": 0.2857
     }
   ]
 }
