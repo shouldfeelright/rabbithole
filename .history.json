@@ -1374,6 +1374,9 @@
     ],
     "price": [
       "toll"
+    ],
+    "equal": [
+      "adequate"
     ]
   },
   "changes": [
@@ -5949,6 +5952,14 @@
       "replacement_word": "terminal",
       "display_replacement": "terminal",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-09-27T09:55:54.462755Z",
+      "index": 102,
+      "original_word": "equal",
+      "replacement_word": "adequate",
+      "display_replacement": "adequate",
+      "similarity": 0.5
     }
   ]
 }
