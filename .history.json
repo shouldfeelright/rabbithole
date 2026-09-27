@@ -1370,6 +1370,9 @@
     ],
     "knowing": [
       "recognize"
+    ],
+    "price": [
+      "toll"
     ]
   },
   "changes": [
@@ -5929,6 +5932,14 @@
       "replacement_word": "proceed",
       "display_replacement": "proceeded",
       "similarity": 0.25
+    },
+    {
+      "timestamp": "2026-09-27T09:55:44.099914Z",
+      "index": 2082,
+      "original_word": "price",
+      "replacement_word": "toll",
+      "display_replacement": "toll",
+      "similarity": 0.2222
     }
   ]
 }
