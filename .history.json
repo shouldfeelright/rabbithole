@@ -1377,6 +1377,9 @@
     ],
     "equal": [
       "adequate"
+    ],
+    "wishing": [
+      "wish"
     ]
   },
   "changes": [
@@ -5960,6 +5963,14 @@
       "replacement_word": "adequate",
       "display_replacement": "adequate",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-09-27T09:55:59.886555Z",
+      "index": 1576,
+      "original_word": "wishing",
+      "replacement_word": "wish",
+      "display_replacement": "wishing",
+      "similarity": 1.0
     }
   ]
 }
