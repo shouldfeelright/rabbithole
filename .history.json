@@ -1264,7 +1264,8 @@
       "bed"
     ],
     "end": [
-      "destruction"
+      "destruction",
+      "terminal"
     ],
     "stage": [
       "phase"
@@ -5940,6 +5941,14 @@
       "replacement_word": "toll",
       "display_replacement": "toll",
       "similarity": 0.2222
+    },
+    {
+      "timestamp": "2026-09-27T09:55:49.434950Z",
+      "index": 2039,
+      "original_word": "end",
+      "replacement_word": "terminal",
+      "display_replacement": "terminal",
+      "similarity": 0.4
     }
   ]
 }
