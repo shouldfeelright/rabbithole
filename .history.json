@@ -334,7 +334,8 @@
     ],
     "see": [
       "look",
-      "visit"
+      "visit",
+      "examine"
     ],
     "shortly": [
       "presently"
@@ -5989,6 +5990,14 @@
       "replacement_word": "boxwood",
       "display_replacement": "boxwood",
       "similarity": 0.25
+    },
+    {
+      "timestamp": "2026-09-28T10:45:50.066102Z",
+      "index": 2017,
+      "original_word": "see",
+      "replacement_word": "examine",
+      "display_replacement": "examine",
+      "similarity": 0.4
     }
   ]
 }
