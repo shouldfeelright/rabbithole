@@ -450,7 +450,8 @@
       "ca-ca"
     ],
     "box": [
-      "boxful"
+      "boxful",
+      "boxwood"
     ],
     "scolded": [
       "grumble"
@@ -5980,6 +5981,14 @@
       "replacement_word": "humans",
       "display_replacement": "humans",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-09-28T10:45:44.956792Z",
+      "index": 2366,
+      "original_word": "box",
+      "replacement_word": "boxwood",
+      "display_replacement": "boxwood",
+      "similarity": 0.25
     }
   ]
 }
