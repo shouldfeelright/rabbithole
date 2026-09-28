@@ -185,7 +185,8 @@
       "like"
     ],
     "world": [
-      "earth"
+      "earth",
+      "humans"
     ],
     "get": [
       "acquire",
@@ -5971,6 +5972,14 @@
       "replacement_word": "wish",
       "display_replacement": "wishing",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-09-28T10:45:39.547014Z",
+      "index": 620,
+      "original_word": "world",
+      "replacement_word": "humans",
+      "display_replacement": "humans",
+      "similarity": 0.5
     }
   ]
 }
