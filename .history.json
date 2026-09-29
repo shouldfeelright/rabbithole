@@ -1386,6 +1386,9 @@
     ],
     "wishing": [
       "wish"
+    ],
+    "worry": [
+      "trouble"
     ]
   },
   "changes": [
@@ -6025,6 +6028,14 @@
       "replacement_word": "always",
       "display_replacement": "always",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-09-29T10:33:56.252295Z",
+      "index": 105,
+      "original_word": "worry",
+      "replacement_word": "trouble",
+      "display_replacement": "trouble",
+      "similarity": 0.5333
     }
   ]
 }
