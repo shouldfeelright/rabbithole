@@ -827,7 +827,8 @@
       "friend"
     ],
     "ever": [
-      "e'er"
+      "e'er",
+      "always"
     ],
     "determined": [
       "set"
@@ -6015,6 +6016,14 @@
       "original_word": "do",
       "replacement_word": "act",
       "display_replacement": "act",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-09-29T10:33:51.263673Z",
+      "index": 2096,
+      "original_word": "ever",
+      "replacement_word": "always",
+      "display_replacement": "always",
       "similarity": 0.5
     }
   ]
