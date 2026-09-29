@@ -282,7 +282,8 @@
       "truthful"
     ],
     "presently": [
-      "shortly"
+      "shortly",
+      "soon"
     ],
     "coming": [
       "number"
@@ -5998,6 +5999,14 @@
       "replacement_word": "examine",
       "display_replacement": "examine",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-09-29T10:33:41.188417Z",
+      "index": 743,
+      "original_word": "presently",
+      "replacement_word": "soon",
+      "display_replacement": "soon",
+      "similarity": 1.0
     }
   ]
 }
