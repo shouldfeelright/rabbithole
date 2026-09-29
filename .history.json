@@ -1039,7 +1039,8 @@
     ],
     "good": [
       "full",
-      "sound"
+      "sound",
+      "proficient"
     ],
     "just": [
       "hardly",
@@ -6036,6 +6037,14 @@
       "replacement_word": "trouble",
       "display_replacement": "trouble",
       "similarity": 0.5333
+    },
+    {
+      "timestamp": "2026-09-29T10:34:01.220414Z",
+      "index": 352,
+      "original_word": "good",
+      "replacement_word": "proficient",
+      "display_replacement": "proficient",
+      "similarity": 0.5
     }
   ]
 }
