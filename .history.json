@@ -1396,6 +1396,9 @@
     ],
     "leger": [
       "ledger"
+    ],
+    "twice": [
+      "double"
     ]
   },
   "changes": [
@@ -6082,6 +6085,14 @@
       "original_word": "really",
       "replacement_word": "real",
       "display_replacement": "real",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-09-30T10:24:10.714710Z",
+      "index": 25,
+      "original_word": "twice",
+      "replacement_word": "double",
+      "display_replacement": "double",
       "similarity": 0.5
     }
   ]
