@@ -1390,6 +1390,9 @@
     ],
     "worry": [
       "trouble"
+    ],
+    "leger": [
+      "ledger"
     ]
   },
   "changes": [
@@ -6045,6 +6048,14 @@
       "replacement_word": "proficient",
       "display_replacement": "proficient",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-09-30T10:23:48.294569Z",
+      "index": 31,
+      "original_word": "leger",
+      "replacement_word": "ledger",
+      "display_replacement": "ledger",
+      "similarity": 1.0
     }
   ]
 }
