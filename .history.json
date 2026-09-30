@@ -153,7 +153,8 @@
     "time": [
       "sentence",
       "metre",
-      "clip"
+      "clip",
+      "meter"
     ],
     "rate": [
       "pace"
@@ -6065,6 +6066,14 @@
       "replacement_word": "clip",
       "display_replacement": "clip",
       "similarity": 0.1111
+    },
+    {
+      "timestamp": "2026-09-30T10:23:59.558533Z",
+      "index": 1426,
+      "original_word": "time",
+      "replacement_word": "meter",
+      "display_replacement": "meter",
+      "similarity": 0.2667
     }
   ]
 }
