@@ -152,7 +152,8 @@
     ],
     "time": [
       "sentence",
-      "metre"
+      "metre",
+      "clip"
     ],
     "rate": [
       "pace"
@@ -6056,6 +6057,14 @@
       "replacement_word": "ledger",
       "display_replacement": "ledger",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-09-30T10:23:54.002943Z",
+      "index": 193,
+      "original_word": "time",
+      "replacement_word": "clip",
+      "display_replacement": "clip",
+      "similarity": 0.1111
     }
   ]
 }
