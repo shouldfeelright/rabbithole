@@ -1206,7 +1206,8 @@
     ],
     "really": [
       "genuinely",
-      "truly"
+      "truly",
+      "real"
     ],
     "materialised": [
       "materialise"
@@ -6074,6 +6075,14 @@
       "replacement_word": "meter",
       "display_replacement": "meter",
       "similarity": 0.2667
+    },
+    {
+      "timestamp": "2026-09-30T10:24:05.174997Z",
+      "index": 1727,
+      "original_word": "really",
+      "replacement_word": "real",
+      "display_replacement": "real",
+      "similarity": 0.5
     }
   ]
 }
