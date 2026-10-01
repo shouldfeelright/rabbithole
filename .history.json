@@ -1015,7 +1015,8 @@
       "bump"
     ],
     "seen": [
-      "figure"
+      "figure",
+      "visualise"
     ],
     "poker": [
       "salamander"
@@ -6094,6 +6095,14 @@
       "replacement_word": "double",
       "display_replacement": "double",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-10-01T10:50:49.143262Z",
+      "index": 241,
+      "original_word": "seen",
+      "replacement_word": "visualise",
+      "display_replacement": "visualised",
+      "similarity": 0.2857
     }
   ]
 }
