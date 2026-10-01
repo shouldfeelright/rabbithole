@@ -1400,6 +1400,9 @@
     ],
     "twice": [
       "double"
+    ],
+    "decreased": [
+      "minify"
     ]
   },
   "changes": [
@@ -6102,6 +6105,14 @@
       "original_word": "seen",
       "replacement_word": "visualise",
       "display_replacement": "visualised",
+      "similarity": 0.2857
+    },
+    {
+      "timestamp": "2026-10-01T10:50:54.749077Z",
+      "index": 599,
+      "original_word": "decreased",
+      "replacement_word": "minify",
+      "display_replacement": "minified",
       "similarity": 0.2857
     }
   ]
