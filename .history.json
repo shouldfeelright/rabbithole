@@ -907,7 +907,8 @@
       "beautifully"
     ],
     "doors": [
-      "door"
+      "door",
+      "doorway"
     ],
     "deep": [
       "trench"
@@ -6125,6 +6126,14 @@
       "replacement_word": "formula",
       "display_replacement": "formula",
       "similarity": 0.2857
+    },
+    {
+      "timestamp": "2026-10-01T10:51:05.708474Z",
+      "index": 1386,
+      "original_word": "doors",
+      "replacement_word": "doorway",
+      "display_replacement": "doorway",
+      "similarity": 0.5263
     }
   ]
 }
