@@ -1403,6 +1403,9 @@
     ],
     "decreased": [
       "minify"
+    ],
+    "expression": [
+      "formula"
     ]
   },
   "changes": [
@@ -6113,6 +6116,14 @@
       "original_word": "decreased",
       "replacement_word": "minify",
       "display_replacement": "minified",
+      "similarity": 0.2857
+    },
+    {
+      "timestamp": "2026-10-01T10:51:00.224157Z",
+      "index": 1982,
+      "original_word": "expression",
+      "replacement_word": "formula",
+      "display_replacement": "formula",
       "similarity": 0.2857
     }
   ]
