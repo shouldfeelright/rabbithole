@@ -1205,7 +1205,8 @@
       "size"
     ],
     "passed": [
-      "pass"
+      "pass",
+      "authorize"
     ],
     "really": [
       "genuinely",
@@ -6143,6 +6144,14 @@
       "replacement_word": "function",
       "display_replacement": "functioned",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-10-02T10:24:53.699362Z",
+      "index": 461,
+      "original_word": "passed",
+      "replacement_word": "authorize",
+      "display_replacement": "authorized",
+      "similarity": 0.2222
     }
   ]
 }
