@@ -322,7 +322,8 @@
       "go",
       "choke",
       "fit",
-      "proceed"
+      "proceed",
+      "function"
     ],
     "rules": [
       "principle",
@@ -6134,6 +6135,14 @@
       "replacement_word": "doorway",
       "display_replacement": "doorway",
       "similarity": 0.5263
+    },
+    {
+      "timestamp": "2026-10-02T10:24:48.680493Z",
+      "index": 375,
+      "original_word": "went",
+      "replacement_word": "function",
+      "display_replacement": "functioned",
+      "similarity": 0.5
     }
   ]
 }
