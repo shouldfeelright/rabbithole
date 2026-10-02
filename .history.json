@@ -1412,6 +1412,9 @@
     ],
     "preferably": [
       "sooner"
+    ],
+    "cervix": [
+      "neck"
     ]
   },
   "changes": [
@@ -6163,6 +6166,14 @@
       "replacement_word": "sooner",
       "display_replacement": "sooner",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-10-02T10:25:03.473359Z",
+      "index": 1700,
+      "original_word": "cervix",
+      "replacement_word": "neck",
+      "display_replacement": "neck",
+      "similarity": 1.0
     }
   ]
 }
