@@ -1409,6 +1409,9 @@
     ],
     "expression": [
       "formula"
+    ],
+    "preferably": [
+      "sooner"
     ]
   },
   "changes": [
@@ -6152,6 +6155,14 @@
       "replacement_word": "authorize",
       "display_replacement": "authorized",
       "similarity": 0.2222
+    },
+    {
+      "timestamp": "2026-10-02T10:24:58.546799Z",
+      "index": 788,
+      "original_word": "preferably",
+      "replacement_word": "sooner",
+      "display_replacement": "sooner",
+      "similarity": 0.5
     }
   ]
 }
