@@ -564,7 +564,8 @@
     ],
     "fall": [
       "autumn",
-      "downfall"
+      "downfall",
+      "twilight"
     ],
     "looked": [
       "appear",
@@ -6174,6 +6175,14 @@
       "replacement_word": "neck",
       "display_replacement": "neck",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-10-02T10:25:08.302192Z",
+      "index": 1150,
+      "original_word": "fall",
+      "replacement_word": "twilight",
+      "display_replacement": "twilight",
+      "similarity": 0.2353
     }
   ]
 }
