@@ -935,7 +935,8 @@
     "wonder": [
       "curiosity",
       "admiration",
-      "wonderment"
+      "wonderment",
+      "marvel"
     ],
     "started": [
       "go",
@@ -6203,6 +6204,14 @@
       "replacement_word": "advantageously",
       "display_replacement": "advantageously",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-10-03T09:46:48.497663Z",
+      "index": 750,
+      "original_word": "wonder",
+      "replacement_word": "marvel",
+      "display_replacement": "marvel",
+      "similarity": 0.3077
     }
   ]
 }
