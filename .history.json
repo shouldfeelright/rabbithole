@@ -1416,6 +1416,9 @@
     ],
     "cervix": [
       "neck"
+    ],
+    "mostly": [
+      "largely"
     ]
   },
   "changes": [
@@ -6183,6 +6186,14 @@
       "replacement_word": "twilight",
       "display_replacement": "twilight",
       "similarity": 0.2353
+    },
+    {
+      "timestamp": "2026-10-03T09:46:37.262517Z",
+      "index": 2251,
+      "original_word": "mostly",
+      "replacement_word": "largely",
+      "display_replacement": "largely",
+      "similarity": 1.0
     }
   ]
 }
