@@ -235,7 +235,8 @@
       "easily",
       "good",
       "intimately",
-      "substantially"
+      "substantially",
+      "advantageously"
     ],
     "written": [
       "save"
@@ -6194,6 +6195,14 @@
       "replacement_word": "largely",
       "display_replacement": "largely",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-10-03T09:46:42.921777Z",
+      "index": 76,
+      "original_word": "well",
+      "replacement_word": "advantageously",
+      "display_replacement": "advantageously",
+      "similarity": 0.5
     }
   ]
 }
