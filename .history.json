@@ -1424,6 +1424,9 @@
     ],
     "painting": [
       "picture"
+    ],
+    "hurried": [
+      "hurry"
     ]
   },
   "changes": [
@@ -6223,6 +6226,14 @@
       "replacement_word": "picture",
       "display_replacement": "picture",
       "similarity": 0.7059
+    },
+    {
+      "timestamp": "2026-10-04T10:30:23.024266Z",
+      "index": 221,
+      "original_word": "hurried",
+      "replacement_word": "hurry",
+      "display_replacement": "hurried",
+      "similarity": 1.0
     }
   ]
 }
