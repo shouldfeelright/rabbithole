@@ -1421,6 +1421,9 @@
     ],
     "mostly": [
       "largely"
+    ],
+    "painting": [
+      "picture"
     ]
   },
   "changes": [
@@ -6212,6 +6215,14 @@
       "replacement_word": "marvel",
       "display_replacement": "marvel",
       "similarity": 0.3077
+    },
+    {
+      "timestamp": "2026-10-04T10:30:17.724864Z",
+      "index": 444,
+      "original_word": "painting",
+      "replacement_word": "picture",
+      "display_replacement": "picture",
+      "similarity": 0.7059
     }
   ]
 }
