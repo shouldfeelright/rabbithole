@@ -1427,6 +1427,9 @@
     ],
     "hurried": [
       "hurry"
+    ],
+    "possibly": [
+      "perchance"
     ]
   },
   "changes": [
@@ -6234,6 +6237,14 @@
       "replacement_word": "hurry",
       "display_replacement": "hurried",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-10-04T10:30:28.145824Z",
+      "index": 894,
+      "original_word": "possibly",
+      "replacement_word": "perchance",
+      "display_replacement": "perchance",
+      "similarity": 0.5
     }
   ]
 }
