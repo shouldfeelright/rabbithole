@@ -1430,6 +1430,9 @@
     ],
     "possibly": [
       "perchance"
+    ],
+    "lead": [
+      "hint"
     ]
   },
   "changes": [
@@ -6245,6 +6248,14 @@
       "replacement_word": "perchance",
       "display_replacement": "perchance",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-10-05T11:20:00.682080Z",
+      "index": 2244,
+      "original_word": "lead",
+      "replacement_word": "hint",
+      "display_replacement": "hint",
+      "similarity": 0.2857
     }
   ]
 }
