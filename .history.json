@@ -181,7 +181,8 @@
       "so"
     ],
     "nice": [
-      "gracious"
+      "gracious",
+      "squeamish"
     ],
     "same": [
       "like"
@@ -6267,6 +6268,14 @@
       "replacement_word": "closet",
       "display_replacement": "closet",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-10-05T11:20:12.636094Z",
+      "index": 1782,
+      "original_word": "nice",
+      "replacement_word": "squeamish",
+      "display_replacement": "squeamish",
+      "similarity": 0.5
     }
   ]
 }
