@@ -1437,6 +1437,9 @@
     ],
     "cupboards": [
       "closet"
+    ],
+    "proceeded": [
+      "go"
     ]
   },
   "changes": [
@@ -6276,6 +6279,14 @@
       "replacement_word": "squeamish",
       "display_replacement": "squeamish",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-10-05T11:20:18.115381Z",
+      "index": 1021,
+      "original_word": "proceeded",
+      "replacement_word": "go",
+      "display_replacement": "went",
+      "similarity": 0.25
     }
   ]
 }
