@@ -1440,6 +1440,9 @@
     ],
     "proceeded": [
       "go"
+    ],
+    "curtsy": [
+      "curtsey"
     ]
   },
   "changes": [
@@ -6287,6 +6290,14 @@
       "replacement_word": "go",
       "display_replacement": "went",
       "similarity": 0.25
+    },
+    {
+      "timestamp": "2026-10-05T11:20:23.693326Z",
+      "index": 847,
+      "original_word": "curtsy",
+      "replacement_word": "curtsey",
+      "display_replacement": "curtsey",
+      "similarity": 0.875
     }
   ]
 }
