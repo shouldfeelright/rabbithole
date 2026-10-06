@@ -542,7 +542,8 @@
       "thence",
       "therefore",
       "then",
-      "indeed"
+      "indeed",
+      "thus"
     ],
     "hot": [
       "raging",
@@ -6309,6 +6310,14 @@
       "replacement_word": "utilisation",
       "display_replacement": "utilisation",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-10-06T11:09:23.771519Z",
+      "index": 1970,
+      "original_word": "so",
+      "replacement_word": "thus",
+      "display_replacement": "thus",
+      "similarity": 0.5
     }
   ]
 }
