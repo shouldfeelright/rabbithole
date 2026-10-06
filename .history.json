@@ -1443,6 +1443,9 @@
     ],
     "curtsy": [
       "curtsey"
+    ],
+    "use": [
+      "utilisation"
     ]
   },
   "changes": [
@@ -6298,6 +6301,14 @@
       "replacement_word": "curtsey",
       "display_replacement": "curtsey",
       "similarity": 0.875
+    },
+    {
+      "timestamp": "2026-10-06T11:09:18.777737Z",
+      "index": 52,
+      "original_word": "use",
+      "replacement_word": "utilisation",
+      "display_replacement": "utilisation",
+      "similarity": 1.0
     }
   ]
 }
