@@ -607,7 +607,8 @@
     ],
     "were": [
       "cost",
-      "live"
+      "live",
+      "embody"
     ],
     "discovered": [
       "strike"
@@ -6318,6 +6319,14 @@
       "replacement_word": "thus",
       "display_replacement": "thus",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-10-06T11:09:28.769141Z",
+      "index": 1398,
+      "original_word": "were",
+      "replacement_word": "embody",
+      "display_replacement": "embodied",
+      "similarity": 0.6667
     }
   ]
 }
