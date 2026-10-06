@@ -943,7 +943,8 @@
     ],
     "started": [
       "go",
-      "get"
+      "get",
+      "pop"
     ],
     "opened": [
       "open"
@@ -6327,6 +6328,14 @@
       "replacement_word": "embody",
       "display_replacement": "embodied",
       "similarity": 0.6667
+    },
+    {
+      "timestamp": "2026-10-06T11:09:33.581749Z",
+      "index": 1091,
+      "original_word": "started",
+      "replacement_word": "pop",
+      "display_replacement": "popped",
+      "similarity": 0.3333
     }
   ]
 }
