@@ -1449,6 +1449,9 @@
     ],
     "use": [
       "utilisation"
+    ],
+    "coiffure": [
+      "hairdo"
     ]
   },
   "changes": [
@@ -6336,6 +6339,14 @@
       "replacement_word": "pop",
       "display_replacement": "popped",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-10-06T11:09:38.306268Z",
+      "index": 1040,
+      "original_word": "coiffure",
+      "replacement_word": "hairdo",
+      "display_replacement": "hairdo",
+      "similarity": 1.0
     }
   ]
 }
