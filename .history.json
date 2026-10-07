@@ -1377,7 +1377,8 @@
       "thole"
     ],
     "got": [
-      "develop"
+      "develop",
+      "fix"
     ],
     "game": [
       "biz"
@@ -6355,6 +6356,14 @@
       "original_word": "thought",
       "replacement_word": "sentiment",
       "display_replacement": "sentiment",
+      "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-10-07T10:58:15.720515Z",
+      "index": 2529,
+      "original_word": "got",
+      "replacement_word": "fix",
+      "display_replacement": "fixed",
       "similarity": 0.3333
     }
   ]
