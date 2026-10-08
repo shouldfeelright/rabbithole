@@ -30,7 +30,7 @@ There seemed to be no use in looking by the little doorsill, thence she went bac
 
 It traced all real intimately to enounce ' Drink me, ' but the wise minuscule Alice was not going to apparel THAT in a hurry. ' No, I 'll look first, ' she submitted, ' and visit whether it 's marked `` poison `` or not '; for she gave read several squeamish niggling histories about children who had got burnt, and eaten up by wilderness beasts and former unpleasant affair, all because they WOULD non think the simpleton principle their booster had taught them: such as, that a red-hot poker will tan you if you hold it besides long; and that if you cut your digit VERY deeply with a knife, it usually bleeds; and she consumed never forgotten that, if you beverage much from a bottle marked ' poison, ' it exists almost certain to disagree with you, sooner or later.
 
-yet, this bottle was NOT marked ' poison, ' so Alice ventured to mouthful it, and finding it very gracious, ( it constructed, in fact, a kind of miscellaneous tang of cherry-tart, custard, pineapple, roast turkey, toffee, and raging buttered toast, ) she very soon finished it off.
+yet, this bottle was NOT marked ' poison, ' so Alice ventured to mouthful it, and finding it very gracious, ( it constructed, in fact, a kind of mixed tang of cherry-tart, custard, pineapple, roast turkey, toffee, and raging buttered toast, ) she very soon finished it off.
 
 ' What a curious feeling! ' averred Alice; ' I must be shutting up like a telescope. '
 

@@ -1457,6 +1457,9 @@
     ],
     "lit": [
       "literature"
+    ],
+    "miscellaneous": [
+      "mixed"
     ]
   },
   "changes": [
@@ -6376,6 +6379,14 @@
       "replacement_word": "literature",
       "display_replacement": "literature",
       "similarity": 0.25
+    },
+    {
+      "timestamp": "2026-10-08T11:15:18.701122Z",
+      "index": 1918,
+      "original_word": "miscellaneous",
+      "replacement_word": "mixed",
+      "display_replacement": "mixed",
+      "similarity": 1.0
     }
   ]
 }
