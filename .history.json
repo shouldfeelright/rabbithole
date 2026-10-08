@@ -489,7 +489,8 @@
     ],
     "book": [
       "al-Qur'an",
-      "leger"
+      "leger",
+      "script"
     ],
     "upwardly": [
       "upward"
@@ -6396,6 +6397,14 @@
       "replacement_word": "fatigue",
       "display_replacement": "fatigued",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-10-08T11:15:29.978707Z",
+      "index": 55,
+      "original_word": "book",
+      "replacement_word": "script",
+      "display_replacement": "script",
+      "similarity": 0.1176
     }
   ]
 }
