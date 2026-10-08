@@ -1454,6 +1454,9 @@
     ],
     "coiffure": [
       "hairdo"
+    ],
+    "lit": [
+      "literature"
     ]
   },
   "changes": [
@@ -6365,6 +6368,14 @@
       "replacement_word": "fix",
       "display_replacement": "fixed",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-10-08T11:15:12.816176Z",
+      "index": 1283,
+      "original_word": "lit",
+      "replacement_word": "literature",
+      "display_replacement": "literature",
+      "similarity": 0.25
     }
   ]
 }
