@@ -1462,6 +1462,9 @@
     ],
     "miscellaneous": [
       "mixed"
+    ],
+    "sizable": [
+      "tidy"
     ]
   },
   "changes": [
@@ -6405,6 +6408,14 @@
       "replacement_word": "script",
       "display_replacement": "script",
       "similarity": 0.1176
+    },
+    {
+      "timestamp": "2026-10-08T11:15:35.561960Z",
+      "index": 2354,
+      "original_word": "sizable",
+      "replacement_word": "tidy",
+      "display_replacement": "tidy",
+      "similarity": 0.5
     }
   ]
 }
