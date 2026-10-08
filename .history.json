@@ -452,7 +452,8 @@
     "tired": [
       "tire",
       "jade",
-      "wear"
+      "wear",
+      "fatigue"
     ],
     "make": [
       "prepare",
@@ -6386,6 +6387,14 @@
       "original_word": "miscellaneous",
       "replacement_word": "mixed",
       "display_replacement": "mixed",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-10-08T11:15:24.438575Z",
+      "index": 2203,
+      "original_word": "tired",
+      "replacement_word": "fatigue",
+      "display_replacement": "fatigued",
       "similarity": 1.0
     }
   ]
