@@ -1468,6 +1468,9 @@
     ],
     "climb": [
       "acclivity"
+    ],
+    "dry": [
+      "prohibitionist"
     ]
   },
   "changes": [
@@ -6426,6 +6429,14 @@
       "original_word": "climb",
       "replacement_word": "acclivity",
       "display_replacement": "acclivity",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-10-09T11:14:04.971118Z",
+      "index": 1145,
+      "original_word": "dry",
+      "replacement_word": "prohibitionist",
+      "display_replacement": "prohibitionist",
       "similarity": 1.0
     }
   ]
