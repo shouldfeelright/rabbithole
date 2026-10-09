@@ -1465,6 +1465,9 @@
     ],
     "sizable": [
       "tidy"
+    ],
+    "climb": [
+      "acclivity"
     ]
   },
   "changes": [
@@ -6416,6 +6419,14 @@
       "replacement_word": "tidy",
       "display_replacement": "tidy",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-10-09T11:13:59.073444Z",
+      "index": 2183,
+      "original_word": "climb",
+      "replacement_word": "acclivity",
+      "display_replacement": "acclivity",
+      "similarity": 1.0
     }
   ]
 }
