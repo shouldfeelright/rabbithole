@@ -1478,6 +1478,9 @@
     ],
     "reading": [
       "indication"
+    ],
+    "accepted": [
+      "recognised"
     ]
   },
   "changes": [
@@ -6469,6 +6472,14 @@
       "replacement_word": "indication",
       "display_replacement": "indication",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-10-10T10:31:19.350877Z",
+      "index": 1614,
+      "original_word": "accepted",
+      "replacement_word": "recognised",
+      "display_replacement": "recognised",
+      "similarity": 0.5
     }
   ]
 }
