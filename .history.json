@@ -1167,7 +1167,8 @@
       "doorstep"
     ],
     "tagged": [
-      "tag"
+      "tag",
+      "tail"
     ],
     "soda": [
       "tonic"
@@ -6449,6 +6450,14 @@
       "replacement_word": "classroom",
       "display_replacement": "classroom",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-10-10T10:31:08.624169Z",
+      "index": 465,
+      "original_word": "tagged",
+      "replacement_word": "tail",
+      "display_replacement": "tailed",
+      "similarity": 0.25
     }
   ]
 }
