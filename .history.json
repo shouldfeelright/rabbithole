@@ -1475,6 +1475,9 @@
     ],
     "schoolroom": [
       "classroom"
+    ],
+    "reading": [
+      "indication"
     ]
   },
   "changes": [
@@ -6458,6 +6461,14 @@
       "replacement_word": "tail",
       "display_replacement": "tailed",
       "similarity": 0.25
+    },
+    {
+      "timestamp": "2026-10-10T10:31:14.031520Z",
+      "index": 35,
+      "original_word": "reading",
+      "replacement_word": "indication",
+      "display_replacement": "indication",
+      "similarity": 0.3333
     }
   ]
 }

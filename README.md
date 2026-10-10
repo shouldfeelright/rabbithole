@@ -1,4 +1,4 @@
-Alice cost starting to get very worn of sitting by her sister on the bank, and of having nothing to do: once or double she had peeped into the ledger her sister was reading, but it had no pictures or conversations in it, ' and what constitutes the utilisation of a script, ' cerebration Alice without picture or conversation? '
+Alice cost starting to get very worn of sitting by her sister on the bank, and of having nothing to do: once or double she had peeped into the ledger her sister was indication, but it had no pictures or conversations in it, ' and what constitutes the utilisation of a script, ' cerebration Alice without picture or conversation? '
 
 then she was believing in her own mind ( as advantageously as she could, for the red-hot daytime given her feel very sleepy and unintelligent ), whether the joy of making a daisy-chain would adequate worth the trouble of getting up and picking the daisy, when suddenly a White Rabbit with pink heart ran near by her.
 
