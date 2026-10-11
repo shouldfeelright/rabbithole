@@ -1481,6 +1481,9 @@
     ],
     "accepted": [
       "recognised"
+    ],
+    "left": [
+      "leftfield"
     ]
   },
   "changes": [
@@ -6480,6 +6483,14 @@
       "replacement_word": "recognised",
       "display_replacement": "recognised",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-10-11T10:43:25.492257Z",
+      "index": 2350,
+      "original_word": "left",
+      "replacement_word": "leftfield",
+      "display_replacement": "leftfield",
+      "similarity": 0.5333
     }
   ]
 }
