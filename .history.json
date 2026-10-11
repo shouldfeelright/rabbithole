@@ -1487,6 +1487,9 @@
     ],
     "map": [
       "mapping"
+    ],
+    "nominated": [
+      "name"
     ]
   },
   "changes": [
@@ -6502,6 +6505,14 @@
       "replacement_word": "mapping",
       "display_replacement": "mapping",
       "similarity": 0.1538
+    },
+    {
+      "timestamp": "2026-10-11T10:43:34.952706Z",
+      "index": 1356,
+      "original_word": "nominated",
+      "replacement_word": "name",
+      "display_replacement": "named",
+      "similarity": 0.2222
     }
   ]
 }
