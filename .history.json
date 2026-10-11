@@ -1484,6 +1484,9 @@
     ],
     "left": [
       "leftfield"
+    ],
+    "map": [
+      "mapping"
     ]
   },
   "changes": [
@@ -6491,6 +6494,14 @@
       "replacement_word": "leftfield",
       "display_replacement": "leftfield",
       "similarity": 0.5333
+    },
+    {
+      "timestamp": "2026-10-11T10:43:30.379371Z",
+      "index": 442,
+      "original_word": "map",
+      "replacement_word": "mapping",
+      "display_replacement": "mapping",
+      "similarity": 0.1538
     }
   ]
 }
