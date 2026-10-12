@@ -1493,6 +1493,9 @@
     ],
     "therefore": [
       "hence"
+    ],
+    "zero": [
+      "zippo"
     ]
   },
   "changes": [
@@ -6523,6 +6526,14 @@
       "original_word": "therefore",
       "replacement_word": "hence",
       "display_replacement": "hence",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-10-12T11:49:03.814896Z",
+      "index": 530,
+      "original_word": "zero",
+      "replacement_word": "zippo",
+      "display_replacement": "zippo",
       "similarity": 1.0
     }
   ]
