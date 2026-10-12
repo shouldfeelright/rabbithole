@@ -1490,6 +1490,9 @@
     ],
     "nominated": [
       "name"
+    ],
+    "therefore": [
+      "hence"
     ]
   },
   "changes": [
@@ -6513,6 +6516,14 @@
       "replacement_word": "name",
       "display_replacement": "named",
       "similarity": 0.2222
+    },
+    {
+      "timestamp": "2026-10-12T11:48:57.834506Z",
+      "index": 330,
+      "original_word": "therefore",
+      "replacement_word": "hence",
+      "display_replacement": "hence",
+      "similarity": 1.0
     }
   ]
 }
