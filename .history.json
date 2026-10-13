@@ -471,7 +471,8 @@
     ],
     "hand": [
       "paw",
-      "manus"
+      "manus",
+      "mitt"
     ],
     "noticed": [
       "discover"
@@ -6544,6 +6545,14 @@
       "replacement_word": "drop",
       "display_replacement": "drop",
       "similarity": 0.2857
+    },
+    {
+      "timestamp": "2026-10-13T11:36:54.015263Z",
+      "index": 1098,
+      "original_word": "hand",
+      "replacement_word": "mitt",
+      "display_replacement": "mitt",
+      "similarity": 1.0
     }
   ]
 }
