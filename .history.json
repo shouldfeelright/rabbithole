@@ -1144,7 +1144,8 @@
       "burrow"
     ],
     "small": [
-      "modest"
+      "modest",
+      "minor"
     ],
     "lilliputian": [
       "tiny"
@@ -6562,6 +6563,14 @@
       "replacement_word": "rumble",
       "display_replacement": "rumbled",
       "similarity": 0.2857
+    },
+    {
+      "timestamp": "2026-10-13T11:37:05.949182Z",
+      "index": 2384,
+      "original_word": "small",
+      "replacement_word": "minor",
+      "display_replacement": "minor",
+      "similarity": 0.5
     }
   ]
 }
