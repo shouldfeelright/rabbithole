@@ -1209,7 +1209,8 @@
       "toffee"
     ],
     "growled": [
-      "growl"
+      "growl",
+      "rumble"
     ],
     "soul": [
       "mortal"
@@ -6553,6 +6554,14 @@
       "replacement_word": "mitt",
       "display_replacement": "mitt",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-10-13T11:37:00.136427Z",
+      "index": 2270,
+      "original_word": "growled",
+      "replacement_word": "rumble",
+      "display_replacement": "rumbled",
+      "similarity": 0.2857
     }
   ]
 }
