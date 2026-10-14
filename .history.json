@@ -897,7 +897,8 @@
       "household"
     ],
     "auricle": [
-      "ear"
+      "ear",
+      "pinna"
     ],
     "jaded": [
       "tire"
@@ -6571,6 +6572,14 @@
       "replacement_word": "minor",
       "display_replacement": "minor",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-10-14T09:24:40.166391Z",
+      "index": 1239,
+      "original_word": "auricle",
+      "replacement_word": "pinna",
+      "display_replacement": "pinna",
+      "similarity": 0.2
     }
   ]
 }
