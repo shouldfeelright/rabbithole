@@ -501,7 +501,8 @@
     ],
     "going": [
       "choke",
-      "locomote"
+      "locomote",
+      "function"
     ],
     "be": [
       "comprise",
@@ -6589,6 +6590,14 @@
       "replacement_word": "look",
       "display_replacement": "looked",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-10-14T09:24:52.658716Z",
+      "index": 1743,
+      "original_word": "going",
+      "replacement_word": "function",
+      "display_replacement": "functioning",
+      "similarity": 0.5
     }
   ]
 }
