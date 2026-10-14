@@ -1337,7 +1337,8 @@
       "someone"
     ],
     "seemed": [
-      "appear"
+      "appear",
+      "look"
     ],
     "existed": [
       "survive"
@@ -6580,6 +6581,14 @@
       "replacement_word": "pinna",
       "display_replacement": "pinna",
       "similarity": 0.2
+    },
+    {
+      "timestamp": "2026-10-14T09:24:46.646313Z",
+      "index": 196,
+      "original_word": "seemed",
+      "replacement_word": "look",
+      "display_replacement": "looked",
+      "similarity": 0.4
     }
   ]
 }
