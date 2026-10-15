@@ -1509,6 +1509,9 @@
     ],
     "letters": [
       "missive"
+    ],
+    "hedgerow": [
+      "hedge"
     ]
   },
   "changes": [
@@ -6636,6 +6639,14 @@
       "replacement_word": "missive",
       "display_replacement": "missive",
       "similarity": 0.2222
+    },
+    {
+      "timestamp": "2026-10-15T09:03:11.091841Z",
+      "index": 287,
+      "original_word": "hedgerow",
+      "replacement_word": "hedge",
+      "display_replacement": "hedge",
+      "similarity": 1.0
     }
   ]
 }
