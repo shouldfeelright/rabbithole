@@ -345,7 +345,8 @@
     "see": [
       "look",
       "visit",
-      "examine"
+      "examine",
+      "construe"
     ],
     "shortly": [
       "presently"
@@ -6616,6 +6617,14 @@
       "replacement_word": "set",
       "display_replacement": "set",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-10-15T09:03:00.482518Z",
+      "index": 1059,
+      "original_word": "see",
+      "replacement_word": "construe",
+      "display_replacement": "construe",
+      "similarity": 0.3333
     }
   ]
 }
