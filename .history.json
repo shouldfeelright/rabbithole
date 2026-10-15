@@ -1506,6 +1506,9 @@
     ],
     "zero": [
       "zippo"
+    ],
+    "letters": [
+      "missive"
     ]
   },
   "changes": [
@@ -6625,6 +6628,14 @@
       "replacement_word": "construe",
       "display_replacement": "construe",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-10-15T09:03:05.493522Z",
+      "index": 1722,
+      "original_word": "letters",
+      "replacement_word": "missive",
+      "display_replacement": "missive",
+      "similarity": 0.2222
     }
   ]
 }
