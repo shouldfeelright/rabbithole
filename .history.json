@@ -127,7 +127,8 @@
       "aver"
     ],
     "shutting": [
-      "shut"
+      "shut",
+      "close"
     ],
     "very": [
       "real",
@@ -6598,6 +6599,14 @@
       "replacement_word": "function",
       "display_replacement": "functioning",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-10-15T09:02:50.188099Z",
+      "index": 1667,
+      "original_word": "shutting",
+      "replacement_word": "close",
+      "display_replacement": "closing",
+      "similarity": 1.0
     }
   ]
 }
