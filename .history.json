@@ -1515,6 +1515,9 @@
     ],
     "starting": [
       "get"
+    ],
+    "gave": [
+      "afford"
     ]
   },
   "changes": [
@@ -6658,6 +6661,14 @@
       "replacement_word": "get",
       "display_replacement": "getting",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-10-17T08:27:05.888433Z",
+      "index": 1779,
+      "original_word": "gave",
+      "replacement_word": "afford",
+      "display_replacement": "afforded",
+      "similarity": 0.25
     }
   ]
 }
