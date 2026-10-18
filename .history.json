@@ -1521,6 +1521,9 @@
     ],
     "picking": [
       "pick"
+    ],
+    "altogether": [
+      "whole"
     ]
   },
   "changes": [
@@ -6679,6 +6682,14 @@
       "original_word": "picking",
       "replacement_word": "pick",
       "display_replacement": "picking",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-10-18T08:45:32.255298Z",
+      "index": 2055,
+      "original_word": "altogether",
+      "replacement_word": "whole",
+      "display_replacement": "whole",
       "similarity": 1.0
     }
   ]
