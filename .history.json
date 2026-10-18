@@ -1518,6 +1518,9 @@
     ],
     "gave": [
       "afford"
+    ],
+    "picking": [
+      "pick"
     ]
   },
   "changes": [
@@ -6669,6 +6672,14 @@
       "replacement_word": "afford",
       "display_replacement": "afforded",
       "similarity": 0.25
+    },
+    {
+      "timestamp": "2026-10-18T08:45:27.077176Z",
+      "index": 110,
+      "original_word": "picking",
+      "replacement_word": "pick",
+      "display_replacement": "picking",
+      "similarity": 1.0
     }
   ]
 }
