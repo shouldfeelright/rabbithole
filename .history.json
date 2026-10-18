@@ -1525,6 +1525,9 @@
     ],
     "altogether": [
       "whole"
+    ],
+    "children": [
+      "child"
     ]
   },
   "changes": [
@@ -6700,6 +6703,14 @@
       "replacement_word": "picayune",
       "display_replacement": "picayune",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-10-18T08:45:42.082946Z",
+      "index": 1786,
+      "original_word": "children",
+      "replacement_word": "child",
+      "display_replacement": "child",
+      "similarity": 1.0
     }
   ]
 }
