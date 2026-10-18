@@ -64,7 +64,8 @@
       "small",
       "lilliputian",
       "niggling",
-      "piffling"
+      "piffling",
+      "picayune"
     ],
     "tried": [
       "examine",
@@ -6691,6 +6692,14 @@
       "replacement_word": "whole",
       "display_replacement": "whole",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-10-18T08:45:37.047918Z",
+      "index": 1678,
+      "original_word": "little",
+      "replacement_word": "picayune",
+      "display_replacement": "picayune",
+      "similarity": 0.5
     }
   ]
 }
