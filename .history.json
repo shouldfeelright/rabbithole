@@ -823,7 +823,8 @@
       "scope"
     ],
     "fashion": [
-      "way"
+      "way",
+      "mode"
     ],
     "falling": [
       "pass",
@@ -6733,6 +6734,14 @@
       "replacement_word": "intend",
       "display_replacement": "intending",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-10-19T09:46:07.525919Z",
+      "index": 1032,
+      "original_word": "fashion",
+      "replacement_word": "mode",
+      "display_replacement": "mode",
+      "similarity": 1.0
     }
   ]
 }
