@@ -1531,6 +1531,9 @@
     ],
     "mania": [
       "cacoethes"
+    ],
+    "thinking": [
+      "intend"
     ]
   },
   "changes": [
@@ -6722,6 +6725,14 @@
       "replacement_word": "cacoethes",
       "display_replacement": "cacoethes",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-10-19T09:46:01.677008Z",
+      "index": 733,
+      "original_word": "thinking",
+      "replacement_word": "intend",
+      "display_replacement": "intending",
+      "similarity": 0.3333
     }
   ]
 }
