@@ -1528,6 +1528,9 @@
     ],
     "children": [
       "child"
+    ],
+    "mania": [
+      "cacoethes"
     ]
   },
   "changes": [
@@ -6710,6 +6713,14 @@
       "original_word": "children",
       "replacement_word": "child",
       "display_replacement": "child",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-10-19T09:45:55.693954Z",
+      "index": 828,
+      "original_word": "mania",
+      "replacement_word": "cacoethes",
+      "display_replacement": "cacoethes",
       "similarity": 1.0
     }
   ]
