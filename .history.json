@@ -1536,6 +1536,9 @@
     ],
     "thinking": [
       "intend"
+    ],
+    "corner": [
+      "recession"
     ]
   },
   "changes": [
@@ -6751,6 +6754,14 @@
       "replacement_word": "commence",
       "display_replacement": "commenced",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-10-20T09:18:57.065496Z",
+      "index": 1259,
+      "original_word": "corner",
+      "replacement_word": "recession",
+      "display_replacement": "recession",
+      "similarity": 0.1429
     }
   ]
 }
