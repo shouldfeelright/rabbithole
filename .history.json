@@ -1544,6 +1544,9 @@
     ],
     "remained": [
       "stay"
+    ],
+    "depended": [
+      "reckon"
     ]
   },
   "changes": [
@@ -6791,6 +6794,14 @@
       "replacement_word": "cypher",
       "display_replacement": "cypher",
       "similarity": 0.4615
+    },
+    {
+      "timestamp": "2026-10-23T09:13:54.151481Z",
+      "index": 418,
+      "original_word": "depended",
+      "replacement_word": "reckon",
+      "display_replacement": "reckoned",
+      "similarity": 0.25
     }
   ]
 }
