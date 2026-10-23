@@ -1547,6 +1547,9 @@
     ],
     "depended": [
       "reckon"
+    ],
+    "submitted": [
+      "submit"
     ]
   },
   "changes": [
@@ -6802,6 +6805,14 @@
       "replacement_word": "reckon",
       "display_replacement": "reckoned",
       "similarity": 0.25
+    },
+    {
+      "timestamp": "2026-10-23T09:14:00.861865Z",
+      "index": 1761,
+      "original_word": "submitted",
+      "replacement_word": "submit",
+      "display_replacement": "submitted",
+      "similarity": 1.0
     }
   ]
 }
