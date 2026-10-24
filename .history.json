@@ -1553,6 +1553,9 @@
     ],
     "look": [
       "feel"
+    ],
+    "sight": [
+      "mickle"
     ]
   },
   "changes": [
@@ -6824,6 +6827,14 @@
       "replacement_word": "feel",
       "display_replacement": "feel",
       "similarity": 0.25
+    },
+    {
+      "timestamp": "2026-10-24T08:47:16.997832Z",
+      "index": 1198,
+      "original_word": "sight",
+      "replacement_word": "mickle",
+      "display_replacement": "mickle",
+      "similarity": 0.2667
     }
   ]
 }
