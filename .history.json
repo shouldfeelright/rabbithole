@@ -1550,6 +1550,9 @@
     ],
     "submitted": [
       "submit"
+    ],
+    "look": [
+      "feel"
     ]
   },
   "changes": [
@@ -6813,6 +6816,14 @@
       "replacement_word": "submit",
       "display_replacement": "submitted",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-10-24T08:47:11.845034Z",
+      "index": 378,
+      "original_word": "look",
+      "replacement_word": "feel",
+      "display_replacement": "feel",
+      "similarity": 0.25
     }
   ]
 }
