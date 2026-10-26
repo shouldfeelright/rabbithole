@@ -1556,6 +1556,9 @@
     ],
     "sight": [
       "mickle"
+    ],
+    "boxful": [
+      "box"
     ]
   },
   "changes": [
@@ -6835,6 +6838,14 @@
       "replacement_word": "mickle",
       "display_replacement": "mickle",
       "similarity": 0.2667
+    },
+    {
+      "timestamp": "2026-10-26T09:57:57.180029Z",
+      "index": 2288,
+      "original_word": "boxful",
+      "replacement_word": "box",
+      "display_replacement": "box",
+      "similarity": 0.1429
     }
   ]
 }
