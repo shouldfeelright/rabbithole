@@ -1559,6 +1559,9 @@
     ],
     "boxful": [
       "box"
+    ],
+    "tan": [
+      "tangent"
     ]
   },
   "changes": [
@@ -6846,6 +6849,14 @@
       "replacement_word": "box",
       "display_replacement": "box",
       "similarity": 0.1429
+    },
+    {
+      "timestamp": "2026-10-26T09:58:03.819816Z",
+      "index": 1826,
+      "original_word": "tan",
+      "replacement_word": "tangent",
+      "display_replacement": "tangent",
+      "similarity": 0.4
     }
   ]
 }
