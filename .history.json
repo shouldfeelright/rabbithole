@@ -141,7 +141,8 @@
       "suffer"
     ],
     "right": [
-      "rightfield"
+      "rightfield",
+      "rightfulness"
     ],
     "curtsey": [
       "curtsy"
@@ -6877,6 +6878,14 @@
       "replacement_word": "make",
       "display_replacement": "made",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-10-27T09:42:57.095806Z",
+      "index": 702,
+      "original_word": "right",
+      "replacement_word": "rightfulness",
+      "display_replacement": "rightfulness",
+      "similarity": 0.2353
     }
   ]
 }
