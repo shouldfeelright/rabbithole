@@ -178,7 +178,8 @@
       "accept",
       "get",
       "birth",
-      "receive"
+      "receive",
+      "make"
     ],
     "indeed": [
       "so"
@@ -6868,6 +6869,14 @@
       "replacement_word": "deputation",
       "display_replacement": "deputation",
       "similarity": 0.3636
+    },
+    {
+      "timestamp": "2026-10-27T09:42:52.871003Z",
+      "index": 2528,
+      "original_word": "had",
+      "replacement_word": "make",
+      "display_replacement": "made",
+      "similarity": 0.5
     }
   ]
 }
