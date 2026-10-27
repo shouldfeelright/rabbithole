@@ -1562,6 +1562,9 @@
     ],
     "tan": [
       "tangent"
+    ],
+    "delegacy": [
+      "deputation"
     ]
   },
   "changes": [
@@ -6857,6 +6860,14 @@
       "replacement_word": "tangent",
       "display_replacement": "tangent",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-10-27T09:42:48.344330Z",
+      "index": 2559,
+      "original_word": "delegacy",
+      "replacement_word": "deputation",
+      "display_replacement": "deputation",
+      "similarity": 0.3636
     }
   ]
 }
