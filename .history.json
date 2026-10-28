@@ -1573,6 +1573,9 @@
     ],
     "severely": [
       "hard"
+    ],
+    "me": [
+      "Maine"
     ]
   },
   "changes": [
@@ -6908,6 +6911,14 @@
       "replacement_word": "hard",
       "display_replacement": "hard",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-10-28T10:28:25.418047Z",
+      "index": 2393,
+      "original_word": "ME",
+      "replacement_word": "Maine",
+      "display_replacement": "Maine",
+      "similarity": 1.0
     }
   ]
 }
