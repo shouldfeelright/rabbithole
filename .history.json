@@ -1570,6 +1570,9 @@
     ],
     "mortal": [
       "person"
+    ],
+    "severely": [
+      "hard"
     ]
   },
   "changes": [
@@ -6897,6 +6900,14 @@
       "replacement_word": "person",
       "display_replacement": "person",
       "similarity": 0.8571
+    },
+    {
+      "timestamp": "2026-10-28T10:28:19.365583Z",
+      "index": 2273,
+      "original_word": "severely",
+      "replacement_word": "hard",
+      "display_replacement": "hard",
+      "similarity": 0.5
     }
   ]
 }
