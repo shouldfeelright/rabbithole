@@ -1576,6 +1576,9 @@
     ],
     "me": [
       "Maine"
+    ],
+    "devolved": [
+      "fall"
     ]
   },
   "changes": [
@@ -6919,6 +6922,14 @@
       "replacement_word": "Maine",
       "display_replacement": "Maine",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-10-28T10:28:31.348743Z",
+      "index": 559,
+      "original_word": "devolved",
+      "replacement_word": "fall",
+      "display_replacement": "fallen",
+      "similarity": 0.2857
     }
   ]
 }
