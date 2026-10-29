@@ -858,7 +858,8 @@
       "set"
     ],
     "certainly": [
-      "surely"
+      "surely",
+      "sure"
     ],
     "form": [
       "contour"
@@ -6951,6 +6952,14 @@
       "original_word": "oculus",
       "replacement_word": "optic",
       "display_replacement": "optic",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-10-29T10:48:22.015599Z",
+      "index": 1686,
+      "original_word": "certainly",
+      "replacement_word": "sure",
+      "display_replacement": "sure",
       "similarity": 1.0
     }
   ]
