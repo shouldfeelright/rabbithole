@@ -1582,6 +1582,9 @@
     ],
     "pretending": [
       "affect"
+    ],
+    "oculus": [
+      "optic"
     ]
   },
   "changes": [
@@ -6941,6 +6944,14 @@
       "replacement_word": "affect",
       "display_replacement": "affecting",
       "similarity": 0.25
+    },
+    {
+      "timestamp": "2026-10-29T10:48:15.984655Z",
+      "index": 2360,
+      "original_word": "oculus",
+      "replacement_word": "optic",
+      "display_replacement": "optic",
+      "similarity": 1.0
     }
   ]
 }
