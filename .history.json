@@ -1586,6 +1586,9 @@
     ],
     "oculus": [
       "optic"
+    ],
+    "beverage": [
+      "potable"
     ]
   },
   "changes": [
@@ -6960,6 +6963,14 @@
       "original_word": "certainly",
       "replacement_word": "sure",
       "display_replacement": "sure",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-10-30T10:47:15.071427Z",
+      "index": 1861,
+      "original_word": "beverage",
+      "replacement_word": "potable",
+      "display_replacement": "potable",
       "similarity": 1.0
     }
   ]
