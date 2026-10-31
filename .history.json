@@ -1593,6 +1593,9 @@
     ],
     "ten": [
       "10"
+    ],
+    "usage": [
+      "utilisation"
     ]
   },
   "changes": [
@@ -6992,6 +6995,14 @@
       "replacement_word": "ground",
       "display_replacement": "ground",
       "similarity": 0.4615
+    },
+    {
+      "timestamp": "2026-10-31T10:16:45.784265Z",
+      "index": 688,
+      "original_word": "usage",
+      "replacement_word": "utilisation",
+      "display_replacement": "utilisation",
+      "similarity": 1.0
     }
   ]
 }
