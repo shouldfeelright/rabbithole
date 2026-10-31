@@ -633,7 +633,8 @@
     ],
     "earth": [
       "world",
-      "globe"
+      "globe",
+      "ground"
     ],
     "house": [
       "menage"
@@ -6983,6 +6984,14 @@
       "replacement_word": "10",
       "display_replacement": "10",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-10-31T10:16:39.773136Z",
+      "index": 304,
+      "original_word": "earth",
+      "replacement_word": "ground",
+      "display_replacement": "ground",
+      "similarity": 0.4615
     }
   ]
 }

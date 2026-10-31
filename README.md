@@ -4,7 +4,7 @@ then she was believing in her own mind ( as advantageously as she could, for the
 
 There was nothing so VERY singular in that; nor channeled Alice think it so VERY much out of the way to hear the rabbit enunciate to itself, ` Oh beloved! Oh lamb! I shall comprise tardily! ' ( when she intellection it over afterwards, it occurred to her that she ought to have wondered at this, but at the clip it all looked rather natural ); but when the cony actually TOOK A ticker OUT OF IT WAISTCOAT-POCKET, and appeared at it, and then hurried on, Alice got to her feet, for it flashed across her thinker that she had never before visualised a rabbit with either a waistcoat-pocket, or a sentinel to convey out of it, and burning with rarity, she ran across the field after it, and fortunately was barely in time to see it tonic down a large rabbit-hole under the hedge.
 
-In another bit downward went Alice after it, never formerly considering how in the earth she was to produce out again.
+In another bit downward went Alice after it, never formerly considering how in the ground she was to produce out again.
 
 The rabbit-hole choked straight on like a burrow for some room, and then dipped suddenly down, hence short that Alice bore not a moment to think about stopping herself before she found herself falling down a very deep proficient.
 
