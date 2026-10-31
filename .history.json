@@ -1589,6 +1589,9 @@
     ],
     "beverage": [
       "potable"
+    ],
+    "ten": [
+      "10"
     ]
   },
   "changes": [
@@ -6971,6 +6974,14 @@
       "original_word": "beverage",
       "replacement_word": "potable",
       "display_replacement": "potable",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-10-31T10:16:33.341016Z",
+      "index": 1976,
+      "original_word": "ten",
+      "replacement_word": "10",
+      "display_replacement": "10",
       "similarity": 1.0
     }
   ]
