@@ -525,7 +525,8 @@
     ],
     "dark": [
       "darkness",
-      "nighttime"
+      "nighttime",
+      "shadow"
     ],
     "gladiola": [
       "glad"
@@ -7003,6 +7004,14 @@
       "replacement_word": "utilisation",
       "display_replacement": "utilisation",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-11-01T11:10:23.675148Z",
+      "index": 1516,
+      "original_word": "dark",
+      "replacement_word": "shadow",
+      "display_replacement": "shadow",
+      "similarity": 0.8
     }
   ]
 }
