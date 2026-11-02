@@ -1601,6 +1601,9 @@
     ],
     "equals": [
       "match"
+    ],
+    "clip": [
+      "magazine"
     ]
   },
   "changes": [
@@ -7032,6 +7035,14 @@
       "replacement_word": "own",
       "display_replacement": "owned",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-11-02T12:11:39.125478Z",
+      "index": 193,
+      "original_word": "clip",
+      "replacement_word": "magazine",
+      "display_replacement": "magazine",
+      "similarity": 0.5714
     }
   ]
 }
