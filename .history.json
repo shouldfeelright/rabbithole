@@ -180,7 +180,8 @@
       "get",
       "birth",
       "receive",
-      "make"
+      "make",
+      "own"
     ],
     "indeed": [
       "so"
@@ -7023,6 +7024,14 @@
       "replacement_word": "match",
       "display_replacement": "match",
       "similarity": 0.4706
+    },
+    {
+      "timestamp": "2026-11-02T12:11:33.721356Z",
+      "index": 1814,
+      "original_word": "had",
+      "replacement_word": "own",
+      "display_replacement": "owned",
+      "similarity": 0.5
     }
   ]
 }
