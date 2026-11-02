@@ -1604,6 +1604,9 @@
     ],
     "clip": [
       "magazine"
+    ],
+    "antipathy": [
+      "distaste"
     ]
   },
   "changes": [
@@ -7043,6 +7046,14 @@
       "replacement_word": "magazine",
       "display_replacement": "magazine",
       "similarity": 0.5714
+    },
+    {
+      "timestamp": "2026-11-02T12:11:44.311785Z",
+      "index": 779,
+      "original_word": "antipathy",
+      "replacement_word": "distaste",
+      "display_replacement": "distaste",
+      "similarity": 1.0
     }
   ]
 }
