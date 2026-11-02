@@ -1597,6 +1597,9 @@
     ],
     "usage": [
       "utilisation"
+    ],
+    "equals": [
+      "match"
     ]
   },
   "changes": [
@@ -7012,6 +7015,14 @@
       "replacement_word": "shadow",
       "display_replacement": "shadow",
       "similarity": 0.8
+    },
+    {
+      "timestamp": "2026-11-02T12:11:28.194262Z",
+      "index": 2087,
+      "original_word": "equals",
+      "replacement_word": "match",
+      "display_replacement": "match",
+      "similarity": 0.4706
     }
   ]
 }
