@@ -188,7 +188,8 @@
     ],
     "nice": [
       "gracious",
-      "squeamish"
+      "squeamish",
+      "prissy"
     ],
     "same": [
       "like"
@@ -7074,6 +7075,14 @@
       "replacement_word": "burn",
       "display_replacement": "burn",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-11-03T11:46:39.712695Z",
+      "index": 736,
+      "original_word": "nice",
+      "replacement_word": "prissy",
+      "display_replacement": "prissy",
+      "similarity": 0.5
     }
   ]
 }
