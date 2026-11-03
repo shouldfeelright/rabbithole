@@ -1612,6 +1612,9 @@
     ],
     "apparel": [
       "dress"
+    ],
+    "lightened": [
+      "lighten"
     ]
   },
   "changes": [
@@ -7083,6 +7086,14 @@
       "replacement_word": "prissy",
       "display_replacement": "prissy",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-11-03T11:46:44.610929Z",
+      "index": 1983,
+      "original_word": "lightened",
+      "replacement_word": "lighten",
+      "display_replacement": "lightened",
+      "similarity": 1.0
     }
   ]
 }
