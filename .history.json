@@ -208,7 +208,8 @@
       "intellection",
       "idea",
       "cerebration",
-      "sentiment"
+      "sentiment",
+      "mentation"
     ],
     "winder": [
       "key"
@@ -7094,6 +7095,14 @@
       "replacement_word": "lighten",
       "display_replacement": "lightened",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-11-04T11:58:31.836265Z",
+      "index": 2330,
+      "original_word": "thought",
+      "replacement_word": "mentation",
+      "display_replacement": "mentation",
+      "similarity": 0.6154
     }
   ]
 }
