@@ -515,7 +515,8 @@
     "going": [
       "choke",
       "locomote",
-      "function"
+      "function",
+      "travel"
     ],
     "be": [
       "comprise",
@@ -7112,6 +7113,14 @@
       "replacement_word": "capitulation",
       "display_replacement": "capitulation",
       "similarity": 0.2857
+    },
+    {
+      "timestamp": "2026-11-04T11:58:42.592795Z",
+      "index": 2116,
+      "original_word": "going",
+      "replacement_word": "travel",
+      "display_replacement": "travelling",
+      "similarity": 1.0
     }
   ]
 }
