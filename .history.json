@@ -588,7 +588,8 @@
       "autumn",
       "downfall",
       "twilight",
-      "drop"
+      "drop",
+      "capitulation"
     ],
     "looked": [
       "appear",
@@ -7103,6 +7104,14 @@
       "replacement_word": "mentation",
       "display_replacement": "mentation",
       "similarity": 0.6154
+    },
+    {
+      "timestamp": "2026-11-04T11:58:37.351541Z",
+      "index": 523,
+      "original_word": "fall",
+      "replacement_word": "capitulation",
+      "display_replacement": "capitulation",
+      "similarity": 0.2857
     }
   ]
 }
