@@ -630,7 +630,8 @@
     "were": [
       "cost",
       "live",
-      "embody"
+      "embody",
+      "equal"
     ],
     "discovered": [
       "strike"
@@ -7121,6 +7122,14 @@
       "replacement_word": "travel",
       "display_replacement": "travelling",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-11-05T12:03:44.681602Z",
+      "index": 1623,
+      "original_word": "were",
+      "replacement_word": "equal",
+      "display_replacement": "equalled",
+      "similarity": 0.5
     }
   ]
 }
