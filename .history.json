@@ -1620,6 +1620,9 @@
     ],
     "lightened": [
       "lighten"
+    ],
+    "constructed": [
+      "build"
     ]
   },
   "changes": [
@@ -7139,6 +7142,14 @@
       "replacement_word": "follow",
       "display_replacement": "follow",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-11-06T11:57:51.961893Z",
+      "index": 1910,
+      "original_word": "constructed",
+      "replacement_word": "build",
+      "display_replacement": "built",
+      "similarity": 1.0
     }
   ]
 }
