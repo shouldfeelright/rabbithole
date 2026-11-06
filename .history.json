@@ -1481,7 +1481,8 @@
       "curtsey"
     ],
     "use": [
-      "utilisation"
+      "utilisation",
+      "purpose"
     ],
     "coiffure": [
       "hairdo"
@@ -7150,6 +7151,14 @@
       "replacement_word": "build",
       "display_replacement": "built",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-11-06T11:57:58.221883Z",
+      "index": 2224,
+      "original_word": "use",
+      "replacement_word": "purpose",
+      "display_replacement": "purpose",
+      "similarity": 0.4286
     }
   ]
 }
