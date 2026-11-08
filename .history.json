@@ -1627,6 +1627,9 @@
     ],
     "phase": [
       "form"
+    ],
+    "tardily": [
+      "slowly"
     ]
   },
   "changes": [
@@ -7170,6 +7173,14 @@
       "replacement_word": "form",
       "display_replacement": "form",
       "similarity": 0.3077
+    },
+    {
+      "timestamp": "2026-11-08T11:10:56.439215Z",
+      "index": 1244,
+      "original_word": "tardily",
+      "replacement_word": "slowly",
+      "display_replacement": "slowly",
+      "similarity": 1.0
     }
   ]
 }
