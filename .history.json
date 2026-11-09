@@ -1209,7 +1209,8 @@
       "tang"
     ],
     "mode": [
-      "fashion"
+      "fashion",
+      "style"
     ],
     "taste": [
       "mouthful"
@@ -7180,6 +7181,14 @@
       "original_word": "tardily",
       "replacement_word": "slowly",
       "display_replacement": "slowly",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-11-09T12:42:38.210566Z",
+      "index": 2479,
+      "original_word": "mode",
+      "replacement_word": "style",
+      "display_replacement": "style",
       "similarity": 1.0
     }
   ]
