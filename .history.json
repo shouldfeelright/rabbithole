@@ -1149,7 +1149,8 @@
     ],
     "equalled": [
       "equal",
-      "equate"
+      "equate",
+      "be"
     ],
     "waiting": [
       "look"
@@ -7190,6 +7191,14 @@
       "replacement_word": "style",
       "display_replacement": "style",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-11-09T12:42:43.528258Z",
+      "index": 1623,
+      "original_word": "equalled",
+      "replacement_word": "be",
+      "display_replacement": "been",
+      "similarity": 0.5
     }
   ]
 }
