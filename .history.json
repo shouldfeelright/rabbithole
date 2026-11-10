@@ -383,7 +383,8 @@
     "hall": [
       "hallway",
       "dorm",
-      "vestibule"
+      "vestibule",
+      "anteroom"
     ],
     "killing": [
       "down"
@@ -7210,6 +7211,14 @@
       "replacement_word": "crepuscule",
       "display_replacement": "crepuscule",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-11-10T12:23:58.004854Z",
+      "index": 1279,
+      "original_word": "hall",
+      "replacement_word": "anteroom",
+      "display_replacement": "anteroom",
+      "similarity": 0.5263
     }
   ]
 }
