@@ -402,7 +402,8 @@
       "weirdie"
     ],
     "growing": [
-      "grow"
+      "grow",
+      "originate"
     ],
     "candle": [
       "cd"
@@ -7230,6 +7231,14 @@
       "replacement_word": "firstly",
       "display_replacement": "firstly",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-11-11T11:46:37.203394Z",
+      "index": 2498,
+      "original_word": "growing",
+      "replacement_word": "originate",
+      "display_replacement": "originating",
+      "similarity": 0.3333
     }
   ]
 }
