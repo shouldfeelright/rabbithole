@@ -1636,6 +1636,9 @@
     ],
     "twilight": [
       "crepuscule"
+    ],
+    "first": [
+      "firstly"
     ]
   },
   "changes": [
@@ -7219,6 +7222,14 @@
       "replacement_word": "anteroom",
       "display_replacement": "anteroom",
       "similarity": 0.5263
+    },
+    {
+      "timestamp": "2026-11-11T11:46:31.573321Z",
+      "index": 1757,
+      "original_word": "first",
+      "replacement_word": "firstly",
+      "display_replacement": "firstly",
+      "similarity": 1.0
     }
   ]
 }
