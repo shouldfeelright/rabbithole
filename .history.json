@@ -1397,7 +1397,8 @@
       "certainly"
     ],
     "appeared": [
-      "appear"
+      "appear",
+      "seem"
     ],
     "walk": [
       "walking"
@@ -7239,6 +7240,14 @@
       "replacement_word": "originate",
       "display_replacement": "originating",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-11-12T12:26:25.746170Z",
+      "index": 1174,
+      "original_word": "appeared",
+      "replacement_word": "seem",
+      "display_replacement": "seemed",
+      "similarity": 1.0
     }
   ]
 }
