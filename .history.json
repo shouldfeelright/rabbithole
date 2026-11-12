@@ -1641,6 +1641,9 @@
     ],
     "first": [
       "firstly"
+    ],
+    "potpourri": [
+      "smorgasbord"
     ]
   },
   "changes": [
@@ -7247,6 +7250,14 @@
       "original_word": "appeared",
       "replacement_word": "seem",
       "display_replacement": "seemed",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-11-12T12:26:32.262043Z",
+      "index": 651,
+      "original_word": "potpourri",
+      "replacement_word": "smorgasbord",
+      "display_replacement": "smorgasbord",
       "similarity": 1.0
     }
   ]
