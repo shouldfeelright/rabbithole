@@ -1654,6 +1654,9 @@
     ],
     "someone": [
       "individual"
+    ],
+    "nonetheless": [
+      "however"
     ]
   },
   "changes": [
@@ -7301,6 +7304,14 @@
       "replacement_word": "individual",
       "display_replacement": "individual",
       "similarity": 0.8571
+    },
+    {
+      "timestamp": "2026-11-13T12:01:40.406508Z",
+      "index": 684,
+      "original_word": "nonetheless",
+      "replacement_word": "however",
+      "display_replacement": "however",
+      "similarity": 1.0
     }
   ]
 }
