@@ -1644,6 +1644,9 @@
     ],
     "potpourri": [
       "smorgasbord"
+    ],
+    "cycle": [
+      "hertz"
     ]
   },
   "changes": [
@@ -7259,6 +7262,14 @@
       "replacement_word": "smorgasbord",
       "display_replacement": "smorgasbord",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-11-13T12:01:16.868394Z",
+      "index": 1299,
+      "original_word": "cycle",
+      "replacement_word": "hertz",
+      "display_replacement": "hertz",
+      "similarity": 0.3636
     }
   ]
 }
