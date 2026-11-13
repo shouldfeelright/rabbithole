@@ -1404,7 +1404,8 @@
       "walking"
     ],
     "cost": [
-      "price"
+      "price",
+      "toll"
     ],
     "scope": [
       "ambit"
@@ -7270,6 +7271,14 @@
       "replacement_word": "hertz",
       "display_replacement": "hertz",
       "similarity": 0.3636
+    },
+    {
+      "timestamp": "2026-11-13T12:01:22.913332Z",
+      "index": 1,
+      "original_word": "cost",
+      "replacement_word": "toll",
+      "display_replacement": "toll",
+      "similarity": 0.7778
     }
   ]
 }
