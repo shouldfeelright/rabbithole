@@ -1648,6 +1648,9 @@
     ],
     "cycle": [
       "hertz"
+    ],
+    "mapping": [
+      "map"
     ]
   },
   "changes": [
@@ -7279,6 +7282,14 @@
       "replacement_word": "toll",
       "display_replacement": "toll",
       "similarity": 0.7778
+    },
+    {
+      "timestamp": "2026-11-13T12:01:28.684991Z",
+      "index": 442,
+      "original_word": "mapping",
+      "replacement_word": "map",
+      "display_replacement": "map",
+      "similarity": 0.1538
     }
   ]
 }
