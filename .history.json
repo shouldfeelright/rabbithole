@@ -1651,6 +1651,9 @@
     ],
     "mapping": [
       "map"
+    ],
+    "someone": [
+      "individual"
     ]
   },
   "changes": [
@@ -7290,6 +7293,14 @@
       "replacement_word": "map",
       "display_replacement": "map",
       "similarity": 0.1538
+    },
+    {
+      "timestamp": "2026-11-13T12:01:34.736910Z",
+      "index": 2355,
+      "original_word": "someone",
+      "replacement_word": "individual",
+      "display_replacement": "individual",
+      "similarity": 0.8571
     }
   ]
 }
