@@ -1657,6 +1657,9 @@
     ],
     "nonetheless": [
       "however"
+    ],
+    "cony": [
+      "hyrax"
     ]
   },
   "changes": [
@@ -7311,6 +7314,14 @@
       "original_word": "nonetheless",
       "replacement_word": "however",
       "display_replacement": "however",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-11-14T11:19:10.700994Z",
+      "index": 204,
+      "original_word": "cony",
+      "replacement_word": "hyrax",
+      "display_replacement": "hyrax",
       "similarity": 1.0
     }
   ]
