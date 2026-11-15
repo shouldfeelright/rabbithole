@@ -1661,6 +1661,9 @@
     ],
     "cony": [
       "hyrax"
+    ],
+    "prognosticated": [
+      "presage"
     ]
   },
   "changes": [
@@ -7332,6 +7335,14 @@
       "replacement_word": "check",
       "display_replacement": "check",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-11-15T11:51:33.264323Z",
+      "index": 2216,
+      "original_word": "prognosticated",
+      "replacement_word": "presage",
+      "display_replacement": "presaged",
+      "similarity": 0.1429
     }
   ]
 }
