@@ -1664,6 +1664,9 @@
     ],
     "prognosticated": [
       "presage"
+    ],
+    "slight": [
+      "rebuff"
     ]
   },
   "changes": [
@@ -7343,6 +7346,14 @@
       "replacement_word": "presage",
       "display_replacement": "presaged",
       "similarity": 0.1429
+    },
+    {
+      "timestamp": "2026-11-15T11:51:38.533419Z",
+      "index": 1999,
+      "original_word": "slight",
+      "replacement_word": "rebuff",
+      "display_replacement": "rebuff",
+      "similarity": 1.0
     }
   ]
 }
