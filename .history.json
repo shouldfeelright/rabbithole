@@ -354,7 +354,8 @@
       "look",
       "visit",
       "examine",
-      "construe"
+      "construe",
+      "check"
     ],
     "shortly": [
       "presently"
@@ -7323,6 +7324,14 @@
       "replacement_word": "hyrax",
       "display_replacement": "hyrax",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-11-15T11:51:27.871650Z",
+      "index": 2169,
+      "original_word": "see",
+      "replacement_word": "check",
+      "display_replacement": "check",
+      "similarity": 0.3333
     }
   ]
 }
