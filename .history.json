@@ -1667,6 +1667,9 @@
     ],
     "slight": [
       "rebuff"
+    ],
+    "best": [
+      "dependable"
     ]
   },
   "changes": [
@@ -7354,6 +7357,14 @@
       "replacement_word": "rebuff",
       "display_replacement": "rebuff",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-11-16T12:33:56.279210Z",
+      "index": 2181,
+      "original_word": "best",
+      "replacement_word": "dependable",
+      "display_replacement": "dependable",
+      "similarity": 0.5
     }
   ]
 }
