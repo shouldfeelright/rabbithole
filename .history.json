@@ -453,7 +453,8 @@
     "nothing": [
       "zippo",
       "naught",
-      "cypher"
+      "cypher",
+      "zero"
     ],
     "fell": [
       "devolve",
@@ -7398,6 +7399,14 @@
       "replacement_word": "backward",
       "display_replacement": "backward",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-11-16T12:34:17.605288Z",
+      "index": 129,
+      "original_word": "nothing",
+      "replacement_word": "zero",
+      "display_replacement": "zero",
+      "similarity": 1.0
     }
   ]
 }
