@@ -1673,6 +1673,9 @@
     ],
     "centre": [
       "center"
+    ],
+    "wonderment": [
+      "wonder"
     ]
   },
   "changes": [
@@ -7376,6 +7379,14 @@
       "replacement_word": "center",
       "display_replacement": "center",
       "similarity": 0.6667
+    },
+    {
+      "timestamp": "2026-11-16T12:34:07.111826Z",
+      "index": 1008,
+      "original_word": "wonderment",
+      "replacement_word": "wonder",
+      "display_replacement": "wonder",
+      "similarity": 1.0
     }
   ]
 }
