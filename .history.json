@@ -1670,6 +1670,9 @@
     ],
     "best": [
       "dependable"
+    ],
+    "centre": [
+      "center"
     ]
   },
   "changes": [
@@ -7365,6 +7368,14 @@
       "replacement_word": "dependable",
       "display_replacement": "dependable",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-11-16T12:34:01.802802Z",
+      "index": 617,
+      "original_word": "centre",
+      "replacement_word": "center",
+      "display_replacement": "center",
+      "similarity": 0.6667
     }
   ]
 }
