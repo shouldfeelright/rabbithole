@@ -1676,6 +1676,9 @@
     ],
     "wonderment": [
       "wonder"
+    ],
+    "back": [
+      "backward"
     ]
   },
   "changes": [
@@ -7387,6 +7390,14 @@
       "replacement_word": "wonder",
       "display_replacement": "wonder",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-11-16T12:34:12.234535Z",
+      "index": 2151,
+      "original_word": "back",
+      "replacement_word": "backward",
+      "display_replacement": "backward",
+      "similarity": 0.5
     }
   ]
 }
