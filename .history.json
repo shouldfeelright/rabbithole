@@ -1688,6 +1688,9 @@
     ],
     "tailed": [
       "tail"
+    ],
+    "picture": [
+      "ikon"
     ]
   },
   "changes": [
@@ -7446,6 +7449,14 @@
       "original_word": "tailed",
       "replacement_word": "tail",
       "display_replacement": "tailed",
+      "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-11-17T12:59:49.339168Z",
+      "index": 61,
+      "original_word": "picture",
+      "replacement_word": "ikon",
+      "display_replacement": "ikon",
       "similarity": 1.0
     }
   ]
