@@ -1682,6 +1682,9 @@
     ],
     "back": [
       "backward"
+    ],
+    "likely": [
+      "probable"
     ]
   },
   "changes": [
@@ -7425,6 +7428,14 @@
       "replacement_word": "meet",
       "display_replacement": "meet",
       "similarity": 0.4
+    },
+    {
+      "timestamp": "2026-11-17T12:59:38.094397Z",
+      "index": 572,
+      "original_word": "likely",
+      "replacement_word": "probable",
+      "display_replacement": "probable",
+      "similarity": 0.5
     }
   ]
 }
