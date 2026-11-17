@@ -1685,6 +1685,9 @@
     ],
     "likely": [
       "probable"
+    ],
+    "tailed": [
+      "tail"
     ]
   },
   "changes": [
@@ -7436,6 +7439,14 @@
       "replacement_word": "probable",
       "display_replacement": "probable",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-11-17T12:59:43.473132Z",
+      "index": 465,
+      "original_word": "tailed",
+      "replacement_word": "tail",
+      "display_replacement": "tailed",
+      "similarity": 1.0
     }
   ]
 }
