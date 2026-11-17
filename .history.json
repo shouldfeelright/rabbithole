@@ -265,7 +265,8 @@
       "behave",
       "perform",
       "suffice",
-      "come"
+      "come",
+      "coif"
     ],
     "half": [
       "one-half"
@@ -7407,6 +7408,14 @@
       "replacement_word": "zero",
       "display_replacement": "zero",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-11-17T12:59:26.969878Z",
+      "index": 1070,
+      "original_word": "did",
+      "replacement_word": "coif",
+      "display_replacement": "coiffed",
+      "similarity": 0.4
     }
   ]
 }
