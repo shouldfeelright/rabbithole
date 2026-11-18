@@ -1564,7 +1564,8 @@
       "intend"
     ],
     "corner": [
-      "recession"
+      "recession",
+      "nook"
     ],
     "remained": [
       "stay"
@@ -7458,6 +7459,14 @@
       "replacement_word": "ikon",
       "display_replacement": "ikon",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-11-18T12:53:15.135970Z",
+      "index": 1234,
+      "original_word": "corner",
+      "replacement_word": "nook",
+      "display_replacement": "nook",
+      "similarity": 0.8
     }
   ]
 }
