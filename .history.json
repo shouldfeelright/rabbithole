@@ -1693,6 +1693,9 @@
     ],
     "picture": [
       "ikon"
+    ],
+    "been": [
+      "exist"
     ]
   },
   "changes": [
@@ -7475,6 +7478,14 @@
       "original_word": "back",
       "replacement_word": "rearwards",
       "display_replacement": "rearwards",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-11-18T12:53:25.934192Z",
+      "index": 1313,
+      "original_word": "been",
+      "replacement_word": "exist",
+      "display_replacement": "existed",
       "similarity": 0.5
     }
   ]
