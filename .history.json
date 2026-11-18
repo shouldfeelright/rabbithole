@@ -1682,7 +1682,8 @@
       "wonder"
     ],
     "back": [
-      "backward"
+      "backward",
+      "rearwards"
     ],
     "likely": [
       "probable"
@@ -7467,6 +7468,14 @@
       "replacement_word": "nook",
       "display_replacement": "nook",
       "similarity": 0.8
+    },
+    {
+      "timestamp": "2026-11-18T12:53:20.627383Z",
+      "index": 1643,
+      "original_word": "back",
+      "replacement_word": "rearwards",
+      "display_replacement": "rearwards",
+      "similarity": 0.5
     }
   ]
 }
