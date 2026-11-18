@@ -152,7 +152,8 @@
       "suppose",
       "state",
       "enunciate",
-      "enounce"
+      "enounce",
+      "allege"
     ],
     "time": [
       "sentence",
@@ -7487,6 +7488,14 @@
       "replacement_word": "exist",
       "display_replacement": "existed",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-11-18T12:53:31.330612Z",
+      "index": 690,
+      "original_word": "say",
+      "replacement_word": "allege",
+      "display_replacement": "allege",
+      "similarity": 0.2857
     }
   ]
 }
