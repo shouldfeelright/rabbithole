@@ -1698,6 +1698,9 @@
     ],
     "been": [
       "exist"
+    ],
+    "short": [
+      "brusk"
     ]
   },
   "changes": [
@@ -7505,6 +7508,14 @@
       "replacement_word": "function",
       "display_replacement": "function",
       "similarity": 0.1538
+    },
+    {
+      "timestamp": "2026-11-19T12:44:11.058266Z",
+      "index": 331,
+      "original_word": "short",
+      "replacement_word": "brusk",
+      "display_replacement": "brusk",
+      "similarity": 0.5
     }
   ]
 }
