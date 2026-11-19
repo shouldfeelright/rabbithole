@@ -1701,6 +1701,9 @@
     ],
     "short": [
       "brusk"
+    ],
+    "traced": [
+      "retrace"
     ]
   },
   "changes": [
@@ -7516,6 +7519,14 @@
       "replacement_word": "brusk",
       "display_replacement": "brusk",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-11-19T12:44:16.466862Z",
+      "index": 1725,
+      "original_word": "traced",
+      "replacement_word": "retrace",
+      "display_replacement": "retraced",
+      "similarity": 0.2857
     }
   ]
 }
