@@ -531,7 +531,8 @@
       "equal",
       "constitute",
       "embody",
-      "follow"
+      "follow",
+      "cost"
     ],
     "pleasure": [
       "joy"
@@ -7527,6 +7528,14 @@
       "replacement_word": "retrace",
       "display_replacement": "retraced",
       "similarity": 0.2857
+    },
+    {
+      "timestamp": "2026-11-20T12:40:41.918730Z",
+      "index": 1563,
+      "original_word": "be",
+      "replacement_word": "cost",
+      "display_replacement": "cost",
+      "similarity": 0.6667
     }
   ]
 }
