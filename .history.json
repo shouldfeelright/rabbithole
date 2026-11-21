@@ -1706,6 +1706,9 @@
     ],
     "traced": [
       "retrace"
+    ],
+    "disappointment": [
+      "letdown"
     ]
   },
   "changes": [
@@ -7545,6 +7548,14 @@
       "replacement_word": "flavor",
       "display_replacement": "flavor",
       "similarity": 0.4286
+    },
+    {
+      "timestamp": "2026-11-21T12:21:46.666316Z",
+      "index": 475,
+      "original_word": "disappointment",
+      "replacement_word": "letdown",
+      "display_replacement": "letdown",
+      "similarity": 1.0
     }
   ]
 }
