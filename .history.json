@@ -1710,6 +1710,9 @@
     ],
     "disappointment": [
       "letdown"
+    ],
+    "double": [
+      "twice"
     ]
   },
   "changes": [
@@ -7564,6 +7567,14 @@
       "original_word": "got",
       "replacement_word": "have",
       "display_replacement": "had",
+      "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-11-21T12:21:55.588848Z",
+      "index": 25,
+      "original_word": "double",
+      "replacement_word": "twice",
+      "display_replacement": "twice",
       "similarity": 0.5
     }
   ]
