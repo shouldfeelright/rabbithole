@@ -1421,7 +1421,8 @@
     ],
     "got": [
       "develop",
-      "fix"
+      "fix",
+      "have"
     ],
     "game": [
       "biz"
@@ -7556,6 +7557,14 @@
       "replacement_word": "letdown",
       "display_replacement": "letdown",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-11-21T12:21:51.121845Z",
+      "index": 721,
+      "original_word": "got",
+      "replacement_word": "have",
+      "display_replacement": "had",
+      "similarity": 0.5
     }
   ]
 }
