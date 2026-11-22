@@ -668,7 +668,8 @@
       "exercise"
     ],
     "mind": [
-      "thinker"
+      "thinker",
+      "intellect"
     ],
     "lately": [
       "recently"
@@ -7594,6 +7595,14 @@
       "replacement_word": "order",
       "display_replacement": "ordered",
       "similarity": 0.1667
+    },
+    {
+      "timestamp": "2026-11-22T12:25:03.197615Z",
+      "index": 73,
+      "original_word": "mind",
+      "replacement_word": "intellect",
+      "display_replacement": "intellect",
+      "similarity": 0.6667
     }
   ]
 }
