@@ -1719,6 +1719,9 @@
     ],
     "saw": [
       "adage"
+    ],
+    "ground": [
+      "primer"
     ]
   },
   "changes": [
@@ -7614,6 +7617,14 @@
       "replacement_word": "adage",
       "display_replacement": "adage",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-11-23T14:17:40.077032Z",
+      "index": 304,
+      "original_word": "ground",
+      "replacement_word": "primer",
+      "display_replacement": "primer",
+      "similarity": 0.375
     }
   ]
 }
