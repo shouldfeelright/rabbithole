@@ -1722,6 +1722,9 @@
     ],
     "ground": [
       "primer"
+    ],
+    "undetermined": [
+      "open"
     ]
   },
   "changes": [
@@ -7625,6 +7628,14 @@
       "replacement_word": "primer",
       "display_replacement": "primer",
       "similarity": 0.375
+    },
+    {
+      "timestamp": "2026-11-23T14:17:45.664097Z",
+      "index": 1416,
+      "original_word": "undetermined",
+      "replacement_word": "open",
+      "display_replacement": "open",
+      "similarity": 0.5
     }
   ]
 }
