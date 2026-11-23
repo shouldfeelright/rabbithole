@@ -1716,6 +1716,9 @@
     ],
     "double": [
       "twice"
+    ],
+    "saw": [
+      "adage"
     ]
   },
   "changes": [
@@ -7603,6 +7606,14 @@
       "replacement_word": "intellect",
       "display_replacement": "intellect",
       "similarity": 0.6667
+    },
+    {
+      "timestamp": "2026-11-23T14:17:34.407136Z",
+      "index": 1496,
+      "original_word": "saw",
+      "replacement_word": "adage",
+      "display_replacement": "adage",
+      "similarity": 1.0
     }
   ]
 }
