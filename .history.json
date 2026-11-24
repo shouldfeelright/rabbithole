@@ -1725,6 +1725,9 @@
     ],
     "undetermined": [
       "open"
+    ],
+    "gone": [
+      "endure"
     ]
   },
   "changes": [
@@ -7636,6 +7639,14 @@
       "replacement_word": "open",
       "display_replacement": "open",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-11-24T14:41:56.748946Z",
+      "index": 920,
+      "original_word": "gone",
+      "replacement_word": "endure",
+      "display_replacement": "endured",
+      "similarity": 0.25
     }
   ]
 }
