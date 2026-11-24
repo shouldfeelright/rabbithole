@@ -1728,6 +1728,9 @@
     ],
     "gone": [
       "endure"
+    ],
+    "headstone": [
+      "tombstone"
     ]
   },
   "changes": [
@@ -7647,6 +7650,14 @@
       "replacement_word": "endure",
       "display_replacement": "endured",
       "similarity": 0.25
+    },
+    {
+      "timestamp": "2026-11-24T14:42:03.243313Z",
+      "index": 1370,
+      "original_word": "headstone",
+      "replacement_word": "tombstone",
+      "display_replacement": "tombstone",
+      "similarity": 0.75
     }
   ]
 }
