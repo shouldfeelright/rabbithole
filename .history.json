@@ -1731,6 +1731,9 @@
     ],
     "headstone": [
       "tombstone"
+    ],
+    "feel": [
+      "spirit"
     ]
   },
   "changes": [
@@ -7658,6 +7661,14 @@
       "replacement_word": "tombstone",
       "display_replacement": "tombstone",
       "similarity": 0.75
+    },
+    {
+      "timestamp": "2026-11-25T14:04:14.144230Z",
+      "index": 2506,
+      "original_word": "feel",
+      "replacement_word": "spirit",
+      "display_replacement": "spirit",
+      "similarity": 0.1429
     }
   ]
 }
