@@ -1740,6 +1740,9 @@
     ],
     "thusly": [
       "so"
+    ],
+    "clue": [
+      "clew"
     ]
   },
   "changes": [
@@ -7691,6 +7694,14 @@
       "replacement_word": "so",
       "display_replacement": "so",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-11-26T13:42:54.617901Z",
+      "index": 1218,
+      "original_word": "clue",
+      "replacement_word": "clew",
+      "display_replacement": "clew",
+      "similarity": 0.3333
     }
   ]
 }
