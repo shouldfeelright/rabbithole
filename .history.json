@@ -1734,6 +1734,9 @@
     ],
     "feel": [
       "spirit"
+    ],
+    "lessons": [
+      "moral"
     ]
   },
   "changes": [
@@ -7669,6 +7672,14 @@
       "replacement_word": "spirit",
       "display_replacement": "spirit",
       "similarity": 0.1429
+    },
+    {
+      "timestamp": "2026-11-26T13:42:45.751799Z",
+      "index": 654,
+      "original_word": "lessons",
+      "replacement_word": "moral",
+      "display_replacement": "moral",
+      "similarity": 0.2353
     }
   ]
 }
