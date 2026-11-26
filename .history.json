@@ -1737,6 +1737,9 @@
     ],
     "lessons": [
       "moral"
+    ],
+    "thusly": [
+      "so"
     ]
   },
   "changes": [
@@ -7680,6 +7683,14 @@
       "replacement_word": "moral",
       "display_replacement": "moral",
       "similarity": 0.2353
+    },
+    {
+      "timestamp": "2026-11-26T13:42:50.193903Z",
+      "index": 2530,
+      "original_word": "thusly",
+      "replacement_word": "so",
+      "display_replacement": "so",
+      "similarity": 0.5
     }
   ]
 }
