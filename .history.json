@@ -1350,7 +1350,8 @@
       "personate"
     ],
     "feet": [
-      "foot"
+      "foot",
+      "pes"
     ],
     "xv": [
       "15"
@@ -7702,6 +7703,14 @@
       "replacement_word": "clew",
       "display_replacement": "clew",
       "similarity": 0.3333
+    },
+    {
+      "timestamp": "2026-11-27T13:39:46.048787Z",
+      "index": 228,
+      "original_word": "feet",
+      "replacement_word": "pes",
+      "display_replacement": "pes",
+      "similarity": 1.0
     }
   ]
 }
