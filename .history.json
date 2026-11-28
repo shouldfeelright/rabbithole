@@ -582,7 +582,8 @@
     ],
     "having": [
       "have",
-      "experience"
+      "experience",
+      "own"
     ],
     "fiddling": [
       "diddle"
@@ -7720,6 +7721,14 @@
       "replacement_word": "WA",
       "display_replacement": "WA",
       "similarity": 1.0
+    },
+    {
+      "timestamp": "2026-11-28T12:50:04.443398Z",
+      "index": 18,
+      "original_word": "having",
+      "replacement_word": "own",
+      "display_replacement": "owning",
+      "similarity": 0.5
     }
   ]
 }
