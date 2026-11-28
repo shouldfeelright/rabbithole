@@ -360,7 +360,8 @@
       "examine",
       "construe",
       "check",
-      "meet"
+      "meet",
+      "find"
     ],
     "shortly": [
       "presently"
@@ -7740,6 +7741,14 @@
       "replacement_word": "manus",
       "display_replacement": "manus",
       "similarity": 0.7778
+    },
+    {
+      "timestamp": "2026-11-28T12:50:15.850779Z",
+      "index": 624,
+      "original_word": "see",
+      "replacement_word": "find",
+      "display_replacement": "find",
+      "similarity": 0.4
     }
   ]
 }
