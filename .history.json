@@ -1746,6 +1746,9 @@
     ],
     "clue": [
       "clew"
+    ],
+    "paw": [
+      "manus"
     ]
   },
   "changes": [
@@ -7729,6 +7732,14 @@
       "replacement_word": "own",
       "display_replacement": "owning",
       "similarity": 0.5
+    },
+    {
+      "timestamp": "2026-11-28T12:50:10.236110Z",
+      "index": 1100,
+      "original_word": "paw",
+      "replacement_word": "manus",
+      "display_replacement": "manus",
+      "similarity": 0.7778
     }
   ]
 }
